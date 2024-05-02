@@ -24,7 +24,7 @@ https://github.com/PLS369/pulsechain-tokens-folder
 - info.json
 - logo.png
 
-*** Hotlinking ***
+** Hotlinking **
 Given the data changes constantly we'd recommend hotlinking the images rather than forking this repo.
 You can hotlink directly from the github like so:
 
