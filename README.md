@@ -7,6 +7,7 @@ This project aims to provide a resource for developers and projects which can be
 ### Editing the data
 
 Add token metadata and logo on this page: https://tokens.pls369.com/
+
 Do no make an issue in this repository for adding or aditing token data.
 
 ### Using the data
@@ -14,9 +15,11 @@ Do no make an issue in this repository for adding or aditing token data.
 The data is provided in 2 formats, each in it's own respository so it can be included in your project as a sub-module:
 
 https://github.com/PLS369/pulsechain-tokens-flat
+
 contract-address.png
 
 https://github.com/PLS369/pulsechain-tokens-folder
+
 /contract-address/
 - info.json
 - logo.png
