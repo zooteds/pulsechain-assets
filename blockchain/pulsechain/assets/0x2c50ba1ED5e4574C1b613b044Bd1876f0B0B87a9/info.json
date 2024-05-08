@@ -1,0 +1,12 @@
+{
+    "name": "Kids Cash",
+    "symbol": "KASH",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Governance by Traders for Traders. By linking game-theory and collective intelligence, we aim to welcome thousands of traders, analysts and thinkers to KASH.",
+    "website": "https://kash.community",
+    "explorer": "https://scan.pulsechain.com/token/0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+    "status": "active",
+    "id": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+    "chain": 369
+}

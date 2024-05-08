@@ -1,0 +1,10 @@
+{
+    "name": "TITAN X from Ethereum",
+    "symbol": "TITANX",
+    "id": "0xBE3381E831C035169B92EF0Cc4759C570528577d",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF19308F923582A6f7c465e5CE7a9Dc1BEC6665B1.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xBE3381E831C035169B92EF0Cc4759C570528577d",
+    "chain": 369
+}

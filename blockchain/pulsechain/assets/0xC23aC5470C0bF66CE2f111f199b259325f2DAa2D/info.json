@@ -1,0 +1,10 @@
+{
+    "name": "Love.io from Ethereum",
+    "symbol": "LOVE",
+    "id": "0xC23aC5470C0bF66CE2f111f199b259325f2DAa2D",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xb55EE890426341FE45EE6dc788D2D93d25B59063.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xC23aC5470C0bF66CE2f111f199b259325f2DAa2D",
+    "chain": 369
+}

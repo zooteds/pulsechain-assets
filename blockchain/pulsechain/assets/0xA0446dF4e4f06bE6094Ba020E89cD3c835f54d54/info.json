@@ -1,0 +1,42 @@
+{
+    "name": "AllianceBlock Token from Ethereum",
+    "symbol": "ALBT",
+    "id": "0xA0446dF4e4f06bE6094Ba020E89cD3c835f54d54",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xA0446dF4e4f06bE6094Ba020E89cD3c835f54d54",
+    "status": "abandoned",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0. AllianceBlock is establishing the world\u2019s first globally compliant decentralized capital market. Our solution is built on the principles of censorship resistance, transparency, and openness. AllianceBlock\u2019s Prometheus protocol aims to realize a decentralized, collaborative and sustainable capital market that brings together issuers, investors, institutions, traders, experts, advisors, other service providers, and even talent.",
+    "website": "https://allianceblock.io",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Stichting-AllianceBlock-Foundation/AllianceBlock-Contracts"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/allianceblock"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/allianceblock"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/hF7AGgt"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Allianceblock/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@allianceblock"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.allianceblock.io/AllianceBlock_WhitePaper_n47oEn0Aa.pdf"
+        }
+    ],
+    "chain": 369
+}

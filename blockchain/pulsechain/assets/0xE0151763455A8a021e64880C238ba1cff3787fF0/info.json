@@ -1,0 +1,10 @@
+{
+    "id": "0xE0151763455A8a021e64880C238ba1cff3787fF0",
+    "symbol": "APED",
+    "name": "Aped",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xE0151763455A8a021e64880C238ba1cff3787fF0",
+    "chain": 369
+}

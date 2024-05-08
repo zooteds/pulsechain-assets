@@ -1,0 +1,12 @@
+{
+    "name": "AgaveCoin",
+    "symbol": "AGVC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://agavecoin.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x8b79656FC38a04044E495e22fAD747126ca305C4",
+    "status": "abandoned",
+    "id": "0x8b79656FC38a04044E495e22fAD747126ca305C4",
+    "chain": 369
+}

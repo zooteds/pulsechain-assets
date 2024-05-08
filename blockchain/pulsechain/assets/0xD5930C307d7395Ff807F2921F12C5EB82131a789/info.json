@@ -1,0 +1,12 @@
+{
+    "name": "Bolt Token",
+    "symbol": "BOLT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xD5930C307d7395Ff807F2921F12C5EB82131a789",
+    "status": "abandoned",
+    "id": "0xD5930C307d7395Ff807F2921F12C5EB82131a789",
+    "chain": 369
+}

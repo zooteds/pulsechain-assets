@@ -1,0 +1,12 @@
+{
+    "name": "Digital Rand",
+    "symbol": "DZAR",
+    "type": "PRC20",
+    "decimals": 6,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://digitalrand.co.za/",
+    "explorer": "https://scan.pulsechain.com/token/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+    "status": "abandoned",
+    "id": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+    "chain": 369
+}

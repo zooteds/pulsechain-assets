@@ -1,0 +1,12 @@
+{
+    "name": "BNB",
+    "symbol": "BNB",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.binance.com",
+    "explorer": "https://scan.pulsechain.com/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "status": "active",
+    "id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "chain": 369
+}

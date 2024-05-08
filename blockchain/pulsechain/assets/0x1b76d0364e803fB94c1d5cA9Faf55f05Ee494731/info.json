@@ -1,0 +1,12 @@
+{
+    "name": "Uniswap Community Network",
+    "symbol": "UCN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x1b76d0364e803fB94c1d5cA9Faf55f05Ee494731",
+    "status": "abandoned",
+    "id": "0x1b76d0364e803fB94c1d5cA9Faf55f05Ee494731",
+    "chain": 369
+}

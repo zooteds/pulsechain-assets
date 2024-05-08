@@ -1,0 +1,42 @@
+{
+    "name": "BitDAO from Ethereum",
+    "symbol": "BIT",
+    "id": "0x24eaA615ba97F31E589648539b50E2bb0DdCb065",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x24eaA615ba97F31E589648539b50E2bb0DdCb065",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5. BitDAO infuses capital agnostically across industries, chains, and products. Its treasury is supported by contributions from Bybit and the virtuous cycle of value created by its AEs and partner labs. When you hold $BIT, you\u2019re not only getting a stake in the massive growth potential of BitDAO, but the AEs it\u2019s helping accelerate. Your $BIT gives you voting power to help direct how treasury funds are allocated and the terms of the funding.",
+    "website": "https://www.bitdao.io/",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bitdao"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitdao_official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bitdao_official"
+        },
+        {
+            "name": "blog",
+            "url": "https://medium.com/bitdao"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/bitdao/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/bitdao"
+        }
+    ],
+    "tags": [
+        "defi",
+        "governance"
+    ],
+    "chain": 369
+}

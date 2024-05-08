@@ -1,0 +1,18 @@
+{
+    "name": "ChainGuardians Governance Token",
+    "website": "https://chainguardians.io",
+    "description": "Forked from Ethereum with Pulsechain. ChainGuardians Blockchain Video Game Defi Platform.",
+    "explorer": "https://scan.pulsechain.com/token/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
+    "type": "PRC20",
+    "symbol": "CGG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainguardians"
+        }
+    ],
+    "chain": 369
+}

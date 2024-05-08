@@ -1,0 +1,12 @@
+{
+    "name": "JasmyCoin from Ethereum",
+    "symbol": "JASMY",
+    "id": "0x70E788a6bECEf0DF970c72Cfa0d2A34FA303D99B",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x70E788a6bECEf0DF970c72Cfa0d2A34FA303D99B",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC. JasmyCoin is based on the ERC 20 standard. The token can also be used by an unspecified number of individuals and businesses to transfer tokens using digital devices as proof of value exchange or payment for services. By not limiting its usability, the token can have a wide range of purposes.",
+    "website": "https://www.jasmy.co.jp/en.html",
+    "chain": 369
+}

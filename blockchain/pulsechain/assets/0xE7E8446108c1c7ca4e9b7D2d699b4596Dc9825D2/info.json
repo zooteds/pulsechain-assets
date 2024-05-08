@@ -1,0 +1,10 @@
+{
+    "name": "FELIX from Ethereum",
+    "symbol": "FELIX",
+    "id": "0xE7E8446108c1c7ca4e9b7D2d699b4596Dc9825D2",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6F3cBE18e9381dEc6026e6Cb8166C13944fCFeE1.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xE7E8446108c1c7ca4e9b7D2d699b4596Dc9825D2",
+    "chain": 369
+}

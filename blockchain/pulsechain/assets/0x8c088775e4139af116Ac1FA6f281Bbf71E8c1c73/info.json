@@ -1,0 +1,10 @@
+{
+    "id": "0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
+    "symbol": "PUMLx",
+    "name": "PUMLx",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73",
+    "chain": 369
+}

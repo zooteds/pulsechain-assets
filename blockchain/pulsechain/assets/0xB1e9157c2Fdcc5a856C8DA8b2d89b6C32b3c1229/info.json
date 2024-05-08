@@ -1,0 +1,18 @@
+{
+    "name": "Zenfuse Trading Platform Token",
+    "website": "https://zenfuse.io",
+    "description": "Forked from Ethereum with Pulsechain. The ultimate solution for cryptocurrency trading with built-in connectivity to major exchanges, a next-gen toolset, analytics, portfolio management, news aggregation, set within an ecosystem extensible by developers.",
+    "explorer": "https://scan.pulsechain.com/token/0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229",
+    "type": "PRC20",
+    "symbol": "ZEFU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://zenfuse.io/whitepaper.pdf"
+        }
+    ],
+    "chain": 369
+}

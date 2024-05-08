@@ -1,0 +1,22 @@
+{
+    "name": "ART Token",
+    "website": "https://arttoken.io/",
+    "description": "Forked from Ethereum with Pulsechain. The $ART Token is a platform-independent Token for the art community. $ART is a Governance Token and backed by digital artworks.",
+    "explorer": "https://scan.pulsechain.com/token/0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+    "type": "PRC20",
+    "symbol": "ART",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE51f24B251430A6e615f66e0d3c3A97c442aB38C",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/$ART"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Drg4y5j"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "STONK",
+    "symbol": "STONK",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xb60Fde5D798236fBF1e2697B2A0645380921FccF",
+    "status": "abandoned",
+    "id": "0xb60Fde5D798236fBF1e2697B2A0645380921FccF",
+    "chain": 369
+}

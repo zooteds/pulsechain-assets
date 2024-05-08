@@ -1,0 +1,26 @@
+{
+    "name": "DokiDokiFinance",
+    "website": "https://dokidoki.finance",
+    "description": "Forked from Ethereum with Pulsechain. Experience DeFi in Retro Japan",
+    "explorer": "https://scan.pulsechain.com/token/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+    "type": "PRC20",
+    "symbol": "DOKI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/dokidokidefi"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dokidokifinance"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@dokidoki.finance"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Fantom Token from Ethereum",
+    "symbol": "FTM",
+    "id": "0x80D72fe6b2498fd5404c80c780AE923cEdDfd80c",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x80D72fe6b2498fd5404c80c780AE923cEdDfd80c",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x4E15361FD6b4BB609Fa63C81A2be19d873717870. Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.",
+    "website": "http://fantom.foundation",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FantomFDN"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Fantom_English"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/fantom/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/fantom/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

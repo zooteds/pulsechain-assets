@@ -1,0 +1,12 @@
+{
+    "name": "Fetch from Ethereum",
+    "symbol": "FET",
+    "id": "0x5e07ed366aD0254Fd08eEe6b48f33457AdD8FFF5",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x5e07ed366aD0254Fd08eEe6b48f33457AdD8FFF5",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85. Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.",
+    "website": "https://fetch.ai",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Euro Tether from Ethereum",
+    "symbol": "EURT",
+    "id": "0x61223cA0eBaA111C249e0627573e0269C1bf915F",
+    "decimals": 6,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC581b735A1688071A1746c968e0798D642EDE491.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x61223cA0eBaA111C249e0627573e0269C1bf915F",
+    "chain": 369
+}

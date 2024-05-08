@@ -1,0 +1,10 @@
+{
+    "name": "President Ron DeSantis from Ethereum",
+    "symbol": "RON",
+    "id": "0x1C2c9E819fA636CFa106B73468F5A3CB1F19e6A0",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3267c5b73cc15E253b1A90c01366B17d560Bc6fb.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x1C2c9E819fA636CFa106B73468F5A3CB1F19e6A0",
+    "chain": 369
+}

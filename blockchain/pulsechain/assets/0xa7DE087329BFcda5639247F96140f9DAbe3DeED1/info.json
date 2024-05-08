@@ -1,0 +1,12 @@
+{
+    "name": "Statera",
+    "symbol": "STA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Metronome Desktop Wallet.",
+    "website": "https://stateratoken.com",
+    "explorer": "https://scan.pulsechain.com/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+    "status": "active",
+    "id": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
+    "chain": 369
+}

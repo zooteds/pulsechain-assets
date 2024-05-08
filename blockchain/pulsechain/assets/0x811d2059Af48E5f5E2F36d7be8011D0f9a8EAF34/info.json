@@ -1,0 +1,31 @@
+{
+    "name": "SushiToken from Ethereum",
+    "symbol": "SUSHI",
+    "id": "0x811d2059Af48E5f5E2F36d7be8011D0f9a8EAF34",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x811d2059Af48E5f5E2F36d7be8011D0f9a8EAF34",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6B3595068778DD592e39A122f4f5a5cF09C90fE2. SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+    "website": "https://sushiswap.fi",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/sushiswap"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/sushiswap"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/sushi/"
+        }
+    ],
+    "tags": [
+        "defi",
+        "governance",
+        "nft"
+    ],
+    "chain": 369
+}

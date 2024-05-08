@@ -1,0 +1,10 @@
+{
+    "name": "Maximus Lucky from Ethereum",
+    "symbol": "LUCKY",
+    "id": "0x8924f56df76CA9e7babB53489D7bEF4fb7caFF19",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6B0956258fF7bd7645aa35369B55B61b8e6d6140.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x8924f56df76CA9e7babB53489D7bEF4fb7caFF19",
+    "chain": 369
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Balancer",
+    "website": "https://balancer.finance",
+    "description": "Forked from Ethereum with Pulsechain. Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor.",
+    "explorer": "https://scan.pulsechain.com/token/0xba100000625a3754423978a60c9317c58a424e3D",
+    "research": "https://research.binance.com/en/projects/balancer",
+    "type": "PRC20",
+    "symbol": "BAL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "chain": 369
+}

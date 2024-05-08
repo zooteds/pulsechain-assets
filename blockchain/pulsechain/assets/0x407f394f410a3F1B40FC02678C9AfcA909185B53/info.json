@@ -1,0 +1,10 @@
+{
+    "name": "Micro AI from Ethereum",
+    "symbol": "MAI",
+    "id": "0x407f394f410a3F1B40FC02678C9AfcA909185B53",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x24D73Bca2bD9c3a61E99dFc7cB86D3C379EbDEd7.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x407f394f410a3F1B40FC02678C9AfcA909185B53",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "XMAX",
+    "symbol": "XMX",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. XMAX Token (XMX) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "http://www.xmx.com",
+    "explorer": "https://scan.pulsechain.com/token/0x0f8c45B896784A1E408526B9300519ef8660209c",
+    "status": "active",
+    "id": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+    "chain": 369
+}

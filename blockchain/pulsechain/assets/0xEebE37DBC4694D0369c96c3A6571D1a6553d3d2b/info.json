@@ -1,0 +1,26 @@
+{
+    "name": "XEN Crypto from Ethereum",
+    "symbol": "XEN",
+    "id": "0xEebE37DBC4694D0369c96c3A6571D1a6553d3d2b",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xEebE37DBC4694D0369c96c3A6571D1a6553d3d2b",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8. XEN aims to become a community-building crypto asset that connects like minded people together and provide the lowest barrier to entry through its unique tokenomics.",
+    "website": "https://xen.network/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/XEN_Crypto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/XENCryptoTalk"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/xen-crypto/"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Meridian Network",
+    "symbol": "LOCK",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Enabling DeFi through community governance.",
+    "website": "https://meridian-network.co",
+    "explorer": "https://scan.pulsechain.com/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+    "status": "active",
+    "id": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+    "chain": 369
+}

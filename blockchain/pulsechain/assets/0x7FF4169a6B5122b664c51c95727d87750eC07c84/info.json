@@ -1,0 +1,12 @@
+{
+    "name": "10Set Token",
+    "symbol": "10SET",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The Bridge Between Crypto & Stock Market",
+    "website": "https://tenset.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+    "status": "active",
+    "id": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+    "chain": 369
+}

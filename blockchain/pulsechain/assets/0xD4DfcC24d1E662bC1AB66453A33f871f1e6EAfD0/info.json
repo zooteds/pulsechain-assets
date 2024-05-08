@@ -1,0 +1,38 @@
+{
+    "name": "Gala from Ethereum",
+    "symbol": "GALA",
+    "id": "0xD4DfcC24d1E662bC1AB66453A33f871f1e6EAfD0",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0xD4DfcC24d1E662bC1AB66453A33f871f1e6EAfD0",
+    "status": "abandoned",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA. GALA is the utility token powering the Gala Games ecosystem.",
+    "website": "https://gala.games",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GoGalaGames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/GoGalaGames"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/GoGalaGames"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/GoGalaGames"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/GoGalaGames"
+        }
+    ],
+    "tags": [
+        "nft",
+        "gamefi"
+    ],
+    "chain": 369
+}

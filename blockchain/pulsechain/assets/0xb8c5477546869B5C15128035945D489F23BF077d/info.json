@@ -1,0 +1,18 @@
+{
+    "name": "TokenFi from Ethereum",
+    "symbol": "TOKEN",
+    "id": "0xb8c5477546869B5C15128035945D489F23BF077d",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0xb8c5477546869B5C15128035945D489F23BF077d",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x4507cEf57C46789eF8d1a19EA45f4216bae2B528. TokenFi is the ultimate platform for crypto and asset tokenization. Our aim is to make tokenization seamless and easy for the masses!.",
+    "website": "https://tokenfi.com",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tokenfi"
+        }
+    ],
+    "chain": 369
+}

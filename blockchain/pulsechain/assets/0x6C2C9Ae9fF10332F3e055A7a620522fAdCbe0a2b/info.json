@@ -1,0 +1,26 @@
+{
+    "name": "Rollbit Coin from Ethereum",
+    "symbol": "RLB",
+    "id": "0x6C2C9Ae9fF10332F3e055A7a620522fAdCbe0a2b",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x6C2C9Ae9fF10332F3e055A7a620522fAdCbe0a2b",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x046EeE2cc3188071C02BfC1745A6b17c656e3f3d. RLB is Rollbit's native token. It introduces 'RLB Lottery' which includes a prize pool grown from a share of Rollbit's casino profits.",
+    "website": "https://rollbit.com/",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/rollbit-coin/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/rollbitcom"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/rollbit-coin/"
+        }
+    ],
+    "chain": 369
+}

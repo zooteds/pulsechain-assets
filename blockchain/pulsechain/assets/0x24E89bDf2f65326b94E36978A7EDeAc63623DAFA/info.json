@@ -1,0 +1,22 @@
+{
+    "name": "Tiger King",
+    "type": "PRC20",
+    "symbol": "TKING",
+    "decimals": 18,
+    "website": "https://www.tiger-king.org/",
+    "description": "Forked from Ethereum with Pulsechain. Official coin of the Tiger King",
+    "explorer": "https://scan.pulsechain.com/token/0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
+    "status": "active",
+    "id": "0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Tiger_King_Coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/theTigerKingOfficial"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "id": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
+    "symbol": "PLSB",
+    "name": "PulseBitcoin",
+    "decimals": 12,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
+    "chain": 369
+}

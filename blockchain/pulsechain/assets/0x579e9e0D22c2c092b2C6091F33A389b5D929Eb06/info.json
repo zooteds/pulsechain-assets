@@ -1,0 +1,42 @@
+{
+    "name": "CRO from Ethereum",
+    "symbol": "CRO",
+    "id": "0x579e9e0D22c2c092b2C6091F33A389b5D929Eb06",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0x579e9e0D22c2c092b2C6091F33A389b5D929Eb06",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b. Crypto.com Chain will be a privacy preserving payment network that focuses on enabling crypto spending in the real world, powering the future of mobile money.",
+    "website": "https://crypto.com/en/chain",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://medium.com/@crypto.com"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/cryptocom"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/Crypto_com/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/CryptoComOfficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/CryptoComOfficial"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://crypto.com/images/chain_whitepaper.pdf"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/crypto-com-chain/"
+        }
+    ],
+    "chain": 369
+}

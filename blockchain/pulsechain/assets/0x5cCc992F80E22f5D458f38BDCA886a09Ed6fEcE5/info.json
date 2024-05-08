@@ -1,0 +1,41 @@
+{
+    "name": "hoge.finance from Ethereum",
+    "symbol": "HOGE",
+    "id": "0x5cCc992F80E22f5D458f38BDCA886a09Ed6fEcE5",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x5cCc992F80E22f5D458f38BDCA886a09Ed6fEcE5",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfAd45E47083e4607302aa43c65fB3106F1cd7607. We Meme Business.",
+    "website": "https://hogefinance.com",
+    "links": [
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/hoge"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/hoge"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hogefinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/hogefinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/hoge-finance"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/hoge-finance"
+        }
+    ],
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Bondly",
+    "website": "https://www.bondly.finance",
+    "description": "Forked from Ethereum with Pulsechain. Bondly is an interoperable, transparent and portable swap protocol designed to revolutionize traditional escrow methods and make everyone into their own digital marketplace.",
+    "explorer": "https://scan.pulsechain.com/token/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+    "type": "PRC20",
+    "symbol": "BONDLY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BondlyFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bondlyfinance"
+        }
+    ],
+    "chain": 369
+}

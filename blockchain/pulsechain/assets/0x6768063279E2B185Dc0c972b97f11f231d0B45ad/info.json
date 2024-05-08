@@ -1,0 +1,12 @@
+{
+    "name": "yield-farming.io",
+    "website": "https://yield-farming.io",
+    "description": "Forked from Ethereum with Pulsechain. A trustable farming DeFi project",
+    "explorer": "https://scan.pulsechain.com/token/0x6768063279E2B185Dc0c972b97f11f231d0B45ad",
+    "type": "PRC20",
+    "symbol": "YIELD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6768063279E2B185Dc0c972b97f11f231d0B45ad",
+    "chain": 369
+}

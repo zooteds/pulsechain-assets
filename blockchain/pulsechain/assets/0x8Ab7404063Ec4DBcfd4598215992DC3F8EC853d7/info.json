@@ -1,0 +1,13 @@
+{
+    "name": "Akropolis",
+    "website": "https://akropolis.io",
+    "description": "Forked from Ethereum with Pulsechain. Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
+    "explorer": "https://scan.pulsechain.com/token/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+    "research": "https://research.binance.com/en/projects/akropolis",
+    "type": "PRC20",
+    "symbol": "AKRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+    "chain": 369
+}

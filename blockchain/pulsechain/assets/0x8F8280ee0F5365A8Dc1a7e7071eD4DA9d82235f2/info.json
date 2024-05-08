@@ -1,0 +1,10 @@
+{
+    "name": "HarryPotterObamaSonic10Inu from Ethereum",
+    "symbol": "BITCOIN",
+    "id": "0x8F8280ee0F5365A8Dc1a7e7071eD4DA9d82235f2",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x8F8280ee0F5365A8Dc1a7e7071eD4DA9d82235f2",
+    "chain": 369
+}

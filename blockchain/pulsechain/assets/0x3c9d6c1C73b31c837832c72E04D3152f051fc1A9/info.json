@@ -1,0 +1,12 @@
+{
+    "name": "BoringDAO",
+    "website": "https://www.boringdao.com/",
+    "description": "Forked from Ethereum with Pulsechain. BoringDAO is a decentralized asset bridge that uses tunnel mechanism to move tokens cross different chains.",
+    "explorer": "https://scan.pulsechain.com/token/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+    "type": "PRC20",
+    "symbol": "BOR",
+    "decimals": 18,
+    "id": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+    "status": "active",
+    "chain": 369
+}

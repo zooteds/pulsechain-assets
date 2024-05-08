@@ -1,0 +1,18 @@
+{
+    "name": "Exeedme from Ethereum",
+    "symbol": "XED",
+    "id": "0xbE39e67168461f6f5C77667274855B3f04771300",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xbE39e67168461f6f5C77667274855B3f04771300",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xee573a945B01B788B9287CE062A0CFC15bE9fd86. New Revenue Streams for Gamers",
+    "website": "https://exeedme.com/",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/exeedme"
+        }
+    ],
+    "chain": 369
+}

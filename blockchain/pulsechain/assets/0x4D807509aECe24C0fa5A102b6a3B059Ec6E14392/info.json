@@ -1,0 +1,12 @@
+{
+    "name": "Menlo One",
+    "symbol": "ONE",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://menlo.one",
+    "explorer": "https://scan.pulsechain.com/token/0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
+    "status": "abandoned",
+    "id": "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
+    "chain": 369
+}

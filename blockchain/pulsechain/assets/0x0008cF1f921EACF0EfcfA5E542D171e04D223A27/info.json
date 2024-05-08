@@ -1,0 +1,10 @@
+{
+    "name": "SHIBGF from Ethereum",
+    "symbol": "SHIBGF",
+    "id": "0x0008cF1f921EACF0EfcfA5E542D171e04D223A27",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x505a84a03e382331A1Be487b632Cf357748b65d6.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x0008cF1f921EACF0EfcfA5E542D171e04D223A27",
+    "chain": 369
+}

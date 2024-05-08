@@ -1,0 +1,12 @@
+{
+    "name": "MATH Token",
+    "symbol": "MATH",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. 65+ Popular public chains supported",
+    "website": "https://mathwallet.org/",
+    "explorer": "https://scan.pulsechain.com/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "status": "active",
+    "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+    "chain": 369
+}

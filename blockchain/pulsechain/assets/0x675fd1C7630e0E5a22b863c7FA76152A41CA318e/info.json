@@ -1,0 +1,45 @@
+{
+    "name": "SAITAMA from Ethereum",
+    "symbol": "SAITAMA",
+    "id": "0x675fd1C7630e0E5a22b863c7FA76152A41CA318e",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x675fd1C7630e0E5a22b863c7FA76152A41CA318e",
+    "status": "abandoned",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xCE3f08e664693ca792caCE4af1364D5e220827B2. Community Owned Decentralised Token",
+    "website": "https://saitamatoken.com",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://saitamatoken.com/SAITAMA_INU_WHITEPAPER_V1.pdf"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WeAreSaitama"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SaitamaWorldwide"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/saitama"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/groups/1275234186328559"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/saitama-inu-new/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/saitama-inu/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

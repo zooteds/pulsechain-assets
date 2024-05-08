@@ -1,0 +1,18 @@
+{
+    "name": "A Hunters Dream from Ethereum",
+    "symbol": "CAW",
+    "id": "0x100A7C964E6aA85EaDaec06d3652053C4fAEce8e",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x100A7C964E6aA85EaDaec06d3652053C4fAEce8e",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xf3b9569F82B18aEf890De263B84189bd33EBe452. A Decentralized Social Clearing House ...(AKA) CAW A protocol made up of many on-chain smart contracts for sending messages publically or p2p with a max character limit of 420.",
+    "website": "https://caw.is/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/CommunityCaw"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,42 @@
+{
+    "name": "DerivaDAO",
+    "website": "https://derivadex.com",
+    "description": "Forked from Ethereum with Pulsechain. Discover the future of trading with DerivaDEX, a community-governed derivatives exchange that unites performance and autonomy.",
+    "explorer": "https://scan.pulsechain.com/token/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "type": "PRC20",
+    "symbol": "DDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "links": [
+        {
+            "name": "source_code",
+            "url": "https://gitlab.com/derivadex"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DDX_Official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DerivaDEX"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/rSYxQD2j"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/channel/UCSAEVzSu0AEcJF2e7TMbZJg"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/derivadex/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/derivadex"
+        }
+    ],
+    "chain": 369
+}

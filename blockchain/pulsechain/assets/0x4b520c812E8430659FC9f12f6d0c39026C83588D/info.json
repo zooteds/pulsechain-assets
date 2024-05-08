@@ -1,0 +1,33 @@
+{
+    "name": "Decentral Games",
+    "website": "https://decentral.games",
+    "description": "Forked from Ethereum with Pulsechain. Decentral Games is a metaverse-native gaming DAO building play-to-earn poker. DG Hodlers vote on treasury management, economic policy, and development to grow and strengthen the Decentral Games ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0x4b520c812E8430659FC9f12f6d0c39026C83588D",
+    "type": "PRC20",
+    "symbol": "DG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4b520c812E8430659FC9f12f6d0c39026C83588D",
+    "tags": [
+        "gamefi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/decentralgames"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/decentralgames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/decentralgames"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/decentral-games-new/"
+        }
+    ],
+    "chain": 369
+}

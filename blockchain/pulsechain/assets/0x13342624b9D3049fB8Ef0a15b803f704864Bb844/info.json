@@ -1,0 +1,10 @@
+{
+    "name": "Hamsters from Ethereum",
+    "symbol": "HAMS",
+    "id": "0x13342624b9D3049fB8Ef0a15b803f704864Bb844",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x48c87cDacb6Bb6BF6E5Cd85D8ee5C847084c7410.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x13342624b9D3049fB8Ef0a15b803f704864Bb844",
+    "chain": 369
+}

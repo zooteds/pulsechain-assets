@@ -1,0 +1,25 @@
+{
+    "name": "Turbo",
+    "website": "https://sites.google.com/view/turbotoad",
+    "description": "Forked from Ethereum with Pulsechain. Turbo Token is a revolutionary meme coin featuring our futuristic toad mascot.",
+    "explorer": "https://scan.pulsechain.com/token/0xA35923162C49cF95e6BF26623385eb431ad920D3",
+    "type": "PRC20",
+    "symbol": "TURBO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/FYdKKmV3CU"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TurboToadToken"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

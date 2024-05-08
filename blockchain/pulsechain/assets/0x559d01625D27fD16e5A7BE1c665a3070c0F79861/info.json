@@ -1,0 +1,15 @@
+{
+    "name": "Wrapped BNB from Ethereum",
+    "symbol": "WBNB",
+    "id": "0x559d01625D27fD16e5A7BE1c665a3070c0F79861",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x559d01625D27fD16e5A7BE1c665a3070c0F79861",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x418D75f65a02b3D53B2418FB8E1fe493759c7605. Cross Chain Portal Bridged Token",
+    "website": "https://www.binance.com/",
+    "tags": [
+        "wrapped"
+    ],
+    "chain": 369
+}

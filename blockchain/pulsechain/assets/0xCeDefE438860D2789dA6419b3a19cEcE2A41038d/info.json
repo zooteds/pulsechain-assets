@@ -1,0 +1,10 @@
+{
+    "id": "0xCeDefE438860D2789dA6419b3a19cEcE2A41038d",
+    "symbol": "LHINU",
+    "name": "Love Hate Inu",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xCeDefE438860D2789dA6419b3a19cEcE2A41038d",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BITPIF",
+    "symbol": "BPF",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x5197FBE1a86679FF1360E27862BF88B0c5119BD8",
+    "status": "abandoned",
+    "id": "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8",
+    "chain": 369
+}

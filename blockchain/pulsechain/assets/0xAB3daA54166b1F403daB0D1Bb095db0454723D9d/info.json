@@ -1,0 +1,10 @@
+{
+    "name": "GROK from Ethereum",
+    "symbol": "GROK",
+    "id": "0xAB3daA54166b1F403daB0D1Bb095db0454723D9d",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8390a1DA07E376ef7aDd4Be859BA74Fb83aA02D5.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xAB3daA54166b1F403daB0D1Bb095db0454723D9d",
+    "chain": 369
+}

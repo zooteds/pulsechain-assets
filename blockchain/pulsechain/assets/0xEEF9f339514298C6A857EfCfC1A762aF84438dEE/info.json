@@ -1,0 +1,26 @@
+{
+    "name": "Hermez Network Token",
+    "website": "https://hermez.io/",
+    "description": "Forked from Ethereum with Pulsechain. Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
+    "explorer": "https://scan.pulsechain.com/token/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+    "type": "PRC20",
+    "symbol": "HEZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/hermeznetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/hermez_network"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/hermez_network"
+        }
+    ],
+    "chain": 369
+}

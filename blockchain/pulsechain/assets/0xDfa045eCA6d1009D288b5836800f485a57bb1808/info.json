@@ -1,0 +1,29 @@
+{
+    "name": "Blur from Ethereum",
+    "symbol": "BLUR",
+    "id": "0xDfa045eCA6d1009D288b5836800f485a57bb1808",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xDfa045eCA6d1009D288b5836800f485a57bb1808",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x5283D291DBCF85356A21bA090E6db59121208b44. Blur is the NFT marketplace for pro traders. The goal is to make Blur a marketplace that the entire NFT community owns and profits from.",
+    "website": "https://blur.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/blur_io"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/blur/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/blur-token/"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

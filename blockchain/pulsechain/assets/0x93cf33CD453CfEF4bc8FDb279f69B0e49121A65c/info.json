@@ -1,0 +1,34 @@
+{
+    "name": "Frax from Ethereum",
+    "symbol": "FRAX",
+    "id": "0x93cf33CD453CfEF4bc8FDb279f69B0e49121A65c",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x93cf33CD453CfEF4bc8FDb279f69B0e49121A65c",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x853d955aCEf822Db058eb8505911ED77F175b99e. Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+    "website": "https://frax.finance/",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/FraxFinance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Frax Finance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fraxfinance"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Xwe8kAwZ4a"
+        }
+    ],
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "chain": 369
+}

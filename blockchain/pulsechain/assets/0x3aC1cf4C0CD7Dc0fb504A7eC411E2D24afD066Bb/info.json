@@ -1,0 +1,25 @@
+{
+    "name": "dYdX from Ethereum",
+    "symbol": "DYDX",
+    "id": "0x3aC1cf4C0CD7Dc0fb504A7eC411E2D24afD066Bb",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x3aC1cf4C0CD7Dc0fb504A7eC411E2D24afD066Bb",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x92D6C1e31e14520e676a687F0a93788B716BEff5. Trade & stake to earn rewards. Vote on the future of your exchange. Take control of the most powerful decentralized derivatives protocol.",
+    "website": "https://dydx.foundation",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dydxfoundation"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/dydxfoundation"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "id": "0xCd7492db29E2ab436e819b249452EE1bbDf52214",
+    "symbol": "SMI",
+    "name": "SafeMoon Inu",
+    "decimals": 8,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xCd7492db29E2ab436e819b249452EE1bbDf52214",
+    "chain": 369
+}

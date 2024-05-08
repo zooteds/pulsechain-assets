@@ -1,0 +1,12 @@
+{
+    "name": "MixMarvel Token",
+    "symbol": "MIX",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. MixMarvel is a global game publishing platform based on blockchain technology.",
+    "website": "https://www.mixmarvel.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x5d285F735998F36631F678FF41fb56A10A4d0429",
+    "status": "active",
+    "id": "0x5d285F735998F36631F678FF41fb56A10A4d0429",
+    "chain": 369
+}

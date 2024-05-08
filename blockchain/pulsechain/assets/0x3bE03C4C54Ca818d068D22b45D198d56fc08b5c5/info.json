@@ -1,0 +1,53 @@
+{
+    "name": "IMPT from Ethereum",
+    "symbol": "IMPT",
+    "id": "0x3bE03C4C54Ca818d068D22b45D198d56fc08b5c5",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x3bE03C4C54Ca818d068D22b45D198d56fc08b5c5",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x04C17b9D3b29A78F7Bd062a57CF44FC633e71f85. IMPT connects users with hundreds of impactful environmental projects around the world with the purpose to reduce carbon emissions and help our planet. IMPT also engages thousands of the largest retail brands that allocate a specific percentage of sale margin for environmental projects. It is accumulated in users\u2019 accounts in the form of IMPT tokens. The users accumulate these tokens till they reach the necessary amount of the carbon credit of their choice. As a result, users can continue with their normal shopping while helping the planet.",
+    "website": "https://www.impt.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/IMPT_token"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/anonymous-001-1/IMPT"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/pxPSREPKxw"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://impt.io/assets/documents/whitepaper/en.pdf"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/IMPTOfficial"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/IMPTprogram"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/impt/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/IMPT-The-Impact-Project-110250768050959"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/impt"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

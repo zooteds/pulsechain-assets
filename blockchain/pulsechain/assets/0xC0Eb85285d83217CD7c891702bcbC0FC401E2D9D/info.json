@@ -1,0 +1,12 @@
+{
+    "name": "Hive Project Token",
+    "symbol": "HVN",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. Hive Coin is a cryptocurrency, with the new blockchain technology and smart contracts, companies no longer need centralized intermediaries for transactions or financing. The blockchain grants absolute transparency, integrity and immutability of the data stored in the system.",
+    "website": "https://www.hiveterminal.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+    "status": "active",
+    "id": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+    "chain": 369
+}

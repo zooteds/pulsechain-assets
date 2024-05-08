@@ -1,0 +1,12 @@
+{
+    "name": "MixTrust",
+    "symbol": "MXT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.mixtrust.exchange/",
+    "explorer": "https://scan.pulsechain.com/token/0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+    "status": "abandoned",
+    "id": "0x6251E725CD45Fb1AF99354035a414A2C0890B929",
+    "chain": 369
+}

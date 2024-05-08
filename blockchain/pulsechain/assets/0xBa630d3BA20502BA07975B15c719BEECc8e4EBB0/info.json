@@ -1,0 +1,12 @@
+{
+    "name": "Ethereum Pro",
+    "website": "https://ethereum-pro.org",
+    "description": "Forked from Ethereum with Pulsechain. Ethereum Pro is a decentralized and deflationary token built on the secure Ethereum network.",
+    "explorer": "https://scan.pulsechain.com/token/0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0",
+    "type": "PRC20",
+    "symbol": "EPRO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xBa630d3BA20502BA07975B15c719BEECc8e4EBB0",
+    "chain": 369
+}

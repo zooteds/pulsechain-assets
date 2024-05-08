@@ -1,0 +1,12 @@
+{
+    "name": "Cellframe Token from Ethereum",
+    "symbol": "CELL",
+    "id": "0x4A0C09b4B9ea0C07754970dd8148581b2389F197",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4A0C09b4B9ea0C07754970dd8148581b2389F197",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099. CELL is a token of the Cellframe Network.",
+    "website": "https://cellframe.net",
+    "chain": 369
+}

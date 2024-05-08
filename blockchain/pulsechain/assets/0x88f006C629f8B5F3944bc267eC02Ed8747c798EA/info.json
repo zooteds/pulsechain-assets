@@ -1,0 +1,10 @@
+{
+    "name": "Revomon from Ethereum",
+    "symbol": "REVO",
+    "id": "0x88f006C629f8B5F3944bc267eC02Ed8747c798EA",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x88f006C629f8B5F3944bc267eC02Ed8747c798EA",
+    "chain": 369
+}

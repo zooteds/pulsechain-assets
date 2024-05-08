@@ -1,0 +1,12 @@
+{
+    "name": "Illuvium from Ethereum",
+    "symbol": "ILV",
+    "id": "0x5CA72B597738e28a06C9486b748ac54534Aa6D3b",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x5CA72B597738e28a06C9486b748ac54534Aa6D3b",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E. Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
+    "website": "https://illuvium.io",
+    "chain": 369
+}

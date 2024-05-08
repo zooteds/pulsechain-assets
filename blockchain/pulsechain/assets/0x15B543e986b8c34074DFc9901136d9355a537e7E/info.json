@@ -1,0 +1,12 @@
+{
+    "name": "Student Coin",
+    "website": "https://www.studentcoin.org",
+    "description": "Forked from Ethereum with Pulsechain. Student Coin is the first crypto platform that allows users to easily design, create, and manage personal, start-up, NFT, and DeFi tokens.",
+    "explorer": "https://scan.pulsechain.com/token/0x15B543e986b8c34074DFc9901136d9355a537e7E",
+    "type": "PRC20",
+    "symbol": "STC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x15B543e986b8c34074DFc9901136d9355a537e7E",
+    "chain": 369
+}

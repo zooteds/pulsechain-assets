@@ -1,0 +1,10 @@
+{
+    "name": "Love Hate Inu from Ethereum",
+    "symbol": "LHINU",
+    "id": "0x4C032905b3dBe61391e217fF2a3087E9677A6B61",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xCeDefE438860D2789dA6419b3a19cEcE2A41038d.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x4C032905b3dBe61391e217fF2a3087E9677A6B61",
+    "chain": 369
+}

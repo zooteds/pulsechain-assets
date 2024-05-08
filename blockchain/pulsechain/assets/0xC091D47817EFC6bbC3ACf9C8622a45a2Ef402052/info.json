@@ -1,0 +1,10 @@
+{
+    "name": "Joseon Mun from Ethereum",
+    "symbol": "JSM",
+    "id": "0xC091D47817EFC6bbC3ACf9C8622a45a2Ef402052",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x04C618CDbc1D59142dFEB4B9864835A06983EC2d.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xC091D47817EFC6bbC3ACf9C8622a45a2Ef402052",
+    "chain": 369
+}

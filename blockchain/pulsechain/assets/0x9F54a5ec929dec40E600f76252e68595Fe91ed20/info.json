@@ -1,0 +1,12 @@
+{
+    "name": "Simplify",
+    "symbol": "SIMP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x9F54a5ec929dec40E600f76252e68595Fe91ed20",
+    "status": "abandoned",
+    "id": "0x9F54a5ec929dec40E600f76252e68595Fe91ed20",
+    "chain": 369
+}

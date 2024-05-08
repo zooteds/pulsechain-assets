@@ -1,0 +1,12 @@
+{
+    "name": "ExNetwork Community Token",
+    "website": "https://exnetwork.community/",
+    "description": "Forked from Ethereum with Pulsechain. ExNetwork Community App",
+    "explorer": "https://scan.pulsechain.com/token/0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+    "type": "PRC20",
+    "symbol": "EXNT",
+    "decimals": 16,
+    "status": "active",
+    "id": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
+    "chain": 369
+}

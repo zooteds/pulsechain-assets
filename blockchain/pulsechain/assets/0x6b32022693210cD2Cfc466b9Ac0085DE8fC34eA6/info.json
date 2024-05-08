@@ -1,0 +1,10 @@
+{
+    "id": "0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
+    "symbol": "DECI",
+    "name": "Maximus Decimus",
+    "decimals": 8,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x6b32022693210cD2Cfc466b9Ac0085DE8fC34eA6",
+    "chain": 369
+}

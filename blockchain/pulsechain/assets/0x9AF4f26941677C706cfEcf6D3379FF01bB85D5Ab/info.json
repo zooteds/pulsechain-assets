@@ -1,0 +1,12 @@
+{
+    "name": "DomRaiderToken",
+    "symbol": "DRT",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. DomRaider network is an open-source blockchain dedicated to the decentralization of auctions in real time. It will be transparent, reliable, adaptable and interoperable, without compromising on speed.",
+    "website": "https://www.domraider.io/en/",
+    "explorer": "https://scan.pulsechain.com/token/0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+    "status": "active",
+    "id": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
+    "chain": 369
+}

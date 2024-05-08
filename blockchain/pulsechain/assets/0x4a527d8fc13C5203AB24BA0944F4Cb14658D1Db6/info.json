@@ -1,0 +1,12 @@
+{
+    "name": "Morpheus Infrastructure Token",
+    "symbol": "MITx",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. We empower you to develop, deploy, and integrate applications on blockchain technology to solve real-life problems.",
+    "website": "https://morpheuslabs.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+    "status": "active",
+    "id": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
+    "chain": 369
+}

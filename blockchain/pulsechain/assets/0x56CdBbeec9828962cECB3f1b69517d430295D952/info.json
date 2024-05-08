@@ -1,0 +1,12 @@
+{
+    "name": "Davecoin",
+    "symbol": "DDTG",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://davecoin.cash/",
+    "explorer": "https://scan.pulsechain.com/token/0x56CdBbeec9828962cECB3f1b69517d430295D952",
+    "status": "abandoned",
+    "id": "0x56CdBbeec9828962cECB3f1b69517d430295D952",
+    "chain": 369
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Loom Token from Ethereum",
+    "symbol": "LOOM",
+    "id": "0x31Fc79e1e879313D32C82B0E05DAE3D155625280",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x31Fc79e1e879313D32C82B0E05DAE3D155625280",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x42476F744292107e34519F9c357927074Ea3F75D. Loom Network is a Platform as a Service intended to allow Ethereum-based Solidity applications to be run on side chains.",
+    "website": "https://loomx.io",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/loomnetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/loomnetwork"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/loomnetwork"
+        }
+    ],
+    "chain": 369
+}

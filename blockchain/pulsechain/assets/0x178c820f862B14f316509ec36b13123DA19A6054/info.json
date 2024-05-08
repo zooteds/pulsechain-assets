@@ -1,0 +1,12 @@
+{
+    "name": "Energy Web Token Bridged",
+    "symbol": "EWTB",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x178c820f862B14f316509ec36b13123DA19A6054",
+    "status": "abandoned",
+    "id": "0x178c820f862B14f316509ec36b13123DA19A6054",
+    "chain": 369
+}

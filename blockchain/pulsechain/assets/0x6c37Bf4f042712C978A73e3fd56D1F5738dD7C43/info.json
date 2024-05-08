@@ -1,0 +1,12 @@
+{
+    "name": "Elementeum",
+    "symbol": "ELET",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay.",
+    "website": "https://www.etherlegends.io",
+    "explorer": "https://scan.pulsechain.com/token/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+    "status": "active",
+    "id": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+    "chain": 369
+}

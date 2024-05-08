@@ -1,0 +1,53 @@
+{
+    "name": "Knoxstertoken",
+    "website": "https://fortknoxster.com",
+    "description": "Forked from Ethereum with Pulsechain. FortKnoxster's DieFi solution is an automated crypto testament and inheritance platform. DieFi users' crypto portfolio information and credentials are automatically passed on to the chosen beneficiaries in case of emergency, memory loss, or death.",
+    "explorer": "https://scan.pulsechain.com/token/0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
+    "type": "PRC20",
+    "symbol": "FKX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/FortKnoxster"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/FortKnoxster"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/FortKnoxster"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/c/FortKnoxster"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/FortKnoxster"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://fortknoxster.com/FortKnoxster_Whitepaper_English.pdf"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/fortknoxster"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/fortknoxster"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/fortknoxster"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "PEAKDEFI from Ethereum",
+    "symbol": "PEAK",
+    "id": "0xA67Ad6Cbf54A51eb482A9318601D57f50e5b0639",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0xA67Ad6Cbf54A51eb482A9318601D57f50e5b0639",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78. PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth.",
+    "website": "https://app.peakdefi.com/download",
+    "chain": 369
+}

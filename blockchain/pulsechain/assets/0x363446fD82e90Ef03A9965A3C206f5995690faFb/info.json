@@ -1,0 +1,10 @@
+{
+    "name": "Optimus from Ethereum",
+    "symbol": "OPTIMUS",
+    "id": "0x363446fD82e90Ef03A9965A3C206f5995690faFb",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x562E362876c8Aee4744FC2c6aaC8394C312d215d.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x363446fD82e90Ef03A9965A3C206f5995690faFb",
+    "chain": 369
+}

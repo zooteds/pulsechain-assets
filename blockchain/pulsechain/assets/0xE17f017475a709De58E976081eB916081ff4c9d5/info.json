@@ -1,0 +1,12 @@
+{
+    "name": "RMPL",
+    "symbol": "RMPL",
+    "type": "PRC20",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. RMPL is a decentralized cryptocurrency with an elastic supply model. ",
+    "website": "https://www.rmpl.io",
+    "explorer": "https://scan.pulsechain.com/token/0xE17f017475a709De58E976081eB916081ff4c9d5",
+    "status": "active",
+    "id": "0xE17f017475a709De58E976081eB916081ff4c9d5",
+    "chain": 369
+}

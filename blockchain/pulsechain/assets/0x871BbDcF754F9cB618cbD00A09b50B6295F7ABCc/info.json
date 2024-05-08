@@ -1,0 +1,35 @@
+{
+    "name": "SuperFarm from Ethereum",
+    "symbol": "SUPER",
+    "id": "0x871BbDcF754F9cB618cbD00A09b50B6295F7ABCc",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x871BbDcF754F9cB618cbD00A09b50B6295F7ABCc",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55. SuperVerse is a cross-chain DeFi protocol that allows users to deploy crypto and NFT farms with no code required!",
+    "website": "https://www.superverse.co",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/SuperVerseDAO"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SuperVerseDAO"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/superfarm/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/superfarm/"
+        }
+    ],
+    "tags": [
+        "gamefi",
+        "staking",
+        "governance"
+    ],
+    "chain": 369
+}

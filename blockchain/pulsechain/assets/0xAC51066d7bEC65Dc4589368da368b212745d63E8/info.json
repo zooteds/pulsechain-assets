@@ -1,0 +1,10 @@
+{
+    "id": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+    "symbol": "ALICE",
+    "name": "ALICE",
+    "decimals": 6,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+    "chain": 369
+}

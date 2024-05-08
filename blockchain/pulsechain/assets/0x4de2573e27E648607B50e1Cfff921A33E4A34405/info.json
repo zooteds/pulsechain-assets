@@ -1,0 +1,12 @@
+{
+    "name": "Lendroid Support Token",
+    "symbol": "LST",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.lendroid.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+    "status": "abandoned",
+    "id": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+    "chain": 369
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Wrapped BTC from Ethereum",
+    "symbol": "WBTC",
+    "id": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599. Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin.",
+    "website": "https://wbtc.network",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/wrapped-bitcoin/"
+        }
+    ],
+    "tags": [
+        "defi",
+        "wrapped"
+    ],
+    "chain": 369
+}

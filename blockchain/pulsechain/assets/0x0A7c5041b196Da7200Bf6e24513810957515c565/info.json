@@ -1,0 +1,15 @@
+{
+    "name": "DOGE KILLER from Ethereum",
+    "symbol": "LEASH",
+    "id": "0x0A7c5041b196Da7200Bf6e24513810957515c565",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x0A7c5041b196Da7200Bf6e24513810957515c565",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x27C70Cd1946795B66be9d954418546998b546634. The second token incentivized on ShibaSwap offers special rewards for those who provide liquidity.",
+    "website": "https://www.shibatoken.com",
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

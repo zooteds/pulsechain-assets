@@ -1,0 +1,9 @@
+{
+    "id": "0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+    "symbol": "WHETH",
+    "name": "Where Did The ETH Go?",
+    "decimals": 18,
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4",
+    "chain": 369
+}

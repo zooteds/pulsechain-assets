@@ -1,0 +1,18 @@
+{
+    "name": "Centaur Token",
+    "website": "https://cntr.finance",
+    "description": "Forked from Ethereum with Pulsechain. The bridge between decentralized and traditional finance.",
+    "explorer": "https://scan.pulsechain.com/token/0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+    "type": "PRC20",
+    "symbol": "CNTR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://cntr.finance/docs/whitepaper.pdf"
+        }
+    ],
+    "chain": 369
+}

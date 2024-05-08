@@ -1,0 +1,12 @@
+{
+    "name": "Alchemy from Ethereum",
+    "symbol": "ACH",
+    "id": "0x8957F674FEA434c0F7a60B72A4A7CD4BCF2773C6",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0x8957F674FEA434c0F7a60B72A4A7CD4BCF2773C6",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xEd04915c23f00A313a544955524EB7DBD823143d. Alchemy is a leading cryptocurrency payment solution and technology provider that powers online and offline merchants with fast, secure and convenient hybrid crypto-fiat payment systems and solutions.",
+    "website": "https://alchemytech.io/",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "SnowSwap",
+    "symbol": "SNOW",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. AMM / DEX for yield-bearing LP Token swaps.",
+    "website": "https://snowswap.org",
+    "explorer": "https://scan.pulsechain.com/token/0xfe9A29aB92522D14Fc65880d817214261D8479AE",
+    "status": "active",
+    "id": "0xfe9A29aB92522D14Fc65880d817214261D8479AE",
+    "chain": 369
+}

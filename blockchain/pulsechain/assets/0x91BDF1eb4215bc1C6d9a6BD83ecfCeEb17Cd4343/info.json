@@ -1,0 +1,10 @@
+{
+    "id": "0x91BDF1eb4215bc1C6d9a6BD83ecfCeEb17Cd4343",
+    "symbol": "Richard",
+    "name": "Richard",
+    "decimals": 9,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x91BDF1eb4215bc1C6d9a6BD83ecfCeEb17Cd4343",
+    "chain": 369
+}

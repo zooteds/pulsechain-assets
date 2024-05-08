@@ -1,0 +1,10 @@
+{
+    "name": "Skol! from Ethereum",
+    "symbol": "SKOL",
+    "id": "0x791367770E068208104fc1B5C1E15F3F5f4d143d",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB369dACa21eE035312176Eb8Cf9d88ce97E0aA95.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x791367770E068208104fc1B5C1E15F3F5f4d143d",
+    "chain": 369
+}

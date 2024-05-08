@@ -1,0 +1,12 @@
+{
+    "name": "FunFair",
+    "website": "https://funfair.io",
+    "description": "Forked from Ethereum with Pulsechain. Envisioning the decentralization of the concept behind casinos, FunFair harnesses peer-to-peer technology in combination with cryptography.",
+    "explorer": "https://scan.pulsechain.com/token/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+    "type": "PRC20",
+    "symbol": "FUN",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+    "chain": 369
+}

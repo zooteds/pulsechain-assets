@@ -1,0 +1,34 @@
+{
+    "name": "Rocket Pool Protocol from Ethereum",
+    "symbol": "RPL",
+    "id": "0x5c23EDE482f7d5FfDBc90b15c70edD48D38DAB94",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x5c23EDE482f7d5FfDBc90b15c70edD48D38DAB94",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xD33526068D116cE69F19A9ee46F0bd304F21A51f. Rocket Pool Protocol (RPL) - Decentralised Proof of Stake Pool",
+    "website": "https://rocketpool.net",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Rocket_Pool"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/rocket-pool/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/rocketpool"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/rocketpool/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/rocket-pool"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,29 @@
+{
+    "name": "PYR Token from Ethereum",
+    "symbol": "PYR",
+    "id": "0x01b4FC6DaAae73c2614598B1F9F35F8933117e10",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x01b4FC6DaAae73c2614598B1F9F35F8933117e10",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x430EF9263E76DAE63c84292C3409D61c598E9682. Vulcan Forged is an established non-fungible token (NFT) game studio, marketplace, and dApp incubator with 10+ games, a 20000+ community, and top 5 NFT marketplace volume.",
+    "website": "https://vulcanforged.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/VulcanForged"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/VeriArti"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/vulcan-forged-pyr/"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

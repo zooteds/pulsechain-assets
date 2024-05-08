@@ -1,0 +1,10 @@
+{
+    "name": "DUST Protocol from Ethereum",
+    "symbol": "DUST",
+    "id": "0x9D8C39d074AfbCcB84aEC5714040832D6971A75E",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB5b1b659dA79A2507C27AaD509f15B4874EDc0Cc.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x9D8C39d074AfbCcB84aEC5714040832D6971A75E",
+    "chain": 369
+}

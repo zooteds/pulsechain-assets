@@ -1,0 +1,10 @@
+{
+    "id": "0xC581b735A1688071A1746c968e0798D642EDE491",
+    "symbol": "EURT",
+    "name": "Euro Tether",
+    "decimals": 6,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xC581b735A1688071A1746c968e0798D642EDE491",
+    "chain": 369
+}

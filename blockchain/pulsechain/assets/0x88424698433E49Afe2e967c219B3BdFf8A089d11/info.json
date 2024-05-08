@@ -1,0 +1,10 @@
+{
+    "name": "Richard from Ethereum",
+    "symbol": "Richard",
+    "id": "0x88424698433E49Afe2e967c219B3BdFf8A089d11",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x91BDF1eb4215bc1C6d9a6BD83ecfCeEb17Cd4343.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x88424698433E49Afe2e967c219B3BdFf8A089d11",
+    "chain": 369
+}

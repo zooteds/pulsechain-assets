@@ -1,0 +1,18 @@
+{
+    "name": "Moon Juice",
+    "website": "https://moonjuice.xyz/",
+    "description": "Forked from Ethereum with Pulsechain. Moon Juice is a experiment in farming, deflation, and programmable money.",
+    "explorer": "https://scan.pulsechain.com/token/0x889eFB523cc39590B8483EB9491890AC71407f64",
+    "type": "PRC20",
+    "symbol": "JUICE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x889eFB523cc39590B8483EB9491890AC71407f64",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MoonJuice_xyz"
+        }
+    ],
+    "chain": 369
+}

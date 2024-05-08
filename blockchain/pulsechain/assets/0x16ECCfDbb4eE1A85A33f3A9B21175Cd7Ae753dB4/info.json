@@ -1,0 +1,37 @@
+{
+    "name": "Route",
+    "website": "https://www.routerprotocol.com/",
+    "description": "Forked from Ethereum with Pulsechain. Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.",
+    "explorer": "https://scan.pulsechain.com/token/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "type": "PRC20",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/router-protocol"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/routerprotocol"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/route/"
+        },
+        {
+            "name": "medium",
+            "url": "https://routerprotocol.medium.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/routerprotocol"
+        }
+    ],
+    "tags": [
+        "staking"
+    ],
+    "chain": 369
+}

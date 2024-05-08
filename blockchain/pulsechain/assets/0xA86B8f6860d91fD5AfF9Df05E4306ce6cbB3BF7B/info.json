@@ -1,0 +1,10 @@
+{
+    "name": "DragonX from Ethereum",
+    "symbol": "DRAGONX",
+    "id": "0xA86B8f6860d91fD5AfF9Df05E4306ce6cbB3BF7B",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x96a5399D07896f757Bd4c6eF56461F58DB951862.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xA86B8f6860d91fD5AfF9Df05E4306ce6cbB3BF7B",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Metacade from Ethereum",
+    "symbol": "MCADE",
+    "id": "0x8EeDdFFfcb87227E7ed692a6DABcc1797E5A397f",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xed328E9C1179a30ddC1E7595E036AEd8760C22aF.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x8EeDdFFfcb87227E7ed692a6DABcc1797E5A397f",
+    "chain": 369
+}

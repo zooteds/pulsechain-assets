@@ -1,0 +1,10 @@
+{
+    "name": "Gala Music from Ethereum",
+    "symbol": "$MUSIC",
+    "id": "0x3Fbc7E66500d6A53d8b66F1097Ab8B42f161619f",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xD8c0b13B551718b808fc97eAd59499d5Ef862775.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3Fbc7E66500d6A53d8b66F1097Ab8B42f161619f",
+    "chain": 369
+}

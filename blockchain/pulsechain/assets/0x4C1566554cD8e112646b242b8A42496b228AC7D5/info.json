@@ -1,0 +1,10 @@
+{
+    "name": "Jerome Powell from Ethereum",
+    "symbol": "$POWELL",
+    "id": "0x4C1566554cD8e112646b242b8A42496b228AC7D5",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xAbD893C19423b35bf5Eb0ae00E90a1BB86aE68c9.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x4C1566554cD8e112646b242b8A42496b228AC7D5",
+    "chain": 369
+}

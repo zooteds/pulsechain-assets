@@ -1,0 +1,10 @@
+{
+    "name": "FLEX Coin from Ethereum",
+    "symbol": "FLEX",
+    "id": "0x1F131D1E422C024a3b8CD25613fF7e73028758B2",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xFcF8eda095e37A41e002E266DaAD7efC1579bc0A.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x1F131D1E422C024a3b8CD25613fF7e73028758B2",
+    "chain": 369
+}

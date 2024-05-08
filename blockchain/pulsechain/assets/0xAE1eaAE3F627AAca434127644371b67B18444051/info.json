@@ -1,0 +1,12 @@
+{
+    "name": "YOP",
+    "website": "https://yop.finance/",
+    "description": "Forked from Ethereum with Pulsechain. YOP is the token for YOP finance application.",
+    "explorer": "https://scan.pulsechain.com/token/0xAE1eaAE3F627AAca434127644371b67B18444051",
+    "type": "PRC20",
+    "symbol": "YOP",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+    "chain": 369
+}

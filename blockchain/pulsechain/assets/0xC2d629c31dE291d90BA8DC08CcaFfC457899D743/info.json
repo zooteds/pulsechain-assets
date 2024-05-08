@@ -1,0 +1,10 @@
+{
+    "name": "FOOM from Ethereum",
+    "symbol": "FOOM",
+    "id": "0xC2d629c31dE291d90BA8DC08CcaFfC457899D743",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xC2d629c31dE291d90BA8DC08CcaFfC457899D743",
+    "chain": 369
+}

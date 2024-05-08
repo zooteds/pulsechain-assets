@@ -1,0 +1,10 @@
+{
+    "id": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "symbol": "USDD",
+    "name": "Decentralized USD",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com.",
+    "explorer": "https://scan.pulsechain.com/token/0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+    "chain": 369
+}

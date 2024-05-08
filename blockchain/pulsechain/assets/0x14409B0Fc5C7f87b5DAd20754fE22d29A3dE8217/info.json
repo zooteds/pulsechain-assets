@@ -1,0 +1,15 @@
+{
+    "name": "PYRO Network",
+    "symbol": "PYRO",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://pyro.network/",
+    "explorer": "https://scan.pulsechain.com/token/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+    "status": "active",
+    "id": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

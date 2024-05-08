@@ -1,0 +1,45 @@
+{
+    "name": "OVR from Ethereum",
+    "symbol": "OVR",
+    "id": "0xB7DAB9782c9D8319246f25D16270F616668bed5A",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xB7DAB9782c9D8319246f25D16270F616668bed5A",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697. OVR is the decentralized infrastructure for the spatial web, merging physical and virtual world through Augmented Reality, creating a new dimension where everything is possible.",
+    "website": "https://www.overthereality.ai/",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/OVRtheReality"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/OVRtheReality"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/Overmetaverse"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/ovrannouncements"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/ovrthereality"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ovr"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ovr/"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

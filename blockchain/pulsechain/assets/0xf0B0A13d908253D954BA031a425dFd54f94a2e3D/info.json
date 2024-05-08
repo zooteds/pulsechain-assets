@@ -1,0 +1,12 @@
+{
+    "name": "FlashX Advance",
+    "symbol": "FSXA",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.flashxcoinofficial.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xf0B0A13d908253D954BA031a425dFd54f94a2e3D",
+    "status": "abandoned",
+    "id": "0xf0B0A13d908253D954BA031a425dFd54f94a2e3D",
+    "chain": 369
+}

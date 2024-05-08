@@ -1,0 +1,12 @@
+{
+    "id": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+    "name": "Metis Token",
+    "website": "https://metis.io",
+    "description": "Forked from Ethereum with Pulsechain. Metis Token",
+    "explorer": "https://scan.pulsechain.com/token/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+    "type": "PRC20",
+    "symbol": "Metis",
+    "decimals": 18,
+    "status": "active",
+    "chain": 369
+}

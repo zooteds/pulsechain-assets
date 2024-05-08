@@ -1,0 +1,10 @@
+{
+    "name": "DecentraBNB from Ethereum",
+    "symbol": "DBNB",
+    "id": "0x982Df31a376C2e03Af0Ae5394fd432c66C227Ad8",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x833850BE8858722Cfc5E5e75f2Fe6275E055d888.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x982Df31a376C2e03Af0Ae5394fd432c66C227Ad8",
+    "chain": 369
+}

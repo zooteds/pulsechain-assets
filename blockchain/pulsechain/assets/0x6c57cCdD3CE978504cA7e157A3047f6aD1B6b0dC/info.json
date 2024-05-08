@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped NCG from Ethereum",
+    "symbol": "WNCG",
+    "id": "0x6c57cCdD3CE978504cA7e157A3047f6aD1B6b0dC",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6c57cCdD3CE978504cA7e157A3047f6aD1B6b0dC",
+    "chain": 369
+}

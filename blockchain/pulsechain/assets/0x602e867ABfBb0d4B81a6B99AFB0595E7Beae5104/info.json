@@ -1,0 +1,25 @@
+{
+    "name": "Decentralized USD from Ethereum",
+    "symbol": "USDD",
+    "id": "0x602e867ABfBb0d4B81a6B99AFB0595E7Beae5104",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x602e867ABfBb0d4B81a6B99AFB0595E7Beae5104",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6. USDD is a fully decentralized algorithmic stablecoin",
+    "website": "https://usdd.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/usddio"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://usdd.io/USDD-en.pdf"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ],
+    "chain": 369
+}

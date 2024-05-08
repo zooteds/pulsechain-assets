@@ -1,0 +1,12 @@
+{
+    "name": "Amon",
+    "symbol": "AMN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Worldcore (WRC) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://amon.tech",
+    "explorer": "https://scan.pulsechain.com/token/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+    "status": "active",
+    "id": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
+    "chain": 369
+}

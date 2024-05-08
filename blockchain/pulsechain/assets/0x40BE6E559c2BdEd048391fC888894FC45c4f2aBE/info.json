@@ -1,0 +1,53 @@
+{
+    "name": "AllianceBlock Nexera Token from Ethereum",
+    "symbol": "NXRA",
+    "id": "0x40BE6E559c2BdEd048391fC888894FC45c4f2aBE",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x40BE6E559c2BdEd048391fC888894FC45c4f2aBE",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e. Seamless gateways between TradFi and DeFi",
+    "website": "https://allianceblock.io",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/allianceblock"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AllianceBlock"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/AllianceBlockAnn"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/AllianceBlock/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/allianceblock"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/AllianceBlock"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/allianceblock-nexera"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/Stichting-AllianceBlock-Foundation/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/fB4tkF52H5"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

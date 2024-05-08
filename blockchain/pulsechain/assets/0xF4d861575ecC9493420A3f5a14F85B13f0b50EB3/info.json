@@ -1,0 +1,12 @@
+{
+    "name": "Fractal Protocol Token",
+    "type": "PRC20",
+    "symbol": "FCL",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Fractal enables a free and open Web that respects user privacy, rewards content creators, and protects advertisers from fraud.",
+    "website": "https://protocol.fractal.id/",
+    "explorer": "https://scan.pulsechain.com/token/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+    "id": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
+    "status": "active",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Pepe from Ethereum",
+    "symbol": "WPEPE",
+    "id": "0xa6880d0B9A9271407ebB7D0D68f3B2f2C9d931B1",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xb2fd1E0478Dbf61772996bcCE8A2F1151EEeda37.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xa6880d0B9A9271407ebB7D0D68f3B2f2C9d931B1",
+    "chain": 369
+}

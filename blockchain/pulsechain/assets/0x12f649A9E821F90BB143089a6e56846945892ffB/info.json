@@ -1,0 +1,12 @@
+{
+    "name": "uDOO",
+    "symbol": "uDOO",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "http://www.hyprr.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x12f649A9E821F90BB143089a6e56846945892ffB",
+    "status": "active",
+    "id": "0x12f649A9E821F90BB143089a6e56846945892ffB",
+    "chain": 369
+}

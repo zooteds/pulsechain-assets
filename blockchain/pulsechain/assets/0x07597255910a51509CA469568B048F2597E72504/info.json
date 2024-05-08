@@ -1,0 +1,12 @@
+{
+    "name": "Uptrennd",
+    "symbol": "1UP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.uptrennd.com",
+    "explorer": "https://scan.pulsechain.com/token/0x07597255910a51509CA469568B048F2597E72504",
+    "status": "active",
+    "id": "0x07597255910a51509CA469568B048F2597E72504",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Pundi X Token",
+    "website": "https://pundix.com",
+    "description": "Forked from Ethereum with Pulsechain. Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.",
+    "explorer": "https://scan.pulsechain.com/token/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+    "type": "PRC20",
+    "symbol": "NPXS",
+    "decimals": 18,
+    "status": "abandoned",
+    "id": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+    "chain": 369
+}

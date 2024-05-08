@@ -1,0 +1,10 @@
+{
+    "name": "IlluminatiCoin from Ethereum",
+    "symbol": "NATI",
+    "id": "0xe10aE7FC2fB7839Aad8c3F0f4A7Cb6CF5e1f1F16",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xe10aE7FC2fB7839Aad8c3F0f4A7Cb6CF5e1f1F16",
+    "chain": 369
+}

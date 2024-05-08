@@ -1,0 +1,18 @@
+{
+    "name": "PRIA from Ethereum",
+    "symbol": "PRIA",
+    "id": "0xf3072F8A3c06cAe4E531A666D743c2B0454BEb48",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xf3072F8A3c06cAe4E531A666D743c2B0454BEb48",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xb9871cB10738eADA636432E86FC0Cb920Dc3De24. PRIA is a fully automated and decentralized digital asset that implements and manages a perpetual ultra-deflationary monetary policy favourable to inflation arbitrage by market participants.",
+    "website": "https://pria.eth.link",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://pria.eth.link"
+        }
+    ],
+    "chain": 369
+}

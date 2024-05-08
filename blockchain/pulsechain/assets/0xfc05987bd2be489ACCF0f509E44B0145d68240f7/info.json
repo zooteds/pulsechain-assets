@@ -1,0 +1,12 @@
+{
+    "name": "ESSENTIA",
+    "symbol": "ESS",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Essentia is a masternoded multi-chained set of protocols connecting centralized and decentralized resources to create new powerful interactions and experiences.",
+    "website": "https://essentia.one/",
+    "explorer": "https://scan.pulsechain.com/token/0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+    "status": "active",
+    "id": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+    "chain": 369
+}

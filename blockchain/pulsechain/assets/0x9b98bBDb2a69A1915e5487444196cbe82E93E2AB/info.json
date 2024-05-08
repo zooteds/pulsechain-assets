@@ -1,0 +1,12 @@
+{
+    "name": "VERA from Ethereum",
+    "symbol": "VRA",
+    "id": "0x9b98bBDb2a69A1915e5487444196cbe82E93E2AB",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x9b98bBDb2a69A1915e5487444196cbe82E93E2AB",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF411903cbC70a74d22900a5DE66A2dda66507255. Verasity",
+    "website": "https://verasity.io",
+    "chain": 369
+}

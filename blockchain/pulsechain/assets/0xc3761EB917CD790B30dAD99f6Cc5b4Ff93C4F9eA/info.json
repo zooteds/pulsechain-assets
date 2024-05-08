@@ -1,0 +1,15 @@
+{
+    "name": "ERC20",
+    "symbol": "ERC20",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
+    "website": "https://erc20.tech",
+    "explorer": "https://scan.pulsechain.com/token/0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+    "status": "active",
+    "id": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

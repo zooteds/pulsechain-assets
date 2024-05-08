@@ -1,0 +1,10 @@
+{
+    "name": "BOB from Ethereum",
+    "symbol": "BOB",
+    "id": "0x6d0E46C0D915AA43576A204E62A4c9773A0281cD",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6d0E46C0D915AA43576A204E62A4c9773A0281cD",
+    "chain": 369
+}

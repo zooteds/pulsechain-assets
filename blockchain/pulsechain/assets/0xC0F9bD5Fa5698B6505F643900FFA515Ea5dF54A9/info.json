@@ -1,0 +1,12 @@
+{
+    "name": "Donut",
+    "symbol": "DONUT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Donut is an ERC-20 token that represents the community points of /r/ethtrader subreddit.",
+    "website": "https://www.reddit.com/r/ethtrader",
+    "explorer": "https://scan.pulsechain.com/token/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+    "status": "active",
+    "id": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+    "chain": 369
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mog Coin from Ethereum",
+    "symbol": "Mog",
+    "id": "0x7A437D8464700888B8986684334dE30727B180Ce",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x7A437D8464700888B8986684334dE30727B180Ce",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a. This coin Mogs all other coins.",
+    "website": "https://mogcoin.xyz/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MogCoinEth"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/mog-coin"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

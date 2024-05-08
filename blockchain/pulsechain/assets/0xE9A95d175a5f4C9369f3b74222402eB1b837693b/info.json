@@ -1,0 +1,12 @@
+{
+    "name": "ChangeNOW",
+    "symbol": "NOW",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+    "status": "abandoned",
+    "id": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+    "chain": 369
+}

@@ -1,0 +1,34 @@
+{
+    "name": "DogeGF from Ethereum",
+    "symbol": "DOGEGF",
+    "id": "0xDF7E38850FD59756A23889c87eBD8f491B4c16EA",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xDF7E38850FD59756A23889c87eBD8f491B4c16EA",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfb130d93E49DcA13264344966A611dc79a456Bc5. DogeGF is a peer-to-peer community governed by reciprocity.",
+    "website": "https://www.dogegf.com/",
+    "links": [
+        {
+            "name": "medium",
+            "url": "https://dogegf.medium.com/"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/dogegf/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dogegftoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DogeGF_Official"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/Tjr8AvFBTP"
+        }
+    ],
+    "chain": 369
+}

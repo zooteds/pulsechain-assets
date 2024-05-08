@@ -1,0 +1,33 @@
+{
+    "name": "Wrapped MIR Token from Ethereum",
+    "symbol": "MIR",
+    "id": "0x9e0e700b33F08E45401cA841b92704A0aCeAb0b9",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x9e0e700b33F08E45401cA841b92704A0aCeAb0b9",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x09a3EcAFa817268f77BE1283176B946C4ff2E608. Goverance token of Mirror Protocol.",
+    "website": "https://mirror.finance",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MirrorProtocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/mirror_protocol"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/MirrorProtocol"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@mirror-protocol"
+        }
+    ],
+    "tags": [
+        "wrapped"
+    ],
+    "chain": 369
+}

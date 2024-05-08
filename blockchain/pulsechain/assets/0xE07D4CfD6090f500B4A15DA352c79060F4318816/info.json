@@ -1,0 +1,10 @@
+{
+    "name": "dogwifhat from Ethereum",
+    "symbol": "dogwifhat",
+    "id": "0xE07D4CfD6090f500B4A15DA352c79060F4318816",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8AEC4bbDcfB451aA289bfBD3C2F4E34A44ADa1be.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xE07D4CfD6090f500B4A15DA352c79060F4318816",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "id": "0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+    "symbol": "CAW",
+    "name": "A Hunters Dream",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xf3b9569F82B18aEf890De263B84189bd33EBe452",
+    "chain": 369
+}

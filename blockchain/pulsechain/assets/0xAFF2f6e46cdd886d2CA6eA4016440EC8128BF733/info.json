@@ -1,0 +1,26 @@
+{
+    "name": "Adventure Gold from Ethereum",
+    "symbol": "AGLD",
+    "id": "0xAFF2f6e46cdd886d2CA6eA4016440EC8128BF733",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xAFF2f6e46cdd886d2CA6eA4016440EC8128BF733",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x32353A6C91143bfd6C7d363B546e62a9A2489A20. Adventure Gold is the native ERC-20 token of the Loot non-fungible token (NFT) project. Loot is a text-based, randomized adventure gear generated and stored on-chain, created by social media network Vine co-founder Dom Hofmann.",
+    "website": "https://www.lootproject.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lootproject"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/adventure-gold/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/adventure-gold/"
+        }
+    ],
+    "chain": 369
+}

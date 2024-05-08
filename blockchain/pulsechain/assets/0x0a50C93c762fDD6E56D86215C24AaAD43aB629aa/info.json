@@ -1,0 +1,12 @@
+{
+    "name": "LGO Token",
+    "website": "https://lgo.group",
+    "description": "Forked from Ethereum with Pulsechain. LGO provides a wide range of financial services on digital assets to an international and professional client base.",
+    "explorer": "https://scan.pulsechain.com/token/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+    "type": "PRC20",
+    "symbol": "LGO",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+    "chain": 369
+}

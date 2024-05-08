@@ -1,0 +1,12 @@
+{
+    "name": "UniBomb",
+    "symbol": "UBOMB",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xe31DEbd7AbFF90B06bCA21010dD860d8701fd901",
+    "status": "abandoned",
+    "id": "0xe31DEbd7AbFF90B06bCA21010dD860d8701fd901",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Nimbus Governance Token",
+    "website": "https://nimbusplatform.io",
+    "description": "Forked from Ethereum with Pulsechain. Nimbus - Creating Value Based on Real Use cases for Digital Assets.",
+    "explorer": "https://scan.pulsechain.com/token/0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+    "type": "PRC20",
+    "symbol": "GNBU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Shadows Network",
+    "symbol": "DOWS",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Shadows is a hub for issuing, trading, lending and borrowing synthetic assets.",
+    "website": "http://shadows.link/",
+    "explorer": "https://scan.pulsechain.com/token/0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
+    "status": "active",
+    "id": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
+    "chain": 369
+}

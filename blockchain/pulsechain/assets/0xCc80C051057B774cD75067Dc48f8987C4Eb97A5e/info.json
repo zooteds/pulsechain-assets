@@ -1,0 +1,12 @@
+{
+    "name": "Ethfinex Nectar Token",
+    "website": "https://nectar.community",
+    "description": "Forked from Ethereum with Pulsechain. Nectar serves as the native utility and governance token of decentralised exchange DeversiFi.",
+    "explorer": "https://scan.pulsechain.com/token/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+    "type": "PRC20",
+    "symbol": "NEC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
+    "chain": 369
+}

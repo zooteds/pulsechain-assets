@@ -1,0 +1,30 @@
+{
+    "name": "Ethereum Name Service from Ethereum",
+    "symbol": "ENS",
+    "id": "0x4854492308C1c5116FBb980d1e906FdC22913020",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4854492308C1c5116FBb980d1e906FdC22913020",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72. Decentralised naming for wallets, websites, & more.",
+    "website": "https://ens.domains",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ensdomains"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ensdomains"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/the-ethereum-name-service"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/ens"
+        }
+    ],
+    "chain": 369
+}

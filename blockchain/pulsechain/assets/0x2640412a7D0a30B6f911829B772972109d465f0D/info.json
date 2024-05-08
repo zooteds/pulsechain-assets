@@ -1,0 +1,10 @@
+{
+    "name": "PancakeSwap Token from Ethereum",
+    "symbol": "Cake",
+    "id": "0x2640412a7D0a30B6f911829B772972109d465f0D",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x2640412a7D0a30B6f911829B772972109d465f0D",
+    "chain": 369
+}

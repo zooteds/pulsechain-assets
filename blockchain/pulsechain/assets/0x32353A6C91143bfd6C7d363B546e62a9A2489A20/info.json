@@ -1,0 +1,10 @@
+{
+    "id": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20",
+    "symbol": "AGLD",
+    "name": "Adventure Gold",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x32353A6C91143bfd6C7d363B546e62a9A2489A20",
+    "chain": 369
+}

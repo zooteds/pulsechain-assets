@@ -1,0 +1,12 @@
+{
+    "name": "Cartesi Token",
+    "symbol": "CTSI",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://cartesi.io",
+    "explorer": "https://scan.pulsechain.com/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "status": "active",
+    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "chain": 369
+}

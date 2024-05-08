@@ -1,0 +1,10 @@
+{
+    "name": "Validao from Ethereum",
+    "symbol": "VDO",
+    "id": "0x1D2a693845938d159316dB9Ba44F1155cFd4216b",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2ef8a2Ccb058915E00E16aA13Cc6E36F19D8893b.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x1D2a693845938d159316dB9Ba44F1155cFd4216b",
+    "chain": 369
+}

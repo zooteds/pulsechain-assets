@@ -1,0 +1,12 @@
+{
+    "name": "TrustSwap Token",
+    "symbol": "SWAP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. A Full-Service Digital Asset Ecosystem.",
+    "website": "https://trustswap.org",
+    "explorer": "https://scan.pulsechain.com/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+    "status": "active",
+    "id": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+    "chain": 369
+}

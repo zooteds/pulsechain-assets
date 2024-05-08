@@ -1,0 +1,10 @@
+{
+    "id": "0xff8C479134A18918059493243943150776cF8CF2",
+    "symbol": "RENQ",
+    "name": "Renq Finance",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xff8C479134A18918059493243943150776cF8CF2",
+    "chain": 369
+}

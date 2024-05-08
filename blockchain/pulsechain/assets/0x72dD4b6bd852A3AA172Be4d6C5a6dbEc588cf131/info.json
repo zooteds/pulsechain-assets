@@ -1,0 +1,12 @@
+{
+    "name": "NAGA Coin",
+    "symbol": "NGC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.thenagacoin.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+    "status": "abandoned",
+    "id": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
+    "chain": 369
+}

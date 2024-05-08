@@ -1,0 +1,10 @@
+{
+    "name": "Exotix from Ethereum",
+    "symbol": "\u03b5\u03c7\u03bf\u03c4\u0457\u03c7",
+    "id": "0x438832B95f5C82041b0B9e1f994c7AC4dF8e8cF0",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x230BF0637628EF356B63D389e2Ec6c77C8853a11.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x438832B95f5C82041b0B9e1f994c7AC4dF8e8cF0",
+    "chain": 369
+}

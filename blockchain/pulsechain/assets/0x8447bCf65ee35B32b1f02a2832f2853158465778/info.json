@@ -1,0 +1,10 @@
+{
+    "name": "Hedgehog Racing from Ethereum",
+    "symbol": "SONIC",
+    "id": "0x8447bCf65ee35B32b1f02a2832f2853158465778",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6D56cdDd23a693ED3851fA0A5d8c67A8739537C8.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x8447bCf65ee35B32b1f02a2832f2853158465778",
+    "chain": 369
+}

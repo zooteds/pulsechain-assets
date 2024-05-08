@@ -1,0 +1,10 @@
+{
+    "name": "Dawg Coin from Ethereum",
+    "symbol": "DAWG",
+    "id": "0xd646bd6430A55A941cB88F4811aD70f4640e61A5",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xD5Fa38027462691769b8A8BA6C444890103B5B94.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xd646bd6430A55A941cB88F4811aD70f4640e61A5",
+    "chain": 369
+}

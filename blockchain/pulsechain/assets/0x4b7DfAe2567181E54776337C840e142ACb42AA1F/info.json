@@ -1,0 +1,12 @@
+{
+    "name": "GOD KIMCHI",
+    "website": "https://kimchi.finance/",
+    "description": "Forked from Ethereum with Pulsechain. yield farming token with a halving function",
+    "explorer": "https://scan.pulsechain.com/token/0x4b7DfAe2567181E54776337C840e142ACb42AA1F",
+    "type": "PRC20",
+    "symbol": "gKIMCHI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4b7DfAe2567181E54776337C840e142ACb42AA1F",
+    "chain": 369
+}

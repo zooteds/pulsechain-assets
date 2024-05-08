@@ -1,0 +1,26 @@
+{
+    "name": "Green from Ethereum",
+    "symbol": "GREEN",
+    "id": "0x89EB34d54AB91F57e35da32F1fb9Dfd42C401BEC",
+    "type": "PRC20",
+    "decimals": 8,
+    "explorer": "https://scan.pulsechain.com/token/0x89EB34d54AB91F57e35da32F1fb9Dfd42C401BEC",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xb2089A7069861C8D90c8dA3aaCAB8e9188C0C531. Green is the utility token powering the Green ecosystem. Green is a paradigm shift in blockchain technology. The revolutionary Green Smart Node can be operated on any device enabling users around the globe to mine digital rewards by converting and sharing electricity using software capable of running on any connected device.",
+    "website": "https://share.green/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/setpowerfree"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/green-blockchain"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/setpowerfree"
+        }
+    ],
+    "chain": 369
+}

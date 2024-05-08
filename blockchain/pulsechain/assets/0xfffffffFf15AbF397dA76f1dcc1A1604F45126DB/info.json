@@ -1,0 +1,12 @@
+{
+    "name": "FalconSwap Token",
+    "website": "https://falconswap.com",
+    "description": "Forked from Ethereum with Pulsechain. The Powerhouse for DeFi",
+    "explorer": "https://scan.pulsechain.com/token/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+    "type": "PRC20",
+    "symbol": "FSW",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+    "chain": 369
+}

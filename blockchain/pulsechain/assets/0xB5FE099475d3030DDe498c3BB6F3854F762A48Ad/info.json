@@ -1,0 +1,26 @@
+{
+    "name": "Finiko",
+    "website": "https://fnktoken.com",
+    "description": "Forked from Ethereum with Pulsechain. Token FNK. Ready-made solutions for maximum profit",
+    "explorer": "https://scan.pulsechain.com/token/0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad",
+    "type": "PRC20",
+    "symbol": "FNK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ethereum"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/fnktoken"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/finiko.token"
+        }
+    ],
+    "chain": 369
+}

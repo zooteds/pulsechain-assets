@@ -1,0 +1,12 @@
+{
+    "name": "VISOR",
+    "symbol": "VISR",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Interact with DeFi protocols through an NFT, enhancing the discovery, reputation, safety and programmability of on-chain liquidity",
+    "website": "https://visor.finance",
+    "explorer": "https://scan.pulsechain.com/token/0xF938424F7210f31dF2Aee3011291b658f872e91e",
+    "status": "active",
+    "id": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+    "chain": 369
+}

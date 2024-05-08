@@ -1,0 +1,10 @@
+{
+    "name": "PoorPleb from Ethereum",
+    "symbol": "PP",
+    "id": "0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x9565c2036963697786705120Fc59310F747bCfD0.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x75DB6c0115bAE972979bAcCce94E3B8a21A48C4E",
+    "chain": 369
+}

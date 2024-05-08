@@ -1,0 +1,10 @@
+{
+    "name": "Rush coin from Ethereum",
+    "symbol": "RUSH",
+    "id": "0x789A71Dee06696c273F311B681bc3c2DA3d11983",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x382A1667C9062F0621362F49076Ef6e4fE4C9eC7.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x789A71Dee06696c273F311B681bc3c2DA3d11983",
+    "chain": 369
+}

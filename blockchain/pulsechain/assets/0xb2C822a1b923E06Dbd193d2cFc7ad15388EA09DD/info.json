@@ -1,0 +1,12 @@
+{
+    "name": "Vampire Protocol",
+    "website": "https://vampire.finance/",
+    "description": "Forked from Ethereum with Pulsechain. VAMP is native token for Vampire Protocol. VAMP gains value by rebasing and farming tokens & items. MANA Token - a token that grants a holder an enhanced rebase.",
+    "explorer": "https://scan.pulsechain.com/token/0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+    "type": "PRC20",
+    "symbol": "VAMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+    "chain": 369
+}

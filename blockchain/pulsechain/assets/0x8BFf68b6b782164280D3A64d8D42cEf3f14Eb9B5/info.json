@@ -1,0 +1,16 @@
+{
+    "name": "DAO Maker from Ethereum",
+    "symbol": "DAO",
+    "id": "0x8BFf68b6b782164280D3A64d8D42cEf3f14Eb9B5",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x8BFf68b6b782164280D3A64d8D42cEf3f14Eb9B5",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0f51bb10119727a7e5eA3538074fb341F56B09Ad. DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors.",
+    "website": "https://daomaker.com/",
+    "tags": [
+        "defi",
+        "governance"
+    ],
+    "chain": 369
+}

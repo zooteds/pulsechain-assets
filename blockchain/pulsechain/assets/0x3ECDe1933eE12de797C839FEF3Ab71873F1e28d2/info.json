@@ -1,0 +1,10 @@
+{
+    "name": "DUBX from Ethereum",
+    "symbol": "DUB",
+    "id": "0x3ECDe1933eE12de797C839FEF3Ab71873F1e28d2",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x75CE16D11B83605aa039D40d7d846ff23064Fb65.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3ECDe1933eE12de797C839FEF3Ab71873F1e28d2",
+    "chain": 369
+}

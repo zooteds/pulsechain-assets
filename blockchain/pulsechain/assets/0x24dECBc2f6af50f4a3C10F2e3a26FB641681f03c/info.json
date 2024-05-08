@@ -1,0 +1,10 @@
+{
+    "name": "\u018e\u0500\u018e\u0500 from Ethereum",
+    "symbol": "\u018e\u0500\u018e\u0500",
+    "id": "0x24dECBc2f6af50f4a3C10F2e3a26FB641681f03c",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x69D29F1b0cC37d8d3B61583c99Ad0ab926142069.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x24dECBc2f6af50f4a3C10F2e3a26FB641681f03c",
+    "chain": 369
+}

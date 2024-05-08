@@ -1,0 +1,10 @@
+{
+    "name": "Landwolf from Ethereum",
+    "symbol": "Wolf",
+    "id": "0x73A68fa99C28293abF0C231567D7895808a796F3",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xf6aFC05fCCEa5A53F22A3e39fFeE861e016Bd9A0.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x73A68fa99C28293abF0C231567D7895808a796F3",
+    "chain": 369
+}

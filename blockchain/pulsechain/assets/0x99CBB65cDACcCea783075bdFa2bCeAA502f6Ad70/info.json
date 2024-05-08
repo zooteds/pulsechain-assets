@@ -1,0 +1,10 @@
+{
+    "name": "PolkaEx from Ethereum",
+    "symbol": "PKEX",
+    "id": "0x99CBB65cDACcCea783075bdFa2bCeAA502f6Ad70",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x99CBB65cDACcCea783075bdFa2bCeAA502f6Ad70",
+    "chain": 369
+}

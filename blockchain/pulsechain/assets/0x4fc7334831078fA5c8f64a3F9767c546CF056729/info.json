@@ -1,0 +1,12 @@
+{
+    "name": "Gas DAO from Ethereum",
+    "symbol": "GAS",
+    "id": "0x4fc7334831078fA5c8f64a3F9767c546CF056729",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4fc7334831078fA5c8f64a3F9767c546CF056729",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6Bba316c48b49BD1eAc44573c5c871ff02958469. A super-DAO formed with the vision of being the heartbeat and voice of the largest community of Web3 native users on the Ethereum Network.",
+    "website": "https://www.gasdao.org",
+    "chain": 369
+}

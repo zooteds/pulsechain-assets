@@ -1,0 +1,10 @@
+{
+    "name": "4CHAN from Ethereum",
+    "symbol": "4CHAN",
+    "id": "0x007367E86F684Afcda1964309f028E195C3B26A4",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xe0A458BF4AcF353cB45e211281A334BB1d837885.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x007367E86F684Afcda1964309f028E195C3B26A4",
+    "chain": 369
+}

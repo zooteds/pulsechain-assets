@@ -1,0 +1,16 @@
+{
+    "name": "pNetwork Token",
+    "website": "https://p.network",
+    "description": "Forked from Ethereum with Pulsechain. The heartbeat of cross-chain composability.",
+    "explorer": "https://scan.pulsechain.com/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+    "research": "https://research.binance.com/en/projects/pnetwork",
+    "type": "PRC20",
+    "symbol": "PNT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+    "tags": [
+        "governance"
+    ],
+    "chain": 369
+}

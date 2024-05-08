@@ -1,0 +1,12 @@
+{
+    "name": "Neuromorphic",
+    "symbol": "NMP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://neuromorphic.io",
+    "explorer": "https://scan.pulsechain.com/token/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
+    "status": "abandoned",
+    "id": "0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
+    "chain": 369
+}

@@ -1,0 +1,26 @@
+{
+    "name": "xunii.finance",
+    "website": "https://xunii.finance",
+    "description": "Forked from Ethereum with Pulsechain. A Yield Farming Project.",
+    "explorer": "https://scan.pulsechain.com/token/0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
+    "type": "PRC20",
+    "symbol": "XUNII",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5a50B3d55e9a1089029824a26caaA8f2abFC4bb0",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/xuniifinance/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/xuniifinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/xuniifinance"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Monkeys Token from Ethereum",
+    "symbol": "MONKEYS",
+    "id": "0x85481b1967768491a8B980853C9Cd5b0a4eE7881",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x20CDECBF5d56870b4068a255580a58D068446c92.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x85481b1967768491a8B980853C9Cd5b0a4eE7881",
+    "chain": 369
+}

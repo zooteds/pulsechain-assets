@@ -1,0 +1,12 @@
+{
+    "name": "NucleusVision",
+    "symbol": "nCash",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Our mission is to connect the unconnected, so brick and mortar stores business can access previously unavailable insights.",
+    "website": "https://nucleus.vision",
+    "explorer": "https://scan.pulsechain.com/token/0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+    "status": "active",
+    "id": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+    "chain": 369
+}

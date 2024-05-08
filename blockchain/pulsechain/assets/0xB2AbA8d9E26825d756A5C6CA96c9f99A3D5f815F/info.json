@@ -1,0 +1,12 @@
+{
+    "name": "Keep3rV1 from Ethereum",
+    "symbol": "KP3R",
+    "id": "0xB2AbA8d9E26825d756A5C6CA96c9f99A3D5f815F",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xB2AbA8d9E26825d756A5C6CA96c9f99A3D5f815F",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44. Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.",
+    "website": "https://keep3r.network",
+    "chain": 369
+}

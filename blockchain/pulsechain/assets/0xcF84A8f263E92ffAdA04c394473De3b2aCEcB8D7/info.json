@@ -1,0 +1,35 @@
+{
+    "name": "AirTor Protocol from Ethereum",
+    "symbol": "ATOR",
+    "id": "0xcF84A8f263E92ffAdA04c394473De3b2aCEcB8D7",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xcF84A8f263E92ffAdA04c394473De3b2aCEcB8D7",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0F7B3F5a8FeD821c5eb60049538a548dB2D479ce. ATOR empowers The Onion Router (Tor) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through hardware products.",
+    "website": "https://ator.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/atorprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/atorofficialportal"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ATOR-Development"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/ator"
+        }
+    ],
+    "tags": [
+        "defi",
+        "privacy",
+        "governance"
+    ],
+    "chain": 369
+}

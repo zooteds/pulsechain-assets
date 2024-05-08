@@ -1,0 +1,12 @@
+{
+    "name": "extraDNA",
+    "symbol": "xDNA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Adaptive Social Media System.",
+    "website": "https://xhumanity.org",
+    "explorer": "https://scan.pulsechain.com/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+    "status": "active",
+    "id": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+    "chain": 369
+}

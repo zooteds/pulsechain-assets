@@ -1,0 +1,12 @@
+{
+    "name": "Friends With Benefits Pro",
+    "website": "https://fwb.help",
+    "description": "Forked from Ethereum with Pulsechain. FWB is a Private Discord channel filled with our favorite thinkers, creatives, rebels, and doers.",
+    "explorer": "https://scan.pulsechain.com/token/0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
+    "type": "PRC20",
+    "symbol": "FWB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BlockBlend from Ethereum",
+    "symbol": "BBL",
+    "id": "0x15C935E3988509d3201bB45Cd2F3dc0138B0bAf0",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0a44A7ccEa34A7563Ba1D45A5F757d0B02281124.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x15C935E3988509d3201bB45Cd2F3dc0138B0bAf0",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ethereum Yield",
+    "website": "https://ethereumyield.farm",
+    "description": "Forked from Ethereum with Pulsechain. ETHY describes itself as Ethereum's powerful yield farming coin. ETHY's vault smart-contract executes strategies to maximize APY, reward holders, and punish weak-hands.",
+    "explorer": "https://scan.pulsechain.com/token/0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+    "type": "PRC20",
+    "symbol": "ETHY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+    "chain": 369
+}

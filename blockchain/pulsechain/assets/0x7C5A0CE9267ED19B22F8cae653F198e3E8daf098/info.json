@@ -1,0 +1,12 @@
+{
+    "name": "SANtiment network token",
+    "symbol": "SAN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Tools to help you analyze the crypto market and find data-driven investing opportunities.",
+    "website": "https://santiment.net",
+    "explorer": "https://scan.pulsechain.com/token/0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+    "status": "active",
+    "id": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
+    "chain": 369
+}

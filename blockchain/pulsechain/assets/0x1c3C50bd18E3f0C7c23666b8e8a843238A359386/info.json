@@ -1,0 +1,15 @@
+{
+    "name": "Wrapped SOL from Ethereum",
+    "symbol": "SOL",
+    "id": "0x1c3C50bd18E3f0C7c23666b8e8a843238A359386",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x1c3C50bd18E3f0C7c23666b8e8a843238A359386",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xD31a59c85aE9D8edEFeC411D448f90841571b89c. Cross Chain Portal Bridged Token",
+    "website": "https://solana.com/",
+    "tags": [
+        "wrapped"
+    ],
+    "chain": 369
+}

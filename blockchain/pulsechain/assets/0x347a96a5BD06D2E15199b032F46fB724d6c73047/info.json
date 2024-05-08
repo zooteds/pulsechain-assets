@@ -1,0 +1,10 @@
+{
+    "id": "0x347a96a5BD06D2E15199b032F46fB724d6c73047",
+    "symbol": "ASIC",
+    "name": "Application Specific Internet Coin",
+    "decimals": 12,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x347a96a5BD06D2E15199b032F46fB724d6c73047",
+    "chain": 369
+}

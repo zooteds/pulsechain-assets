@@ -1,0 +1,12 @@
+{
+    "name": "Saitama Inu",
+    "type": "PRC20",
+    "symbol": "SAITAMA",
+    "decimals": 9,
+    "website": "https://saitamatoken.com",
+    "description": "Forked from Ethereum with Pulsechain. Community Owned Decentralised Token",
+    "explorer": "https://scan.pulsechain.com/token/0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
+    "status": "abandoned",
+    "id": "0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F",
+    "chain": 369
+}

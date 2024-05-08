@@ -1,0 +1,23 @@
+{
+    "name": "Sapien Network",
+    "website": "https://sapien.network/",
+    "description": "Forked from Ethereum with Pulsechain. Sapien is an Ethereum-based social network that puts Humans First.",
+    "explorer": "https://scan.pulsechain.com/token/0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+    "research": "",
+    "type": "PRC20",
+    "symbol": "SPN",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/sapiennetwork"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://common.sapien.network/static/pdf/SPNv1_4.pdf"
+        }
+    ],
+    "chain": 369
+}

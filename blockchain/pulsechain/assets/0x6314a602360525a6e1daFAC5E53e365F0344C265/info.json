@@ -1,0 +1,37 @@
+{
+    "name": "Linear Token from Ethereum",
+    "symbol": "LINA",
+    "id": "0x6314a602360525a6e1daFAC5E53e365F0344C265",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x6314a602360525a6e1daFAC5E53e365F0344C265",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3E9BC21C9b189C09dF3eF1B824798658d5011937. Linear Finance is a cross-chain compatible, decentralized delta-one asset protocol to cost-effectively and instantly create, manage, and trade synthetic assets with unlimited liquidity",
+    "website": "https://linear.finance/",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Linear-finance/linear"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LinearFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/linearfinanceofficial"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/linear/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/linear-bsc/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

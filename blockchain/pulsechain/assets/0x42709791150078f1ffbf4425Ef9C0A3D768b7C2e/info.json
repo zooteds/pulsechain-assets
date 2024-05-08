@@ -1,0 +1,10 @@
+{
+    "name": "Love from Ethereum",
+    "symbol": "LOVE",
+    "id": "0x42709791150078f1ffbf4425Ef9C0A3D768b7C2e",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB22C05CeDbF879a661fcc566B5a759d005Cf7b4C.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x42709791150078f1ffbf4425Ef9C0A3D768b7C2e",
+    "chain": 369
+}

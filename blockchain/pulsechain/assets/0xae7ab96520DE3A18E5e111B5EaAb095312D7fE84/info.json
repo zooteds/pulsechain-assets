@@ -1,0 +1,12 @@
+{
+    "name": "Liquid staked Ether 2.0",
+    "website": "https://stake.lido.fi",
+    "description": "Forked from Ethereum with Pulsechain. stETH is a token that represents staked ether in Lido.",
+    "explorer": "https://scan.pulsechain.com/token/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "type": "PRC20",
+    "symbol": "stETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "chain": 369
+}

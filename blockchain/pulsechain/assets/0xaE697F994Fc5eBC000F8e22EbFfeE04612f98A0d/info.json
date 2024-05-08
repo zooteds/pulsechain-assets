@@ -1,0 +1,12 @@
+{
+    "name": "LGCY Network",
+    "symbol": "LGCY",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. LGCY (Legacy) Network is a dApp based blockchain running on the Libertas Protocol to engage community participation.",
+    "website": "https://lgcy.network/",
+    "explorer": "https://scan.pulsechain.com/token/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+    "status": "active",
+    "id": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+    "chain": 369
+}

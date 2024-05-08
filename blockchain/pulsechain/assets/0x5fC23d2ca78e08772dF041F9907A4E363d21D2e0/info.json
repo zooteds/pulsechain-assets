@@ -1,0 +1,12 @@
+{
+    "name": "Metis Token from Ethereum",
+    "symbol": "Metis",
+    "id": "0x5fC23d2ca78e08772dF041F9907A4E363d21D2e0",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x5fC23d2ca78e08772dF041F9907A4E363d21D2e0",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x9E32b13ce7f2E80A01932B42553652E053D6ed8e. Metis Token",
+    "website": "https://metis.io",
+    "chain": 369
+}

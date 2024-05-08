@@ -1,0 +1,12 @@
+{
+    "name": "Kuma Inu",
+    "website": "https://kumatoken.com",
+    "description": "Forked from Ethereum with Pulsechain. Decentralized Meme Tokens that grew into a vibrant ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0x48C276e8d03813224bb1e55F953adB6d02FD3E02",
+    "type": "PRC20",
+    "symbol": "KUMA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x48C276e8d03813224bb1e55F953adB6d02FD3E02",
+    "chain": 369
+}

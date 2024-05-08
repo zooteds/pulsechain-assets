@@ -1,0 +1,12 @@
+{
+    "name": "Nuggets",
+    "symbol": "NUG",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Nuggets is a decentralized, self-sovereign ID and payments platform",
+    "website": "https://nuggets.life/",
+    "explorer": "https://scan.pulsechain.com/token/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+    "status": "active",
+    "id": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
+    "chain": 369
+}

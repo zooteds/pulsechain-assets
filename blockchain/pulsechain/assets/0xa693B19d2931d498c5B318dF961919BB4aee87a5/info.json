@@ -1,0 +1,15 @@
+{
+    "name": "UST",
+    "type": "PRC20",
+    "symbol": "UST",
+    "decimals": 6,
+    "description": "Forked from Ethereum with Pulsechain. Cross Chain Portal Bridged Token",
+    "website": "https://wormholebridge.com",
+    "explorer": "https://scan.pulsechain.com/token/0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+    "status": "active",
+    "id": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
+    "tags": [
+        "wrapped"
+    ],
+    "chain": 369
+}

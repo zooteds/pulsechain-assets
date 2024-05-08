@@ -1,0 +1,37 @@
+{
+    "name": "Maple Token",
+    "type": "PRC20",
+    "symbol": "MPL",
+    "decimals": 18,
+    "website": "https://maple.finance/",
+    "description": "Forked from Ethereum with Pulsechain. Maple is a DeFi lending protocol for corporate and institutional capital.",
+    "explorer": "https://scan.pulsechain.com/token/0x33349B282065b0284d756F0577FB39c158F935e6",
+    "status": "active",
+    "id": "0x33349B282065b0284d756F0577FB39c158F935e6",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/maplefinance"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/maple-labs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/maplefinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/maple/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/maple/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

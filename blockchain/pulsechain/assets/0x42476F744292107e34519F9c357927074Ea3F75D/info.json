@@ -1,0 +1,10 @@
+{
+    "id": "0x42476F744292107e34519F9c357927074Ea3F75D",
+    "symbol": "LOOM",
+    "name": "Loom Token",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com.",
+    "explorer": "https://scan.pulsechain.com/token/0x42476F744292107e34519F9c357927074Ea3F75D",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Icy from Ethereum",
+    "symbol": "IC",
+    "id": "0x0a68A6199038325DBb3e4821659a84e4985227F4",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xA876f27F13A9eB6E621202cEFDD5AFc4a90E6457.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x0a68A6199038325DBb3e4821659a84e4985227F4",
+    "chain": 369
+}

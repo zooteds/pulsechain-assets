@@ -1,0 +1,30 @@
+{
+    "name": "LooksRare Token",
+    "symbol": "LOOKS",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. LooksRare is the community-first NFT marketplace with rewards for participating. ",
+    "website": "https://looksrare.org",
+    "explorer": "https://scan.pulsechain.com/token/0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+    "status": "active",
+    "id": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+    "tags": [
+        "nft",
+        "gamefi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LooksRareNFT"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/looksrare"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/looksrare/"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,22 @@
+{
+    "name": "SYNC",
+    "website": "https://syncbond.com",
+    "description": "Forked from Ethereum with Pulsechain. SYNC is the underlying reward token for the NFT CryptoBond DeFi protocol.",
+    "explorer": "https://scan.pulsechain.com/token/0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
+    "type": "PRC20",
+    "symbol": "SYNC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/C-O-F-E/CBONDS"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://syncbond.com/sync_whitepaper"
+        }
+    ],
+    "chain": 369
+}

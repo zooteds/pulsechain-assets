@@ -1,0 +1,29 @@
+{
+    "name": "Everipedia IQ",
+    "type": "PRC20",
+    "symbol": "IQ",
+    "decimals": 18,
+    "website": "https://iq.wiki/",
+    "description": "Forked from Ethereum with Pulsechain. Everipedia IQ\u2019s mission is to bring the world\u2019s knowledge on-chain.",
+    "explorer": "https://scan.pulsechain.com/token/0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+    "status": "active",
+    "id": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Everipedia"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/EveripediaNetwork"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/everipedia/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

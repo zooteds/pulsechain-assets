@@ -1,0 +1,12 @@
+{
+    "name": "Compound Dai",
+    "symbol": "cDAI",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+    "website": "https://compound.finance/",
+    "explorer": "https://scan.pulsechain.com/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+    "status": "active",
+    "id": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+    "chain": 369
+}

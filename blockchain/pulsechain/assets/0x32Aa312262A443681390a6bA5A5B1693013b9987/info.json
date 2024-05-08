@@ -1,0 +1,10 @@
+{
+    "name": "Sect Bot from Ethereum",
+    "symbol": "SECT",
+    "id": "0x32Aa312262A443681390a6bA5A5B1693013b9987",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x24EdDeD3f03abb2e9D047464294133378bddB596.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x32Aa312262A443681390a6bA5A5B1693013b9987",
+    "chain": 369
+}

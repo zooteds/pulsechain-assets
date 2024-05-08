@@ -1,0 +1,12 @@
+{
+    "name": "Crypto User Base",
+    "symbol": "CUB",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://cryptouserbase.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
+    "status": "abandoned",
+    "id": "0xa8892bfc33FA44053a9E402B1839966f4FEc74A4",
+    "chain": 369
+}

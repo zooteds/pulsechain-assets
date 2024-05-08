@@ -1,0 +1,12 @@
+{
+    "name": "FOAM Token",
+    "symbol": "FOAM",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The FOAM Proof of Location protocol is a permissionless and autonomous network of radio beacons that can offer secure location services independent of external centralized sources such as GPS.",
+    "website": "https://www.foam.space/",
+    "explorer": "https://scan.pulsechain.com/token/0x4946Fcea7C692606e8908002e55A582af44AC121",
+    "status": "active",
+    "id": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+    "chain": 369
+}

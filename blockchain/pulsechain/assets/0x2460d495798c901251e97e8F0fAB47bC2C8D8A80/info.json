@@ -1,0 +1,10 @@
+{
+    "name": "PUMLx from Ethereum",
+    "symbol": "PUMLx",
+    "id": "0x2460d495798c901251e97e8F0fAB47bC2C8D8A80",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8c088775e4139af116Ac1FA6f281Bbf71E8c1c73.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x2460d495798c901251e97e8F0fAB47bC2C8D8A80",
+    "chain": 369
+}

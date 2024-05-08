@@ -1,0 +1,10 @@
+{
+    "name": "Chainflip from Ethereum",
+    "symbol": "FLIP",
+    "id": "0xE6102E8Cbd5faBADDD02ab1E0674C56039dDCb6c",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x826180541412D574cf1336d22c0C0a287822678A.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xE6102E8Cbd5faBADDD02ab1E0674C56039dDCb6c",
+    "chain": 369
+}

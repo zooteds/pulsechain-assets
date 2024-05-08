@@ -1,0 +1,26 @@
+{
+    "name": "KOROMARU",
+    "type": "PRC20",
+    "symbol": "KOROMARU",
+    "decimals": 9,
+    "website": "https://koromaruinu.net/",
+    "description": "Forked from Ethereum with Pulsechain. KOROMARU is a hybrid dog/anime/gaming meme token benefitting investors and expanding our reach into budding gaming ecosystems.",
+    "explorer": "https://scan.pulsechain.com/token/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
+    "status": "active",
+    "id": "0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KoromaruInu"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/koromaru/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/koromaru"
+        }
+    ],
+    "chain": 369
+}

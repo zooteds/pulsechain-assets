@@ -1,0 +1,30 @@
+{
+    "name": "k21.kanon.art",
+    "website": "https://k21.kanon.art",
+    "description": "Forked from Ethereum with Pulsechain. K21 is a closed-end art vault that provides liquid exposure to a curated collection of 21 unique and original NFT artworks by a diverse roster of influential and pioneering contemporary, digital, and cryptonative artists. Engineered for composability, durability, and equity, K21 establishes a new protocol for art.",
+    "explorer": "https://scan.pulsechain.com/token/0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF",
+    "type": "PRC20",
+    "symbol": "K21",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/kanonart"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/KanonDotArt"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bzEqs25RKN"
+        },
+        {
+            "name": "medium",
+            "url": "https://kanondotart.medium.com"
+        }
+    ],
+    "chain": 369
+}

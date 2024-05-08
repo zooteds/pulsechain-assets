@@ -1,0 +1,12 @@
+{
+    "name": "RAE Token",
+    "symbol": "RAE",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.raetoken.org/",
+    "explorer": "https://scan.pulsechain.com/token/0xE5a3229CCb22b6484594973A03a3851dCd948756",
+    "status": "abandoned",
+    "id": "0xE5a3229CCb22b6484594973A03a3851dCd948756",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "EthereumeRush",
+    "symbol": "EER",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://erush.org/",
+    "explorer": "https://scan.pulsechain.com/token/0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9",
+    "status": "abandoned",
+    "id": "0x3cC5EB07E0e1227613F1DF58f38b549823d11cB9",
+    "chain": 369
+}

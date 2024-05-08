@@ -1,0 +1,21 @@
+{
+    "name": "mStable USD",
+    "website": "https://mstable.org",
+    "description": "Forked from Ethereum with Pulsechain. mStable unites stablecoins, lending and swapping into one standard.",
+    "explorer": "https://scan.pulsechain.com/token/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+    "type": "PRC20",
+    "symbol": "mUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/mstable_"
+        }
+    ],
+    "chain": 369
+}

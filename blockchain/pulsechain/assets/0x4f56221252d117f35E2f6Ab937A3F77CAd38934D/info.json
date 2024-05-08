@@ -1,0 +1,12 @@
+{
+    "name": "CryptoCricketClub",
+    "symbol": "3Cs",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "http://www.cryptocricketclub.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+    "status": "abandoned",
+    "id": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BEN from Ethereum",
+    "symbol": "BEN",
+    "id": "0x16d371153a76AEc5f5bfe6Af621DDE030e643E5D",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xdcc97D2C1048e8F3F2Fc58ACE9024AB8b350e4B1.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x16d371153a76AEc5f5bfe6Af621DDE030e643E5D",
+    "chain": 369
+}

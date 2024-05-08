@@ -1,0 +1,12 @@
+{
+    "name": "PRG from Ethereum",
+    "symbol": "PRG",
+    "id": "0xe706b22396A57A4531Bcf94523D523e5D98FB480",
+    "type": "PRC20",
+    "decimals": 6,
+    "explorer": "https://scan.pulsechain.com/token/0xe706b22396A57A4531Bcf94523D523e5D98FB480",
+    "status": "abandoned",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D. -",
+    "website": "",
+    "chain": 369
+}

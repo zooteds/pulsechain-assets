@@ -1,0 +1,12 @@
+{
+    "name": "Ethereum Blue",
+    "symbol": "BLUE",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. Decentralized 2-Factor Authentication, Blacklisting, Whitelisting, Auto Smart Contract Scanning, & more.",
+    "website": "https://www.blueprotocol.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+    "status": "active",
+    "id": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
+    "chain": 369
+}

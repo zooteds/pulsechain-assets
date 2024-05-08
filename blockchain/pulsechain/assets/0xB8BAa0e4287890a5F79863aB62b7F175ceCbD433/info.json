@@ -1,0 +1,16 @@
+{
+    "name": "Swerve DAO Token",
+    "website": "https://swerve.fi/",
+    "description": "Forked from Ethereum with Pulsechain. A fork that's 100% community owned and governed.",
+    "explorer": "https://scan.pulsechain.com/token/0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+    "research": "https://research.binance.com/en/projects/swerve",
+    "type": "PRC20",
+    "symbol": "SWRV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+    "tags": [
+        "governance"
+    ],
+    "chain": 369
+}

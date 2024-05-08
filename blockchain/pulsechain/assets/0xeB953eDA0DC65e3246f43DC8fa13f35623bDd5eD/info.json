@@ -1,0 +1,10 @@
+{
+    "id": "0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD",
+    "symbol": "RAINI",
+    "name": "Rainicorn",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xeB953eDA0DC65e3246f43DC8fa13f35623bDd5eD",
+    "chain": 369
+}

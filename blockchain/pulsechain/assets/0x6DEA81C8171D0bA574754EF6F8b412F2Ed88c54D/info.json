@@ -1,0 +1,13 @@
+{
+    "name": "LQTY",
+    "website": "https://www.liquity.org",
+    "description": "Forked from Ethereum with Pulsechain. Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+    "explorer": "https://scan.pulsechain.com/token/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+    "research": "https://docs.liquity.org",
+    "type": "PRC20",
+    "symbol": "LQTY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+    "chain": 369
+}

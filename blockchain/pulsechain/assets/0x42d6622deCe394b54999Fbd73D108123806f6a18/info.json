@@ -1,0 +1,12 @@
+{
+    "name": "SPANK",
+    "symbol": "SPANK",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. A cryptoeconomic powered adult entertainment ecosystem built on the Ethereum network.",
+    "website": "https://spankchain.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x42d6622deCe394b54999Fbd73D108123806f6a18",
+    "status": "active",
+    "id": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
+    "chain": 369
+}

@@ -1,0 +1,15 @@
+{
+    "name": "iEx.ec Network Token from Ethereum",
+    "symbol": "RLC",
+    "id": "0x959568888fA2FF54562cC4A58425dc5ca57110dD",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x959568888fA2FF54562cC4A58425dc5ca57110dD",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x607F4C5BB672230e8672085532f7e901544a7375. iExec claims to have developed the first decentralized marketplace for cloud computing resources.",
+    "website": "https://iex.ec",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

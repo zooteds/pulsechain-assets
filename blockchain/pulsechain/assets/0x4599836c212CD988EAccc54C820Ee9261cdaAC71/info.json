@@ -1,0 +1,12 @@
+{
+    "name": "Cryptid",
+    "symbol": "CID",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://crypt-id.com",
+    "explorer": "https://scan.pulsechain.com/token/0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+    "status": "abandoned",
+    "id": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+    "chain": 369
+}

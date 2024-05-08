@@ -1,0 +1,10 @@
+{
+    "name": "Maximus Trio from Ethereum",
+    "symbol": "TRIO",
+    "id": "0x0f3C6134F4022D85127476BC4d3787860E5C5569",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF55cD1e399e1cc3D95303048897a680be3313308.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x0f3C6134F4022D85127476BC4d3787860E5C5569",
+    "chain": 369
+}

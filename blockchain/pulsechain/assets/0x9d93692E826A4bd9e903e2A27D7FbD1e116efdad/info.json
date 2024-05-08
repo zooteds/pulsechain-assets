@@ -1,0 +1,10 @@
+{
+    "id": "0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad",
+    "symbol": "POLY",
+    "name": "Poly Maximus",
+    "decimals": 9,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x9d93692E826A4bd9e903e2A27D7FbD1e116efdad",
+    "chain": 369
+}

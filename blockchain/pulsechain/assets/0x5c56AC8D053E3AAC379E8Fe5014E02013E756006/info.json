@@ -1,0 +1,10 @@
+{
+    "name": "DBXen Token from Ethereum",
+    "symbol": "DXN",
+    "id": "0x5c56AC8D053E3AAC379E8Fe5014E02013E756006",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x5c56AC8D053E3AAC379E8Fe5014E02013E756006",
+    "chain": 369
+}

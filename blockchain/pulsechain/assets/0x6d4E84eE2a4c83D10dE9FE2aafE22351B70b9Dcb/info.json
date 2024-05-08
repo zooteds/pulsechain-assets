@@ -1,0 +1,37 @@
+{
+    "name": "1INCH Token from Ethereum",
+    "symbol": "1INCH",
+    "id": "0x6d4E84eE2a4c83D10dE9FE2aafE22351B70b9Dcb",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x6d4E84eE2a4c83D10dE9FE2aafE22351B70b9Dcb",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x111111111117dC0aa78b770fA6A738034120C302. 1inch is a decentralized exchange (DEX) aggregator, connecting several DEXes into one platform to allow its users to find the most efficient swapping routes across all platforms. In order for a user to find the best price for a swap, they need to look at every exchange \u2014 DEX aggregators eliminate the need for manually checking, bringing efficiency to swapping on DEXs.",
+    "website": "https://1inch.io/",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/1inch"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/1inchNetwork"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.1inch.io/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OneInchNetwork"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/1inch/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

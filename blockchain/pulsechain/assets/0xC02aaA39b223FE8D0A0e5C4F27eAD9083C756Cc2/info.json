@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://weth.io/",
+    "explorer": "https://scan.pulsechain.com/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "status": "active",
+    "id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "chain": 369
+}

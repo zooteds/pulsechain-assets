@@ -1,0 +1,26 @@
+{
+    "name": "WAGMI GAMES from Ethereum",
+    "symbol": "WAGMIGAMES",
+    "id": "0x4CdE44ea8B4d870f246311dEec2F8094E84935Ad",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4CdE44ea8B4d870f246311dEec2F8094E84935Ad",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3B604747ad1720C01ded0455728b62c0d2F100F0. WAGMI Defense is being developed as the Clash Royale of crypto with a futuristic twist. This epic aliens versus humans game is being built on unity as a browser based, mobile responsive game with plans to launch on IOS and Apple Store when it becomes crypto accepted.",
+    "website": "https://www.wagmigame.io/",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/WAGMIOfficialGroup"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wagmigameco"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wagmi-game-2/"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "GRID Token",
+    "website": "https://gridplus.io",
+    "description": "Forked from Ethereum with Pulsechain. GRID is a consumer rights utility token that can be redeemed for access to wholesale electricity pricing and additional discounts.",
+    "explorer": "https://scan.pulsechain.com/token/0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+    "type": "PRC20",
+    "symbol": "GRID",
+    "decimals": 12,
+    "status": "active",
+    "id": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD",
+    "chain": 369
+}

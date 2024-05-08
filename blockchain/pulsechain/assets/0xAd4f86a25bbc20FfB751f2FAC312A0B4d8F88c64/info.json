@@ -1,0 +1,12 @@
+{
+    "name": "OptionRoom Token",
+    "symbol": "ROOM",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. OptionRoom is a user governed oracle and forecast protocol built on Polkadot",
+    "website": "https://www.optionroom.finance/",
+    "explorer": "https://scan.pulsechain.com/token/0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+    "status": "active",
+    "id": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+    "chain": 369
+}

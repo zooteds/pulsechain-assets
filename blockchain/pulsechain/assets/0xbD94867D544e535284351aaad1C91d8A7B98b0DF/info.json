@@ -1,0 +1,10 @@
+{
+    "name": "Granary Token from Ethereum",
+    "symbol": "GRAIN",
+    "id": "0xbD94867D544e535284351aaad1C91d8A7B98b0DF",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF88Baf18FAB7e330fa0C4F83949E23F52FECECce.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xbD94867D544e535284351aaad1C91d8A7B98b0DF",
+    "chain": 369
+}

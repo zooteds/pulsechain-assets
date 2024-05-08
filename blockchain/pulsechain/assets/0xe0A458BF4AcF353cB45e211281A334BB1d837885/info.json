@@ -1,0 +1,10 @@
+{
+    "id": "0xe0A458BF4AcF353cB45e211281A334BB1d837885",
+    "symbol": "4CHAN",
+    "name": "4CHAN",
+    "decimals": 9,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xe0A458BF4AcF353cB45e211281A334BB1d837885",
+    "chain": 369
+}

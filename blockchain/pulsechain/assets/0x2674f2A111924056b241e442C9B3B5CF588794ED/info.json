@@ -1,0 +1,12 @@
+{
+    "name": "Render Token from Ethereum",
+    "symbol": "RNDR",
+    "id": "0x2674f2A111924056b241e442C9B3B5CF588794ED",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x2674f2A111924056b241e442C9B3B5CF588794ED",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24. Distributed GPU rendering on the blockchain.",
+    "website": "https://rendertoken.com/",
+    "chain": 369
+}

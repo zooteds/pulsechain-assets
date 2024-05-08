@@ -1,0 +1,12 @@
+{
+    "name": "PayAccept",
+    "symbol": "PAY",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.payaccept.net/",
+    "explorer": "https://scan.pulsechain.com/token/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+    "status": "abandoned",
+    "id": "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+    "chain": 369
+}

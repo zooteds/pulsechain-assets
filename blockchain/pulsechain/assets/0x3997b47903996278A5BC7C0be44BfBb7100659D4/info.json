@@ -1,0 +1,10 @@
+{
+    "name": "Acreage from Ethereum",
+    "symbol": "ACR",
+    "id": "0x3997b47903996278A5BC7C0be44BfBb7100659D4",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x76306F029f8F99EFFE509534037Ba7030999E3CF.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3997b47903996278A5BC7C0be44BfBb7100659D4",
+    "chain": 369
+}

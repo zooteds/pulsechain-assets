@@ -1,0 +1,12 @@
+{
+    "name": "renZEC",
+    "symbol": "renZEC",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://renproject.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "status": "abandoned",
+    "id": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "chain": 369
+}

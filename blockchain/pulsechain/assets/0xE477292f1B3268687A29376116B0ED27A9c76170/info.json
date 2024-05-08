@@ -1,0 +1,12 @@
+{
+    "name": "Herocoin",
+    "symbol": "PLAY",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. HERO radically changes todays centralized way of online betting. The token and its smart contract allow decentralized peer-to-peer online betting in any field.",
+    "website": "https://www.herocoin.io",
+    "explorer": "https://scan.pulsechain.com/token/0xE477292f1B3268687A29376116B0ED27A9c76170",
+    "status": "active",
+    "id": "0xE477292f1B3268687A29376116B0ED27A9c76170",
+    "chain": 369
+}

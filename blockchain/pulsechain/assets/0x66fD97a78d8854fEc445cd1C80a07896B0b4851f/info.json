@@ -1,0 +1,12 @@
+{
+    "name": "Lunch Money",
+    "symbol": "LMY",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Lunch Money is an ERC20 token built on the Ethereum Blockchain.",
+    "website": "http://lunchmoney.io",
+    "explorer": "https://scan.pulsechain.com/token/0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
+    "status": "active",
+    "id": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Cardstack",
+    "symbol": "CARD",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Cardstack (CARD) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://cardstack.com",
+    "explorer": "https://scan.pulsechain.com/token/0x954b890704693af242613edEf1B603825afcD708",
+    "status": "active",
+    "id": "0x954b890704693af242613edEf1B603825afcD708",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "AIOZ Network from Ethereum",
+    "symbol": "AIOZ",
+    "id": "0xea93Dcebb4BFE351d22c63caC42a2F88C0138A34",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xea93Dcebb4BFE351d22c63caC42a2F88C0138A34",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x626E8036dEB333b408Be468F951bdB42433cBF18. AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
+    "website": "https://aioz.network",
+    "chain": 369
+}

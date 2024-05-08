@@ -1,0 +1,29 @@
+{
+    "name": "Magic Internet Money from Ethereum",
+    "symbol": "MIM",
+    "id": "0xEe0bbc776d1382e0eB9647DfC162922065F7e901",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xEe0bbc776d1382e0eB9647DfC162922065F7e901",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3. MIM is a stablecoin backed by interest bearing collateral",
+    "website": "https://abracadabra.money/",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Abracadabra-money/magic-internet-money"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MIM_Spell"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/magic-internet-money/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

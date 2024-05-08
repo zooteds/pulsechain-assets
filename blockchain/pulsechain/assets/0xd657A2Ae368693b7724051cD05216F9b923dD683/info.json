@@ -1,0 +1,10 @@
+{
+    "name": "Crab Market from Ethereum",
+    "symbol": "CRAB",
+    "id": "0xd657A2Ae368693b7724051cD05216F9b923dD683",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x24BCeC1AFda63E622a97F17cFf9a61FFCfd9b735.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xd657A2Ae368693b7724051cD05216F9b923dD683",
+    "chain": 369
+}

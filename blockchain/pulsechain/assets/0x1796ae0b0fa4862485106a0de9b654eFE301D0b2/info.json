@@ -1,0 +1,12 @@
+{
+    "name": "Polkamon",
+    "website": "http://polychainmonsters.com/",
+    "description": "Forked from Ethereum with Pulsechain. Polychain Monsters are beautifully animated digital collectibles with varying scarcities. Each Polychain Monster is backed by a truly unique NFT and can be unpacked with $PMON tokens.",
+    "explorer": "https://scan.pulsechain.com/token/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+    "type": "PRC20",
+    "symbol": "PMON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+    "chain": 369
+}

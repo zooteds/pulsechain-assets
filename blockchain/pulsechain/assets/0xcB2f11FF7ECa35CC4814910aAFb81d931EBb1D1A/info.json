@@ -1,0 +1,10 @@
+{
+    "name": "Wait from Ethereum",
+    "symbol": "WAIT",
+    "id": "0xcB2f11FF7ECa35CC4814910aAFb81d931EBb1D1A",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x26179a4d4B58b4456F28d19507546596c9058ee5.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xcB2f11FF7ECa35CC4814910aAFb81d931EBb1D1A",
+    "chain": 369
+}

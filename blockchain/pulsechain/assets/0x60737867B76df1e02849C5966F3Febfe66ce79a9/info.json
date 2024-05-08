@@ -1,0 +1,10 @@
+{
+    "name": "Good Gensler from Ethereum",
+    "symbol": "GENSLR",
+    "id": "0x60737867B76df1e02849C5966F3Febfe66ce79a9",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xAd1A5B8538a866eCD56dDd328b50ed57cEd5D936.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x60737867B76df1e02849C5966F3Febfe66ce79a9",
+    "chain": 369
+}

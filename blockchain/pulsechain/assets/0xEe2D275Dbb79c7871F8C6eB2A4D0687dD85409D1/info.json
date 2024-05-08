@@ -1,0 +1,33 @@
+{
+    "name": "ChainLink Token from Ethereum",
+    "symbol": "LINK",
+    "id": "0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xEe2D275Dbb79c7871F8C6eB2A4D0687dD85409D1",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x514910771AF9Ca656af840dff83E8264EcF986CA. Chainlink is a decentralized oracle service, which aims to connect smart contracts with data from the real world. Oracles are needed to function as data feeds in smart contracts. Oracles provide external data (e.g. temperature, weather) that can drive smart contract executions. Participants on the network are incentivized (through rewards) to provide smart contracts with access to external data feeds.",
+    "website": "https://chain.link",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/smartcontractkit/chainlink"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/chainlink"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://link.smartcontract.com/whitepaper"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

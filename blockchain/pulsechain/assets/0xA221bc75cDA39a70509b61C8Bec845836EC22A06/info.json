@@ -1,0 +1,10 @@
+{
+    "name": "Dogechain Token from Ethereum",
+    "symbol": "DC",
+    "id": "0xA221bc75cDA39a70509b61C8Bec845836EC22A06",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x7B4328c127B85369D9f82ca0503B000D09CF9180.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xA221bc75cDA39a70509b61C8Bec845836EC22A06",
+    "chain": 369
+}

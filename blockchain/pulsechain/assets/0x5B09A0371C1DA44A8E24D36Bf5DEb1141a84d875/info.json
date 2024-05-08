@@ -1,0 +1,13 @@
+{
+    "name": "MADToken",
+    "website": "http://madnetwork.com",
+    "description": "Forked from Ethereum with Pulsechain. MadNetwork is a custom blockchain designed to authenticate and manage the identity of organizations, people, or assets in the digital world.",
+    "explorer": "https://scan.pulsechain.com/token/0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+    "research": "",
+    "type": "PRC20",
+    "symbol": "MAD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5B09A0371C1DA44A8E24D36Bf5DEb1141a84d875",
+    "chain": 369
+}

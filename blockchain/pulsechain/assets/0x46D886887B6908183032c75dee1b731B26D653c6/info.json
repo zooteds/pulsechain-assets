@@ -1,0 +1,22 @@
+{
+    "name": "GreenCoin",
+    "website": "https://greenflows.com/",
+    "description": "Forked from Ethereum with Pulsechain. GreenCoin is a decentralized web3 protocol that combines sustainable health data with blockchain technology.",
+    "explorer": "https://scan.pulsechain.com/token/0x46D886887B6908183032c75dee1b731B26D653c6",
+    "type": "PRC20",
+    "symbol": "GRC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x46D886887B6908183032c75dee1b731B26D653c6",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://greenflows.gitbook.io/litepaper/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/greenflowstech"
+        }
+    ],
+    "chain": 369
+}

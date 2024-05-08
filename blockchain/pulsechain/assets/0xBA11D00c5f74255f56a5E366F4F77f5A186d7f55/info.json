@@ -1,0 +1,16 @@
+{
+    "name": "BandToken",
+    "website": "https://bandprotocol.com",
+    "description": "Forked from Ethereum with Pulsechain. Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
+    "explorer": "https://scan.pulsechain.com/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "research": "https://research.binance.com/en/projects/band-protocol",
+    "type": "PRC20",
+    "symbol": "BAND",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

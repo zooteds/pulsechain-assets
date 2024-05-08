@@ -1,0 +1,15 @@
+{
+    "name": "Binance USD from Ethereum",
+    "symbol": "BUSD",
+    "id": "0x2A1520341BfE17FEca04d454cbAc2396570dCB35",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x2A1520341BfE17FEca04d454cbAc2396570dCB35",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x4Fabb145d64652a948d72533023f6E7A623C7C53. BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    "website": "https://paxos.com/busd/",
+    "tags": [
+        "stablecoin"
+    ],
+    "chain": 369
+}

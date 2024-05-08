@@ -1,0 +1,16 @@
+{
+    "name": "Injective Token",
+    "website": "https://injectiveprotocol.com",
+    "description": "Forked from Ethereum with Pulsechain. The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
+    "explorer": "https://scan.pulsechain.com/token/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+    "research": "https://research.binance.com/en/projects/injective-protocol",
+    "type": "PRC20",
+    "symbol": "INJ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

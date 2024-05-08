@@ -1,0 +1,12 @@
+{
+    "name": "GourmetGalaxy",
+    "type": "PRC20",
+    "symbol": "GUM",
+    "decimals": 18,
+    "website": "",
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "explorer": "https://scan.pulsechain.com/token/0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+    "status": "active",
+    "id": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
+    "chain": 369
+}

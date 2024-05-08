@@ -1,0 +1,12 @@
+{
+    "name": "Throne",
+    "type": "PRC20",
+    "symbol": "THN",
+    "decimals": 18,
+    "website": "https://www.thr.one",
+    "description": "Forked from Ethereum with Pulsechain. Throne has developed an exciting and disruptive blockchain technology that will transform our relationship to content and empower content creators like never before.",
+    "explorer": "https://scan.pulsechain.com/token/0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
+    "status": "active",
+    "id": "0x2E95Cea14dd384429EB3c4331B776c4CFBB6FCD9",
+    "chain": 369
+}

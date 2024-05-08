@@ -1,0 +1,33 @@
+{
+    "name": "DinoLFG from Ethereum",
+    "symbol": "DINO",
+    "id": "0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xfd3A511CB1c435D6a6e471392902Bf4A83773d9c",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x49642110B712C1FD7261Bc074105E9E44676c68F. $DINO - Building Bridges Between Crypto, Games, and Financial Adventure!",
+    "website": "https://dinolfg.com",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DinoLFG"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OfficialDinoLFG"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/dinolfg"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/dinolfg"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

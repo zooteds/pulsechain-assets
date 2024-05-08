@@ -1,0 +1,10 @@
+{
+    "id": "0x6cD079F296c10EB84A64239b893D4EdfA2E1d779",
+    "symbol": "PLSCX",
+    "name": "PulseCrypt",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x6cD079F296c10EB84A64239b893D4EdfA2E1d779",
+    "chain": 369
+}

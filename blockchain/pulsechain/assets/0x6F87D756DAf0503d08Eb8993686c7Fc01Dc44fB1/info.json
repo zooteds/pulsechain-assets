@@ -1,0 +1,12 @@
+{
+    "name": "UniTrade",
+    "website": "https://unitrade.app",
+    "description": "Forked from Ethereum with Pulsechain. UniTrade is a completely decentralized trading platform in the DeFi space that is built on top of UniSwap liquidity pools and requires no KYC, no accounts, and has no trading limits.",
+    "explorer": "https://scan.pulsechain.com/token/0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+    "type": "PRC20",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6F87D756DAf0503d08Eb8993686c7Fc01Dc44fB1",
+    "chain": 369
+}

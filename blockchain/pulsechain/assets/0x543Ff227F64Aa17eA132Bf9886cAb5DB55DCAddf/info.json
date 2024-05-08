@@ -1,0 +1,12 @@
+{
+    "name": "DAOstack",
+    "symbol": "GEN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://daostack.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+    "status": "abandoned",
+    "id": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+    "chain": 369
+}

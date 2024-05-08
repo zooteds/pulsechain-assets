@@ -1,0 +1,10 @@
+{
+    "id": "0x3B604747ad1720C01ded0455728b62c0d2F100F0",
+    "symbol": "WAGMIGAMES",
+    "name": "WAGMI GAMES",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x3B604747ad1720C01ded0455728b62c0d2F100F0",
+    "chain": 369
+}

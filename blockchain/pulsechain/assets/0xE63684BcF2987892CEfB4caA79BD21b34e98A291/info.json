@@ -1,0 +1,12 @@
+{
+    "name": "Chicken",
+    "website": "https://chickenswap.org/#/",
+    "description": "Forked from Ethereum with Pulsechain. KFC token has a swap business.",
+    "explorer": "https://scan.pulsechain.com/token/0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+    "type": "PRC20",
+    "symbol": "KFC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
+    "chain": 369
+}

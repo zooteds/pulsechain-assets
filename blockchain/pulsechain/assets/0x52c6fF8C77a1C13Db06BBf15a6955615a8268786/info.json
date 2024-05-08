@@ -1,0 +1,15 @@
+{
+    "name": "Injective Token from Ethereum",
+    "symbol": "INJ",
+    "id": "0x52c6fF8C77a1C13Db06BBf15a6955615a8268786",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x52c6fF8C77a1C13Db06BBf15a6955615a8268786",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30. The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
+    "website": "https://injectiveprotocol.com",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

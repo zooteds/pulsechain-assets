@@ -1,0 +1,10 @@
+{
+    "name": "Captain Inu from Ethereum",
+    "symbol": "CPTINU",
+    "id": "0x6e2187FD7b3396dd91eC2cA56860fa31fe080650",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x7Cca2e1c9B0519f52029467914A15E782BF66971.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6e2187FD7b3396dd91eC2cA56860fa31fe080650",
+    "chain": 369
+}

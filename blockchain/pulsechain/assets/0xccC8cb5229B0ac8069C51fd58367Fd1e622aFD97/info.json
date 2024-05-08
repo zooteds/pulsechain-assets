@@ -1,0 +1,29 @@
+{
+    "name": "Gods Unchained",
+    "website": "https://godsunchained.com",
+    "description": "Forked from Ethereum with Pulsechain. THE TRADING CARD GAME THAT PAYS TO PLAY",
+    "explorer": "https://scan.pulsechain.com/token/0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+    "type": "PRC20",
+    "symbol": "GODS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+    "tags": [
+        "gamefi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/GodsUnchained"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/GodsUnchained/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/godsunchained/"
+        }
+    ],
+    "chain": 369
+}

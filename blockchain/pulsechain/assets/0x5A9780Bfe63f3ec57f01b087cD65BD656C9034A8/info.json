@@ -1,0 +1,10 @@
+{
+    "id": "0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8",
+    "symbol": "COM",
+    "name": "Communis",
+    "decimals": 12,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x5A9780Bfe63f3ec57f01b087cD65BD656C9034A8",
+    "chain": 369
+}

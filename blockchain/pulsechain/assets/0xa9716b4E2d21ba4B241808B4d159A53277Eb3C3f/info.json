@@ -1,0 +1,16 @@
+{
+    "name": "LUSD Stablecoin from Ethereum",
+    "symbol": "LUSD",
+    "id": "0xa9716b4E2d21ba4B241808B4d159A53277Eb3C3f",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xa9716b4E2d21ba4B241808B4d159A53277Eb3C3f",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x5f98805A4E8be255a32880FDeC7F6728C6568bA0. Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+    "website": "https://www.liquity.org",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "chain": 369
+}

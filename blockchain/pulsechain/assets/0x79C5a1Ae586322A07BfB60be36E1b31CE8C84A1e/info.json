@@ -1,0 +1,12 @@
+{
+    "name": "Freight Trust Network",
+    "symbol": "EDI",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://freighttrust.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+    "status": "abandoned",
+    "id": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
+    "chain": 369
+}

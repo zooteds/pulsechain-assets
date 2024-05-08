@@ -1,0 +1,10 @@
+{
+    "name": "PulseCrypt from Ethereum",
+    "symbol": "PLSCX",
+    "id": "0xa28DB4B8B26d4Eca56CF4Be4495b45C6Fc377486",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6cD079F296c10EB84A64239b893D4EdfA2E1d779.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xa28DB4B8B26d4Eca56CF4Be4495b45C6Fc377486",
+    "chain": 369
+}

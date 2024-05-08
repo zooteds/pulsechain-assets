@@ -1,0 +1,12 @@
+{
+    "name": "reflect.finance",
+    "website": "https://reflect.finance",
+    "description": "Forked from Ethereum with Pulsechain. Frictionless Yield Generation. Hold and Earn.",
+    "explorer": "https://scan.pulsechain.com/token/0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+    "type": "PRC20",
+    "symbol": "RFI",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+    "chain": 369
+}

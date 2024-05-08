@@ -1,0 +1,30 @@
+{
+    "name": "KIRA Network",
+    "symbol": "KEX",
+    "type": "PRC20",
+    "decimals": 6,
+    "description": "Forked from Ethereum with Pulsechain. KIRA is a Layer 1 network enabling market access to any digital asset in the cryptocurrency ecosystem.",
+    "website": "https://kira.network",
+    "explorer": "https://scan.pulsechain.com/token/0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+    "status": "active",
+    "id": "0x16980b3B4a3f9D89E33311B5aa8f80303E5ca4F8",
+    "links": [
+        {
+            "name": "source_code",
+            "url": "https://git.kira.network"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kira_core"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kirainterex"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.kira.network"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Lead Token",
+    "website": "https://leadwallet.io",
+    "description": "Forked from Ethereum with Pulsechain. Lead Wallet is a simple decentralized multi-crypto wallet application that allow users to spend, store, swap, stake and exchange cryptocurrencies.",
+    "explorer": "https://scan.pulsechain.com/token/0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+    "type": "PRC20",
+    "symbol": "LEAD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1dD80016e3d4ae146Ee2EBB484e8edD92dacC4ce",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/leadwallet"
+        }
+    ],
+    "chain": 369
+}

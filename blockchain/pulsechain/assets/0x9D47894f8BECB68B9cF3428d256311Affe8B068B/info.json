@@ -1,0 +1,27 @@
+{
+    "name": "$ROPE",
+    "website": "https://rope.lol",
+    "short_description": "powered by anons",
+    "description": "Forked from Ethereum with Pulsechain. Fair launch NFT and yield bearing asset platform.",
+    "explorer": "https://scan.pulsechain.com/token/0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
+    "type": "PRC20",
+    "symbol": "$ROPE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/dontbuyrope/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dontbuyrope"
+        },
+        {
+            "name": "medium",
+            "url": "https://dontbuyrope.medium.com"
+        }
+    ],
+    "chain": 369
+}

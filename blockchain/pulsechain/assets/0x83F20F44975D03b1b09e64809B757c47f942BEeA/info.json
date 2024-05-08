@@ -1,0 +1,10 @@
+{
+    "id": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "symbol": "sDAI",
+    "name": "Savings Dai",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "chain": 369
+}

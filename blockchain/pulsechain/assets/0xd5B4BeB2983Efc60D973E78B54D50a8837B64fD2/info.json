@@ -1,0 +1,16 @@
+{
+    "name": "SAND from Ethereum",
+    "symbol": "SAND",
+    "id": "0xd5B4BeB2983Efc60D973E78B54D50a8837B64fD2",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xd5B4BeB2983Efc60D973E78B54D50a8837B64fD2",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3845badAde8e6dFF049820680d1F14bD3903a5d0. The SAND token is an ERC-20 utility token that is used for value transfers as well as staking and governance.",
+    "website": "https://sandbox.game/en",
+    "tags": [
+        "nft",
+        "gamefi"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Arcona Distribution Contract",
+    "symbol": "ARCONA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.arcona.io/index.html",
+    "explorer": "https://scan.pulsechain.com/token/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+    "status": "abandoned",
+    "id": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+    "chain": 369
+}

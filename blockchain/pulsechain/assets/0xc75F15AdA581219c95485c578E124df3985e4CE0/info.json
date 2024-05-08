@@ -1,0 +1,12 @@
+{
+    "name": "zzz.finance",
+    "symbol": "ZZZ",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://zzz.finance/",
+    "explorer": "https://scan.pulsechain.com/token/0xc75F15AdA581219c95485c578E124df3985e4CE0",
+    "status": "abandoned",
+    "id": "0xc75F15AdA581219c95485c578E124df3985e4CE0",
+    "chain": 369
+}

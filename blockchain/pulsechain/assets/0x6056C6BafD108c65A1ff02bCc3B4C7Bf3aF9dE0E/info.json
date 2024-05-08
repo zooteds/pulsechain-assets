@@ -1,0 +1,10 @@
+{
+    "name": "Loyalty Labs from Ethereum",
+    "symbol": "LOYAL",
+    "id": "0x6056C6BafD108c65A1ff02bCc3B4C7Bf3aF9dE0E",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x511686014F39F487E5CDd5C37B4b37606B795ae3.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6056C6BafD108c65A1ff02bCc3B4C7Bf3aF9dE0E",
+    "chain": 369
+}

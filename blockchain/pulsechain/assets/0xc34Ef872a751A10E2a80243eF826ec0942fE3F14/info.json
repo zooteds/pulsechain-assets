@@ -1,0 +1,12 @@
+{
+    "name": "Bitcoin Uniswap",
+    "website": "https://bitcoinuniswap.org",
+    "description": "Forked from Ethereum with Pulsechain. Bitcoin Uniswap is based on the design of Bitcoin. It comes with a rarer amount, faster transfer speed, and lower fees.",
+    "explorer": "https://scan.pulsechain.com/token/0xc34Ef872a751A10E2a80243eF826ec0942fE3F14",
+    "type": "PRC20",
+    "symbol": "BTCu",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc34Ef872a751A10E2a80243eF826ec0942fE3F14",
+    "chain": 369
+}

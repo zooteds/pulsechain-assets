@@ -1,0 +1,12 @@
+{
+    "name": "Brr Token",
+    "website": "https://brr.finance/",
+    "description": "Forked from Ethereum with Pulsechain. ha ha money printer go brr",
+    "explorer": "https://scan.pulsechain.com/token/0x49f941FA7f5731fe302068d79c8604C24C5E7196",
+    "type": "PRC20",
+    "symbol": "BRR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x49f941FA7f5731fe302068d79c8604C24C5E7196",
+    "chain": 369
+}

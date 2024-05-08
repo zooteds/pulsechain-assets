@@ -1,0 +1,10 @@
+{
+    "name": "NicCageWaluigiElmo42069Inu from Ethereum",
+    "symbol": "SHIB",
+    "id": "0xC63D174Eb6950775C21F31870d0750f98CeeE90d",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfcaF0e4498E78d65526a507360F755178b804Ba8.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xC63D174Eb6950775C21F31870d0750f98CeeE90d",
+    "chain": 369
+}

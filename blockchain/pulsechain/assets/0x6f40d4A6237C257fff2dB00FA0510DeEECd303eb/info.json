@@ -1,0 +1,12 @@
+{
+    "name": "Instadapp",
+    "type": "PRC20",
+    "symbol": "INST",
+    "decimals": 18,
+    "website": "https://Instadapp.io",
+    "description": "Forked from Ethereum with Pulsechain. Middleware platform for decentralized finance applications",
+    "explorer": "https://scan.pulsechain.com/token/0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+    "status": "active",
+    "id": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+    "chain": 369
+}

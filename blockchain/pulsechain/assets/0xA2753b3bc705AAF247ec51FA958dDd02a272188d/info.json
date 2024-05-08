@@ -1,0 +1,39 @@
+{
+    "name": "SIDUS from Ethereum",
+    "symbol": "SIDUS",
+    "id": "0xA2753b3bc705AAF247ec51FA958dDd02a272188d",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xA2753b3bc705AAF247ec51FA958dDd02a272188d",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x549020a9Cb845220D66d3E9c6D9F9eF61C981102. The financial system of the Sidus Heroes game includes two tokens: the SIDUS token and the SENATE token. The SIDUS token is used by players of SIDUS HEROES as in-game currency.",
+    "website": "https://sidusheroes.com",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/sidusHeroes"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/galaxy_sidus"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/sidus-nft-heroes"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/sidus__heroes"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://sidusheroes.com/docs/whitepaper.pdf"
+        }
+    ],
+    "tags": [
+        "gamefi",
+        "nft",
+        "staking"
+    ],
+    "chain": 369
+}

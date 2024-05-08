@@ -1,0 +1,18 @@
+{
+    "name": "Exeedme",
+    "website": "https://exeedme.com/",
+    "description": "Forked from Ethereum with Pulsechain. New Revenue Streams for Gamers",
+    "explorer": "https://scan.pulsechain.com/token/0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+    "type": "PRC20",
+    "symbol": "XED",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/exeedme"
+        }
+    ],
+    "chain": 369
+}

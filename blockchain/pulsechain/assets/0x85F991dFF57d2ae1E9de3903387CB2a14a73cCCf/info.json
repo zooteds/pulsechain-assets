@@ -1,0 +1,22 @@
+{
+    "name": "SpookyToken from Ethereum",
+    "symbol": "BOO",
+    "id": "0x85F991dFF57d2ae1E9de3903387CB2a14a73cCCf",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x85F991dFF57d2ae1E9de3903387CB2a14a73cCCf",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x55aF5865807b196bD0197e0902746F31FBcCFa58. SpookySwap is an automated market-making (AMM) decentralized exchange (DEX) for the Fantom Opera network.",
+    "website": "https://spookyswap.finance/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/spookyswap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/spookyswap/"
+        }
+    ],
+    "chain": 369
+}

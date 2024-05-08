@@ -1,0 +1,29 @@
+{
+    "name": "Milady from Ethereum",
+    "symbol": "LADYS",
+    "id": "0x56666761d1AeA4c10397Ba1368BD2fA6671D8736",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x56666761d1AeA4c10397Ba1368BD2fA6671D8736",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x12970E6868f88f6557B76120662c1B3E50A646bf. $LADYS is appropriating the tokenisation model to facilitate the accumulation of meme capital in the era of unstoppable meme coins.",
+    "website": "https://milady.gg/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/miladymemecoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/miladymemecoinchannel"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/milady-meme-coin/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

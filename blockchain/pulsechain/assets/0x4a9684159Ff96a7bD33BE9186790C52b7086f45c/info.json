@@ -1,0 +1,10 @@
+{
+    "name": "EDDA from Ethereum",
+    "symbol": "EDDA",
+    "id": "0x4a9684159Ff96a7bD33BE9186790C52b7086f45c",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xFbbE9b1142C699512545f47937Ee6fae0e4B0aA9.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x4a9684159Ff96a7bD33BE9186790C52b7086f45c",
+    "chain": 369
+}

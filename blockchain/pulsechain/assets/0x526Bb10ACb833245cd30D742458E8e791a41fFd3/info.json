@@ -1,0 +1,15 @@
+{
+    "name": "BandToken from Ethereum",
+    "symbol": "BAND",
+    "id": "0x526Bb10ACb833245cd30D742458E8e791a41fFd3",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x526Bb10ACb833245cd30D742458E8e791a41fFd3",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55. Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
+    "website": "https://bandprotocol.com",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

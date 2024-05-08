@@ -1,0 +1,12 @@
+{
+    "name": "SENTINEL PROTOCOL",
+    "symbol": "UPP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Sentinel Protocol, operated and developed by Uppsala Security, is the world's first crowdsourced Threat Intelligence Platform powered by blockchain technology to protect the cyberspace.",
+    "website": "https://sentinelprotocol.io",
+    "explorer": "https://scan.pulsechain.com/token/0xC86D054809623432210c107af2e3F619DcFbf652",
+    "status": "active",
+    "id": "0xC86D054809623432210c107af2e3F619DcFbf652",
+    "chain": 369
+}

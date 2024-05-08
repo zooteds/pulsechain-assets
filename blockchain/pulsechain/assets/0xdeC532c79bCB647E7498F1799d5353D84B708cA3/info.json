@@ -1,0 +1,10 @@
+{
+    "name": "KIRA from Ethereum",
+    "symbol": "KIRA",
+    "id": "0xdeC532c79bCB647E7498F1799d5353D84B708cA3",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xf98AB0874b13a7Fdc39D7295DEdd49850A5D426B.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xdeC532c79bCB647E7498F1799d5353D84B708cA3",
+    "chain": 369
+}

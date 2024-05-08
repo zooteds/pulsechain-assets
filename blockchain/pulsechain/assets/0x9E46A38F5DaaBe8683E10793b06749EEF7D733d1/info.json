@@ -1,0 +1,12 @@
+{
+    "name": "Nectar",
+    "symbol": "NCT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. PolySwarm is a more effective way to detect, analyze and respond to the latest threats, the ones more likely to go undetected by existing solutions.",
+    "website": "https://polyswarm.io",
+    "explorer": "https://scan.pulsechain.com/token/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+    "status": "active",
+    "id": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+    "chain": 369
+}

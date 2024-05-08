@@ -1,0 +1,26 @@
+{
+    "name": "Butterfly Protocol Governance Token",
+    "symbol": "BFLY",
+    "decimals": 18,
+    "status": "active",
+    "website": "https://www.butterflyprotocol.io",
+    "description": "Forked from Ethereum with Pulsechain. A Decentralized Name System for the New Internet",
+    "explorer": "https://scan.pulsechain.com/token/0xf680429328caaaCabee69b7A9FdB21a71419c063",
+    "type": "PRC20",
+    "id": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/butterflyproto"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/butterflyprotocol"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@bproto"
+        }
+    ],
+    "chain": 369
+}

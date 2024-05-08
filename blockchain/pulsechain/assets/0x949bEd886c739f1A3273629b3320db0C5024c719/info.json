@@ -1,0 +1,10 @@
+{
+    "id": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+    "symbol": "AMIS",
+    "name": "AMIS",
+    "decimals": 9,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x949bEd886c739f1A3273629b3320db0C5024c719",
+    "chain": 369
+}

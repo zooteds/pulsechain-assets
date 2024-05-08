@@ -1,0 +1,12 @@
+{
+    "name": "LQTY from Ethereum",
+    "symbol": "LQTY",
+    "id": "0xd434B46D7de8B54f7dad81886B5010c269a6F730",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xd434B46D7de8B54f7dad81886B5010c269a6F730",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D. Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+    "website": "https://www.liquity.org",
+    "chain": 369
+}

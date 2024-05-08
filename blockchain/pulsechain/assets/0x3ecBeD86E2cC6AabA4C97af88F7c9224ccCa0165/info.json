@@ -1,0 +1,10 @@
+{
+    "name": "Pepe from Ethereum",
+    "symbol": "PEPE",
+    "id": "0x3ecBeD86E2cC6AabA4C97af88F7c9224ccCa0165",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x4dFae3690b93c47470b03036A17B23C1Be05127C.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3ecBeD86E2cC6AabA4C97af88F7c9224ccCa0165",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "id": "0x36ff4DaE0E88113D68B1209e245B0e3Af92E9D58",
+    "symbol": "XLON",
+    "name": "Xenlon Mars",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x36ff4DaE0E88113D68B1209e245B0e3Af92E9D58",
+    "chain": 369
+}

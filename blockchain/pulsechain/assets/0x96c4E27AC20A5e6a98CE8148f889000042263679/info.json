@@ -1,0 +1,10 @@
+{
+    "name": "Xenlon Mars from Ethereum",
+    "symbol": "XLON",
+    "id": "0x96c4E27AC20A5e6a98CE8148f889000042263679",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x36ff4DaE0E88113D68B1209e245B0e3Af92E9D58.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x96c4E27AC20A5e6a98CE8148f889000042263679",
+    "chain": 369
+}

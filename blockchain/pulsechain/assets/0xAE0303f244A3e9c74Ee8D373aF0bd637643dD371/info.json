@@ -1,0 +1,9 @@
+{
+    "id": "0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371",
+    "symbol": "FUTURE",
+    "name": "Future T.I.M.E. Dividend from Ethereum",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371",
+    "chain": 369,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com."
+}

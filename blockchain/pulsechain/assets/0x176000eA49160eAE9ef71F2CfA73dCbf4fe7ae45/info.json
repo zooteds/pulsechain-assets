@@ -1,0 +1,10 @@
+{
+    "name": "XENDoge from Ethereum",
+    "symbol": "XDOGE",
+    "id": "0x176000eA49160eAE9ef71F2CfA73dCbf4fe7ae45",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xb5F6F05BC86a9D62F7165F606dc149c4c5F04ED1.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x176000eA49160eAE9ef71F2CfA73dCbf4fe7ae45",
+    "chain": 369
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Dogey-Inu from Ethereum",
+    "symbol": "DINU",
+    "id": "0x4F8a5fcc0DdA408D4296B65e3F8c171AB5399f0c",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4F8a5fcc0DdA408D4296B65e3F8c171AB5399f0c",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732. An experiment in decentralized community building around a simple erc-20 token. ",
+    "website": "https://dogeyinu.com/",
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

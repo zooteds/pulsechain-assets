@@ -1,0 +1,22 @@
+{
+    "name": "Polka City",
+    "type": "PRC20",
+    "symbol": "POLC",
+    "decimals": 18,
+    "website": "https://www.polkacity.io",
+    "description": "Forked from Ethereum with Pulsechain. PolkaCity is a unique fully contract-based metaverse project which combines NFT, DeFi and gaming worlds!",
+    "explorer": "https://scan.pulsechain.com/token/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+    "status": "active",
+    "id": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/PolkaCity"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Polkacity"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,8 @@
+{
+    "id": "0x518076CCE3729eF1a3877EA3647a26e278e764FE",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB from BSC (TokensExpress)",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x518076CCE3729eF1a3877EA3647a26e278e764FE",
+    "chain": 369
+}

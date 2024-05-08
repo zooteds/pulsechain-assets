@@ -1,0 +1,10 @@
+{
+    "name": "Theopetra from Ethereum",
+    "symbol": "THEO",
+    "id": "0x919AB1Db57C7874f62B8C075aeaf16629D0e8D9A",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfAc0403a24229d7e2Edd994D50F5940624CBeac2.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x919AB1Db57C7874f62B8C075aeaf16629D0e8D9A",
+    "chain": 369
+}

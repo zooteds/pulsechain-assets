@@ -1,0 +1,12 @@
+{
+    "name": "Dogelon from Ethereum",
+    "symbol": "ELON",
+    "id": "0x83599e84c55c2D9d49949717CcB81A02E37949d6",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x83599e84c55c2D9d49949717CcB81A02E37949d6",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3. I am Dogelon. Dogelon Mars. Join me and together we'll reach the stars \u2728 We want to reach Mars and beyond. However, many of those good people are rugged, or buy scam tokens that can't be sold. For this reason, the Dogelon community pledges to send tokens over time to victims of rugs and scams, so that the worst day of their trading life can be turned into their best. And after some time, they will be able to join us on our regular flights to Mars....",
+    "website": "https://dogelon.io",
+    "chain": 369
+}

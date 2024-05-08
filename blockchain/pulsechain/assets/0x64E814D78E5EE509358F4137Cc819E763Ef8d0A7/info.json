@@ -1,0 +1,10 @@
+{
+    "name": "Data Lake Token from Ethereum",
+    "symbol": "LAKE",
+    "id": "0x64E814D78E5EE509358F4137Cc819E763Ef8d0A7",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF9Ca9523E5b5A42C3018C62B084Db8543478C400.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x64E814D78E5EE509358F4137Cc819E763Ef8d0A7",
+    "chain": 369
+}

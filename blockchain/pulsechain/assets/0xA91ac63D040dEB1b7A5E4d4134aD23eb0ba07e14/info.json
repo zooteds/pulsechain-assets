@@ -1,0 +1,13 @@
+{
+    "name": "Bella",
+    "website": "https://bella.fi",
+    "description": "Forked from Ethereum with Pulsechain. Bella Protocol is described to be a set of DeFi products for one-click crypto banking.",
+    "explorer": "https://scan.pulsechain.com/token/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
+    "research": "https://research.binance.com/en/projects/bella",
+    "type": "PRC20",
+    "symbol": "BEL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
+    "chain": 369
+}

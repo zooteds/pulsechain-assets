@@ -1,0 +1,12 @@
+{
+    "name": "Fearless",
+    "symbol": "FEAR",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+    "status": "abandoned",
+    "id": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+    "chain": 369
+}

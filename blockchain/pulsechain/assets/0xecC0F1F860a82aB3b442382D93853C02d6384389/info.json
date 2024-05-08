@@ -1,0 +1,12 @@
+{
+    "name": "AXIS",
+    "website": "https://axisdefi.com",
+    "description": "Forked from Ethereum with Pulsechain. The World\u2019s First Lightspeed DeFi Dedicated Interoperable Superchain",
+    "explorer": "https://scan.pulsechain.com/token/0xecC0F1F860a82aB3b442382D93853C02d6384389",
+    "type": "PRC20",
+    "symbol": "AXIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+    "chain": 369
+}

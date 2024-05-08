@@ -1,0 +1,12 @@
+{
+    "name": "ShitCoin",
+    "symbol": "SHIT",
+    "type": "PRC20",
+    "decimals": 6,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://shitcoin.fun/",
+    "explorer": "https://scan.pulsechain.com/token/0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+    "status": "abandoned",
+    "id": "0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+    "chain": 369
+}

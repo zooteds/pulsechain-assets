@@ -1,0 +1,29 @@
+{
+    "name": "SOS from Ethereum",
+    "symbol": "SOS",
+    "id": "0x5075830d32D9E68E3e8F74B052f2f420249930be",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x5075830d32D9E68E3e8F74B052f2f420249930be",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3b484b82567a09e2588A13D54D032153f0c0aEe0. $SOS is grateful to all NFT creators, collectors and markets for nurturing the entire NFT ecosystem.",
+    "website": "https://www.theopendao.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/The_OpenDAO"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/opendao/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/zzzKhejARz"
+        }
+    ],
+    "tags": [
+        "nft"
+    ],
+    "chain": 369
+}

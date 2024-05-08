@@ -1,0 +1,12 @@
+{
+    "name": "Enigma",
+    "symbol": "ENG",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. Enigma builds and supports groundbreaking privacy-focused technologies and networks.",
+    "website": "https://enigma.co",
+    "explorer": "https://scan.pulsechain.com/token/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+    "status": "active",
+    "id": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "CurToken",
+    "symbol": "CUR",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Join CurioInvest today and invest in classic cars and limited edition hypercars starting with little. Discover the collections of others and get rewarded for sharing yours. ",
+    "website": "https://curioinvest.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+    "status": "active",
+    "id": "0x13339fD07934CD674269726EdF3B5ccEE9DD93de",
+    "chain": 369
+}

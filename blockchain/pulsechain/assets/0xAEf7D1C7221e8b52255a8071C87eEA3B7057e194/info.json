@@ -1,0 +1,10 @@
+{
+    "name": "Dont Buy Inu from Ethereum",
+    "symbol": "DBI",
+    "id": "0xAEf7D1C7221e8b52255a8071C87eEA3B7057e194",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2dE509bf0014ddF697b220bE628213034d320EcE.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xAEf7D1C7221e8b52255a8071C87eEA3B7057e194",
+    "chain": 369
+}

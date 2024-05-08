@@ -1,0 +1,13 @@
+{
+    "name": "Unilayer",
+    "website": "https://unilayer.app",
+    "description": "Forked from Ethereum with Pulsechain. A new LAYER of possibilities to trade on Uniswap.",
+    "explorer": "https://scan.pulsechain.com/token/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+    "data_source": "crowd",
+    "type": "PRC20",
+    "symbol": "LAYER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+    "chain": 369
+}

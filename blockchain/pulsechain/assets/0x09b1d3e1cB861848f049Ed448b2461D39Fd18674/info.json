@@ -1,0 +1,39 @@
+{
+    "name": "BitTorrent from Ethereum",
+    "symbol": "BTT",
+    "id": "0x09b1d3e1cB861848f049Ed448b2461D39Fd18674",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x09b1d3e1cB861848f049Ed448b2461D39Fd18674",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC669928185DbCE49d2230CC9B0979BE6DC797957. BTT is the official token of BitTorrent Chain. BitTorrent Chain is a brand-new heterogeneous cross-chain interoperability protocol, which leverages sidechains for the scaling of smart contracts.",
+    "website": "https://bt.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BitTorrent"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/bttcprotocol/bttc"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BitTorrentChain"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tron.network/static/doc/BitTorrent-ChainWhitepaper_EN.pdf"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@BitTorrent"
+        }
+    ],
+    "tags": [
+        "governance",
+        "staking",
+        "defi"
+    ],
+    "chain": 369
+}

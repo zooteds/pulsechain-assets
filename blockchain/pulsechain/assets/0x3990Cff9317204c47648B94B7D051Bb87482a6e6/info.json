@@ -1,0 +1,10 @@
+{
+    "name": "Psyop from Ethereum",
+    "symbol": "PSYOP",
+    "id": "0x3990Cff9317204c47648B94B7D051Bb87482a6e6",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3007083EAA95497cD6B2b809fB97B6A30bdF53D3.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3990Cff9317204c47648B94B7D051Bb87482a6e6",
+    "chain": 369
+}

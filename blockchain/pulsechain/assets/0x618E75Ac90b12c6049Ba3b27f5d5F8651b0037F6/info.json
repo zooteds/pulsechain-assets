@@ -1,0 +1,12 @@
+{
+    "name": "QASH",
+    "website": "https://liquid.com",
+    "description": "Forked from Ethereum with Pulsechain. Liquid, formerly Quoine, is building a universal liquidity solution for cryptoasset trading and a suite of services, Worldbook and Prime Brokerage, using the Qash (QASH) token.",
+    "explorer": "https://scan.pulsechain.com/token/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+    "type": "PRC20",
+    "symbol": "QASH",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
+    "chain": 369
+}

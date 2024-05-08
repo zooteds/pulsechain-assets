@@ -1,0 +1,12 @@
+{
+    "name": "LITION from Ethereum",
+    "symbol": "LIT",
+    "id": "0x38423Fe25B6F034c80985666fa7F236360df51CC",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x38423Fe25B6F034c80985666fa7F236360df51CC",
+    "status": "abandoned",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x763Fa6806e1acf68130D2D0f0df754C93cC546B2. -",
+    "website": "https://www.lition.io/",
+    "chain": 369
+}

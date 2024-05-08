@@ -1,0 +1,35 @@
+{
+    "name": "XDEFI",
+    "type": "PRC20",
+    "symbol": "XDEFI",
+    "decimals": 18,
+    "website": "https://www.xdefi.io",
+    "description": "Forked from Ethereum with Pulsechain. XDEFI Wallet is a multi-chain web browser extension currently available on Chrome & Brave (soon on Firefox) built for DeFi users and NFT lovers. It is a wallet with native integrations on THORChain, Ethereum + several EVM networks and Terra.",
+    "explorer": "https://scan.pulsechain.com/token/0x72B886d09C117654aB7dA13A14d603001dE0B777",
+    "status": "active",
+    "id": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/xdefi_wallet"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/xdefi-tech"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/xdefi_io"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/xdefi_announcements"
+        }
+    ],
+    "tags": [
+        "nft",
+        "defi",
+        "staking"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Tixl Token",
+    "website": "https://tixl.org",
+    "description": "Forked from Ethereum with Pulsechain. Interoperable Smart Contracts & dApps Network",
+    "explorer": "https://scan.pulsechain.com/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+    "research": "",
+    "type": "PRC20",
+    "symbol": "TXL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+    "chain": 369
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Keep3rV1",
+    "website": "https://keep3r.network",
+    "description": "Forked from Ethereum with Pulsechain. Keep3rV1 is a decentralized job-matching platform for connecting external DevOps with projects that need help for completing various tasks.",
+    "explorer": "https://scan.pulsechain.com/token/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+    "research": "https://research.binance.com/en/projects/keep3rv1",
+    "type": "PRC20",
+    "symbol": "KP3R",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
+    "chain": 369
+}

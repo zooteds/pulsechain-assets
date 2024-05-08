@@ -1,0 +1,12 @@
+{
+    "name": "DefHold",
+    "symbol": "DEFO",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. DefHold is a non-inflationary DeFi ecosystem aiming to provide yield generating investments\u2019 strategies for long-term crypto holders.",
+    "website": "https://defhold.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xe481f2311C774564D517d015e678c2736A25Ddd3",
+    "status": "active",
+    "id": "0xe481f2311C774564D517d015e678c2736A25Ddd3",
+    "chain": 369
+}

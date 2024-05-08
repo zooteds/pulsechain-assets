@@ -1,0 +1,10 @@
+{
+    "name": "Rats from Ethereum",
+    "symbol": "RAT",
+    "id": "0x393339124B08E7ABAC055C366754f1C9050252Ab",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0B9570a0194FfB8bF9E60a95e8d905Bf2358AbCc.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x393339124B08E7ABAC055C366754f1C9050252Ab",
+    "chain": 369
+}

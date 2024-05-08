@@ -1,0 +1,33 @@
+{
+    "name": "Basic Attention Token from Ethereum",
+    "symbol": "BAT",
+    "id": "0x0480b383E9111cA05116AEA6d35b891c708D57Ec",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x0480b383E9111cA05116AEA6d35b891c708D57Ec",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0D8775F648430679A709E98d2b0Cb6250d2887EF. Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
+    "website": "https://basicattentiontoken.org",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://medium.com/@attentiontoken"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/@attentiontoken"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/BATProject/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/basic-attention-token/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

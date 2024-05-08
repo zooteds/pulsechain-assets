@@ -1,0 +1,10 @@
+{
+    "name": "Propchain Token from Ethereum",
+    "symbol": "PROPC",
+    "id": "0x6288872a7509AE883f007b1478537aeDb02f91dA",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x9ff58067Bd8D239000010c154C6983A325Df138E.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6288872a7509AE883f007b1478537aeDb02f91dA",
+    "chain": 369
+}

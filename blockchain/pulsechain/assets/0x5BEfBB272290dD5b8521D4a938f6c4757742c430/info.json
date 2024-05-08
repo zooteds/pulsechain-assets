@@ -1,0 +1,12 @@
+{
+    "name": "Xfinance",
+    "website": "https://xfinance.io",
+    "description": "Forked from Ethereum with Pulsechain. Xfinance is a decentralized finance (DeFi) which aims to build an aggregate liquidity pool.",
+    "explorer": "https://scan.pulsechain.com/token/0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+    "type": "PRC20",
+    "symbol": "XFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+    "chain": 369
+}

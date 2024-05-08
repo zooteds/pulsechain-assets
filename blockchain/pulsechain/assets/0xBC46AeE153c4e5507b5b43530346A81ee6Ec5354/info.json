@@ -1,0 +1,10 @@
+{
+    "name": "Pond0x from Ethereum",
+    "symbol": "PNDX",
+    "id": "0xBC46AeE153c4e5507b5b43530346A81ee6Ec5354",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x1d4214081985ad20aa3cA93A2206aE792635cBec.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xBC46AeE153c4e5507b5b43530346A81ee6Ec5354",
+    "chain": 369
+}

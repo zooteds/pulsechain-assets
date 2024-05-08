@@ -1,0 +1,12 @@
+{
+    "name": "Bankroll Vault",
+    "symbol": "VLT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bankroll is a decentralized finance network on TRON and Ethereum. It implements a voluntary, sustainable, and permissionless global economic engine. Through a network of financial contracts, the platform provides rewards in TRX, ETH, BTT, VLT, and BNKR.",
+    "website": "https://bankroll.network/",
+    "explorer": "https://scan.pulsechain.com/token/0x6b785a0322126826d8226d77e173d75DAfb84d11",
+    "status": "active",
+    "id": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ascend from Ethereum",
+    "symbol": "ASC",
+    "id": "0xc3825a867509eC7Ca062Adeb5569ad81a3FacDCc",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x17F8e6694080C07D7414C918dd9B9C32a2981ea1.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xc3825a867509eC7Ca062Adeb5569ad81a3FacDCc",
+    "chain": 369
+}

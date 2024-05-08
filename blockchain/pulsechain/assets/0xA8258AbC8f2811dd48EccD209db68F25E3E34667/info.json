@@ -1,0 +1,12 @@
+{
+    "name": "Constellation",
+    "symbol": "DAG",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xA8258AbC8f2811dd48EccD209db68F25E3E34667",
+    "status": "abandoned",
+    "id": "0xA8258AbC8f2811dd48EccD209db68F25E3E34667",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "id": "0x562E362876c8Aee4744FC2c6aaC8394C312d215d",
+    "symbol": "OPTIMUS",
+    "name": "Optimus",
+    "decimals": 9,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x562E362876c8Aee4744FC2c6aaC8394C312d215d",
+    "chain": 369
+}

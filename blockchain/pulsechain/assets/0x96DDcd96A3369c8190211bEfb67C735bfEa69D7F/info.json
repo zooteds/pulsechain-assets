@@ -1,0 +1,22 @@
+{
+    "name": "Landwolf from Ethereum",
+    "symbol": "WOLF",
+    "id": "0x96DDcd96A3369c8190211bEfb67C735bfEa69D7F",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x96DDcd96A3369c8190211bEfb67C735bfEa69D7F",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x33ABE795f9c1b6136608c36dB211bD7590f5FdAE. #Landwolf is Pepe\u2019s best friend.",
+    "website": "https://landwolfeth.io/",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/ogLandwolf0x33"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Landwolfeth"
+        }
+    ],
+    "chain": 369
+}

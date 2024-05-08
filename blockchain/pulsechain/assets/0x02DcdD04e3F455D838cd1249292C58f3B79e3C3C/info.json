@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped Ether from Ethereum",
+    "symbol": "WETH",
+    "id": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2. -",
+    "website": "https://weth.io/",
+    "chain": 369
+}

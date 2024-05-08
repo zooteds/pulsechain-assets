@@ -1,0 +1,29 @@
+{
+    "name": "KEK from Ethereum",
+    "symbol": "KEKE",
+    "id": "0x3EC4f57EFef9292A7b7Df7894b7f2Acf09FD26D5",
+    "type": "PRC20",
+    "decimals": 7,
+    "explorer": "https://scan.pulsechain.com/token/0x3EC4f57EFef9292A7b7Df7894b7f2Acf09FD26D5",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xf7168c8AbB0ff80116413a8d95396BBdC318A3fF. KEK is a crypto meme project inspired by the ancient Egyptian god Kek, using memetic magic to influence the crypto world.",
+    "website": "https://www.kingdomofkek.com",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kingdomofkek"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kingdomofkek"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/kek/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ethereum Push Notification Service",
+    "website": "https://epns.io/",
+    "description": "Forked from Ethereum with Pulsechain. PUSH is Ethereum Push Notification Service (EPNS) native token. EPNS is a Protocol for blockchain based notifications that are platform agnostic and incentivized!",
+    "explorer": "https://scan.pulsechain.com/token/0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+    "type": "PRC20",
+    "symbol": "PUSH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+    "chain": 369
+}

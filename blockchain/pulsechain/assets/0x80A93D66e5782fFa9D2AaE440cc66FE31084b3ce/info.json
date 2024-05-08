@@ -1,0 +1,46 @@
+{
+    "name": "Decentraland MANA from Ethereum",
+    "symbol": "MANA",
+    "id": "0x80A93D66e5782fFa9D2AaE440cc66FE31084b3ce",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x80A93D66e5782fFa9D2AaE440cc66FE31084b3ce",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0F5D2fB29fb7d3CFeE444a200298f468908cC942. Decentraland (MANA) defines itself as a virtual reality platform powered by the Ethereum blockchain that allows users to create, experience, and monetize content and applications.",
+    "website": "https://decentraland.org",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/decentraland"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/decentraland"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/decentraland"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.decentraland.org/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/decentraland/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://decentraland.org/whitepaper.pdf"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/decentraland/"
+        }
+    ],
+    "tags": [
+        "gamefi",
+        "nft"
+    ],
+    "chain": 369
+}

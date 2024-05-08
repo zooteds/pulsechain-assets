@@ -1,0 +1,12 @@
+{
+    "name": "Minereum",
+    "website": "https://minereum.com/",
+    "description": "Forked from Ethereum with Pulsechain. Minereum Official",
+    "explorer": "https://scan.pulsechain.com/token/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
+    "type": "PRC20",
+    "symbol": "MNE",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
+    "chain": 369
+}

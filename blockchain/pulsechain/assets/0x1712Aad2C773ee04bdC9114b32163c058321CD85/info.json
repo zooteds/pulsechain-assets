@@ -1,0 +1,12 @@
+{
+    "name": "LimitSwap",
+    "website": "https://limitswap.com",
+    "description": "Forked from Ethereum with Pulsechain. LimitSwap is a Dex trading bot written in Python that allows users to trade using Limit Orders",
+    "explorer": "https://scan.pulsechain.com/token/0x1712Aad2C773ee04bdC9114b32163c058321CD85",
+    "type": "PRC20",
+    "symbol": "LIMIT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1712Aad2C773ee04bdC9114b32163c058321CD85",
+    "chain": 369
+}

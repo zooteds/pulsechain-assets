@@ -1,0 +1,12 @@
+{
+    "name": "Boson Token",
+    "website": "https://bosonprotocol.io/",
+    "description": "Forked from Ethereum with Pulsechain. The $BOSON token is the core economic unit of the Boson ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0xC477D038d5420C6A9e0b031712f61c5120090de9",
+    "type": "PRC20",
+    "symbol": "BOSON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+    "chain": 369
+}

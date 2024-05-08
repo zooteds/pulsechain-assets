@@ -1,0 +1,12 @@
+{
+    "name": "Rare Pepe",
+    "website": "https://rarepepe.net",
+    "description": "Forked from Ethereum with Pulsechain. rPepe Token is a deflationary cypto-currency with a 2.5% burn implemented for each transaction.",
+    "explorer": "https://scan.pulsechain.com/token/0x0e9b56D2233ea2b5883861754435f9C51Dbca141",
+    "type": "PRC20",
+    "symbol": "rPepe",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0e9b56D2233ea2b5883861754435f9C51Dbca141",
+    "chain": 369
+}

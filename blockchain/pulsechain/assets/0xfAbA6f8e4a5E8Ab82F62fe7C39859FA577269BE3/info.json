@@ -1,0 +1,10 @@
+{
+    "id": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com.",
+    "explorer": "https://scan.pulsechain.com/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "chain": 369
+}

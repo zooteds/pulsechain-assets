@@ -1,0 +1,12 @@
+{
+    "name": "Realio Network USD Stablecoin",
+    "website": "https://realio.fund",
+    "description": "Forked from Ethereum with Pulsechain. rUSD is a USD pegged stablecoin, backed 1-to-1 with U.S. dollars held in an account with PrimeTrust, an institutional quality custodian and trust company based in the U.S.",
+    "explorer": "https://scan.pulsechain.com/token/0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6",
+    "type": "PRC20",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF9A2D7E60a3297E513317AD1d7Ce101CC4C6C8F6",
+    "chain": 369
+}

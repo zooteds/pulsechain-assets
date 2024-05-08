@@ -1,0 +1,34 @@
+{
+    "name": "Multichain from Ethereum",
+    "symbol": "MULTI",
+    "id": "0xb809fb668e5579946b808e7ee2f3B2C386aD57d1",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xb809fb668e5579946b808e7ee2f3B2C386aD57d1",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4. Multichain is a cross-chain router protocol (CRP), to be the ultimate router for Web3.",
+    "website": "https://multichain.org/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/multichainorg"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/anyswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/anyswap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/multichain/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/multichain/"
+        }
+    ],
+    "chain": 369
+}

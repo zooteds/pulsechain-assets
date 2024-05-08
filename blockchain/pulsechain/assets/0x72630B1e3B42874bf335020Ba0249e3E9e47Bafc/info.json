@@ -1,0 +1,12 @@
+{
+    "name": "Paypolitan Token",
+    "website": "https://paypolitan.io",
+    "description": "Forked from Ethereum with Pulsechain. PayPolitan offers mobile payments for fiat and cryptocurrencies with yield farming.",
+    "explorer": "https://scan.pulsechain.com/token/0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+    "type": "PRC20",
+    "symbol": "EPAN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+    "chain": 369
+}

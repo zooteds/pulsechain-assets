@@ -1,0 +1,10 @@
+{
+    "id": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+    "symbol": "PAY",
+    "name": "TenX Pay Token",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+    "chain": 369
+}

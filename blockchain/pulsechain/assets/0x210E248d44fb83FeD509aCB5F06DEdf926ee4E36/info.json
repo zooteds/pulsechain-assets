@@ -1,0 +1,26 @@
+{
+    "name": "Ondo from Ethereum",
+    "symbol": "ONDO",
+    "id": "0x210E248d44fb83FeD509aCB5F06DEdf926ee4E36",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x210E248d44fb83FeD509aCB5F06DEdf926ee4E36",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3. Ondo Finance is a decentralized investment banking protocol consisting of on-chain financial products that connect investors with capital demand broadening access, improving transparency, and reducing cost versus the status quo. The ONDO token will govern the Ondo Finance protocol.",
+    "website": "https://ondo.finance/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ondofinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ondofinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ondo-finance/"
+        }
+    ],
+    "chain": 369
+}

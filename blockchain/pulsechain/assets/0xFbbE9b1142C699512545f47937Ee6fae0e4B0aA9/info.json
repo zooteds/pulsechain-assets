@@ -1,0 +1,10 @@
+{
+    "id": "0xFbbE9b1142C699512545f47937Ee6fae0e4B0aA9",
+    "symbol": "EDDA",
+    "name": "EDDA",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xFbbE9b1142C699512545f47937Ee6fae0e4B0aA9",
+    "chain": 369
+}

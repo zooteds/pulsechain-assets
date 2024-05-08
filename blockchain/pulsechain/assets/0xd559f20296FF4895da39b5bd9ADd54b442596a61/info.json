@@ -1,0 +1,12 @@
+{
+    "name": "FintruX Network",
+    "symbol": "FTX",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.",
+    "website": "https://www.fintrux.com",
+    "explorer": "https://scan.pulsechain.com/token/0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+    "status": "active",
+    "id": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+    "chain": 369
+}

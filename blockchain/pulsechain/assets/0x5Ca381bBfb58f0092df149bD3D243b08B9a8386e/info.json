@@ -1,0 +1,12 @@
+{
+    "name": "MXCToken",
+    "symbol": "MXC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. MXC Supernodes provide LPWAN network services to devices around the world.",
+    "website": "https://www.mxc.org",
+    "explorer": "https://scan.pulsechain.com/token/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+    "status": "active",
+    "id": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+    "chain": 369
+}

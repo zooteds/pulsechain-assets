@@ -1,0 +1,12 @@
+{
+    "name": "cVToken",
+    "type": "PRC20",
+    "symbol": "cV",
+    "decimals": 18,
+    "website": "https://www.carvertical.com",
+    "description": "Forked from Ethereum with Pulsechain. carVertical is building a decentralized vehicle registry.",
+    "explorer": "https://scan.pulsechain.com/token/0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
+    "status": "active",
+    "id": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
+    "chain": 369
+}

@@ -1,0 +1,26 @@
+{
+    "name": "DLP Duck Token",
+    "website": "https://duckdao.io",
+    "description": "Forked from Ethereum with Pulsechain. The Duck Liquidity Pool is a DuckDAO DeFi Market Maker protocol that will provide an opportunity for yield farmers to take advantage of the new opportunities with real skin in the game.",
+    "explorer": "https://scan.pulsechain.com/token/0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+    "type": "PRC20",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dao_duck"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/duckliquiditypool"
+        },
+        {
+            "name": "medium",
+            "url": "https://duckdao.medium.com"
+        }
+    ],
+    "chain": 369
+}

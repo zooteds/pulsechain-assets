@@ -1,0 +1,34 @@
+{
+    "name": "StaFi",
+    "website": "https://www.nucypher.com/",
+    "description": "Forked from Ethereum with Pulsechain. StaFi is a DeFi protocol unlocking liquidity of staked assets. Users can stake PoS tokens through StaFi and receive rTokens in return, which are available for trading, while still earning staking rewards.",
+    "explorer": "https://scan.pulsechain.com/token/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+    "type": "PRC20",
+    "symbol": "FIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StaFi_Protocol"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/stafi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/stafi/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/stafiprotocol/stafi-node"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/stafi_protocol"
+        }
+    ],
+    "chain": 369
+}

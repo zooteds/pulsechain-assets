@@ -1,0 +1,10 @@
+{
+    "name": "uP from Ethereum",
+    "symbol": "uP",
+    "id": "0x6813abE7D5C6E9218da15Fa760E6fF1FDE1ead52",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x131bF51e864024DF1982F2cd7B1C786e1A005152.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6813abE7D5C6E9218da15Fa760E6fF1FDE1ead52",
+    "chain": 369
+}

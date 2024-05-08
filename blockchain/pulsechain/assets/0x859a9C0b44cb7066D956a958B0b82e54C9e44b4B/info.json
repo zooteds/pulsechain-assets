@@ -1,0 +1,12 @@
+{
+    "name": "iEthereum",
+    "symbol": "iETH",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+    "status": "abandoned",
+    "id": "0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+    "chain": 369
+}

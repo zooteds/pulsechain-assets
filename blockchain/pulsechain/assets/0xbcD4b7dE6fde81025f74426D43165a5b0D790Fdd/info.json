@@ -1,0 +1,12 @@
+{
+    "name": "SpiderDAO Token",
+    "website": "https://spiderdao.io",
+    "description": "Forked from Ethereum with Pulsechain. SpiderDAO is about protecting your internet privacy while browsing the internet. With our innovative Hardware DAO concept we introduce a dual-governance model which bundles together hardware and software tools with on-chain elements, providing a \u201cwhale-resistant\u201d governance solution.",
+    "explorer": "https://scan.pulsechain.com/token/0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+    "type": "PRC20",
+    "symbol": "SPDR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+    "chain": 369
+}

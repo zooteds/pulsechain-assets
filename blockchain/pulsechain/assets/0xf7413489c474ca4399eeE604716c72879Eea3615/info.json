@@ -1,0 +1,12 @@
+{
+    "name": "APYSwap",
+    "type": "PRC20",
+    "symbol": "APYS",
+    "decimals": 18,
+    "website": "https://apyswap.com",
+    "description": "Forked from Ethereum with Pulsechain. APYS token is issued by APYSwap to link cross-chain DeFi markets.",
+    "explorer": "https://scan.pulsechain.com/token/0xf7413489c474ca4399eeE604716c72879Eea3615",
+    "status": "active",
+    "id": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+    "chain": 369
+}

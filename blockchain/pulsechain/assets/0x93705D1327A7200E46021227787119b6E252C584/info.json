@@ -1,0 +1,10 @@
+{
+    "name": "Kounotori from Ethereum",
+    "symbol": "KTO",
+    "id": "0x93705D1327A7200E46021227787119b6E252C584",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x93705D1327A7200E46021227787119b6E252C584",
+    "chain": 369
+}

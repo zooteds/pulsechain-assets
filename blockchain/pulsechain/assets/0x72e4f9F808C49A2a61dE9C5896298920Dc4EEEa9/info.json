@@ -1,0 +1,10 @@
+{
+    "id": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "symbol": "BITCOIN",
+    "name": "HarryPotterObamaSonic10Inu",
+    "decimals": 8,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "chain": 369
+}

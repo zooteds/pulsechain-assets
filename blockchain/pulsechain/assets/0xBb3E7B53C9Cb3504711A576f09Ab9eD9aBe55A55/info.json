@@ -1,0 +1,33 @@
+{
+    "name": "BONE SHIBASWAP from Ethereum",
+    "symbol": "BONE",
+    "id": "0xBb3E7B53C9Cb3504711A576f09Ab9eD9aBe55A55",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xBb3E7B53C9Cb3504711A576f09Ab9eD9aBe55A55",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x9813037ee2218799597d83D4a5B6F3b6778218d9. Bone is a governance token of Shibaswap ecosystem which will allow the #ShibArmy to vote on upcoming proposals. The more BONE the user holds, the more weight of their vote carries in these future endeavors.",
+    "website": "https://shibaswap.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/shibtoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bonedogekiller"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/bone-shibaswap/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/bone-shibaswap/"
+        }
+    ],
+    "tags": [
+        "governance"
+    ],
+    "chain": 369
+}

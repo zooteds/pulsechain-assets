@@ -1,0 +1,45 @@
+{
+    "name": "vEmpire Gamer Token from Ethereum",
+    "symbol": "VEMP",
+    "id": "0xa712329708AF665991C3Fcff43BC5734924f7b9A",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xa712329708AF665991C3Fcff43BC5734924f7b9A",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC. vEmpire DDAO is the world\u2019s largest Decentralized Metaverse Investment Organization. The official vEmpire protocol incorporates different strategies to incentivize Metaverse token staking to fund the battle against centralisation.",
+    "website": "https://v-empire.digital",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/vempire-ddao/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/vEmpiredigital"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/vEmpirediscussion"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/vEmpireDDAO"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/vempire-ddao/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://v-empire.digital/whitepaper"
+        },
+        {
+            "name": "blog",
+            "url": "https://medium.com/@v-empire.digital"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

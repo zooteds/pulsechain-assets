@@ -1,0 +1,12 @@
+{
+    "name": "BitSong",
+    "symbol": "BTSG",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x05079687D35b93538cbd59fe5596380cae9054A9",
+    "status": "abandoned",
+    "id": "0x05079687D35b93538cbd59fe5596380cae9054A9",
+    "chain": 369
+}

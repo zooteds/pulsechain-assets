@@ -1,0 +1,10 @@
+{
+    "name": "PULSEPAD.io from Ethereum",
+    "symbol": "PLSPAD",
+    "id": "0x7bF99c65A2085b806CA7552098Fef66B63199490",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x7bF99c65A2085b806CA7552098Fef66B63199490",
+    "chain": 369
+}

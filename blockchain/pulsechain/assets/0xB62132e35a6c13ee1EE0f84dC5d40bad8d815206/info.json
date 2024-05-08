@@ -1,0 +1,42 @@
+{
+    "name": "Nexo",
+    "website": "http://nexo.io",
+    "description": "Forked from Ethereum with Pulsechain. NEXO (NEXO) is a compliant token that is backed by the underlying assets of Nexo\u2019s loan portfolio.",
+    "explorer": "https://scan.pulsechain.com/token/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "type": "PRC20",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/nexofinance/NEXO-Token/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/NexoFinance"
+        },
+        {
+            "name": "blog",
+            "url": "https://medium.com/nexo"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/NexoFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/nexofinance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://nexo.io/assets/downloads/Nexo-Whitepaper.pdf?=a"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/nexo/"
+        }
+    ],
+    "chain": 369
+}

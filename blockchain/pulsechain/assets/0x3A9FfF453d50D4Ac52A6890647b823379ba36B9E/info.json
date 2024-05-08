@@ -1,0 +1,12 @@
+{
+    "name": "Shuffle.Monster V3",
+    "symbol": "SHUF",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://shuffle.monster/",
+    "explorer": "https://scan.pulsechain.com/token/0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+    "status": "abandoned",
+    "id": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+    "chain": 369
+}

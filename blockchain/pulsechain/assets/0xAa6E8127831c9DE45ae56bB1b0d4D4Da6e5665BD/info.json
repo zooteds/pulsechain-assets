@@ -1,0 +1,13 @@
+{
+    "name": "ETH 2x Flexible Leverage Index",
+    "symbol": "ETH2x-FLI",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Flexible Leverage token on ETH targeting 2x",
+    "website": "https://www.indexcoop.com/",
+    "research": "https://defipulse.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+    "status": "active",
+    "id": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+    "chain": 369
+}

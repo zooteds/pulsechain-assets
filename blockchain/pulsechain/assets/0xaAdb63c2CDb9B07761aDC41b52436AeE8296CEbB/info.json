@@ -1,0 +1,10 @@
+{
+    "name": "HELIOS from Ethereum",
+    "symbol": "HLX",
+    "id": "0xaAdb63c2CDb9B07761aDC41b52436AeE8296CEbB",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2614f29C39dE46468A921Fd0b41fdd99A01f2EDf.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xaAdb63c2CDb9B07761aDC41b52436AeE8296CEbB",
+    "chain": 369
+}

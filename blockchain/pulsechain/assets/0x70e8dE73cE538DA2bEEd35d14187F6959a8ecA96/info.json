@@ -1,0 +1,25 @@
+{
+    "name": "XSGD",
+    "type": "PRC20",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "website": "https://www.straitsx.com/",
+    "description": "Forked from Ethereum with Pulsechain. Fully collateralised Singapore-dollar backed stablecoin. ",
+    "explorer": "https://scan.pulsechain.com/token/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+    "status": "active",
+    "id": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+    "tags": [
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Xfers/StraitsX-tokens/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StraitsX"
+        }
+    ],
+    "chain": 369
+}

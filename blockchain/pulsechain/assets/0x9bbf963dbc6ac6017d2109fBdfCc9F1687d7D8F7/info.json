@@ -1,0 +1,12 @@
+{
+    "name": "PowerLedger from Ethereum",
+    "symbol": "POWR",
+    "id": "0x9bbf963dbc6ac6017d2109fBdfCc9F1687d7D8F7",
+    "type": "PRC20",
+    "decimals": 6,
+    "explorer": "https://scan.pulsechain.com/token/0x9bbf963dbc6ac6017d2109fBdfCc9F1687d7D8F7",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x595832F8FC6BF59c85C527fEC3740A1b7a361269. Power Ledger (POWR), based in Australia, encourages us to imagine a world in which electricity is dependable, affordable and clean for everyone.",
+    "website": "https://powerledger.io",
+    "chain": 369
+}

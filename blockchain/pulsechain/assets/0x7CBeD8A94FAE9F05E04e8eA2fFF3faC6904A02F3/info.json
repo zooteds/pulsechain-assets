@@ -1,0 +1,10 @@
+{
+    "name": "HustleBot from Ethereum",
+    "symbol": "Hustle",
+    "id": "0x7CBeD8A94FAE9F05E04e8eA2fFF3faC6904A02F3",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3A4C122243b53135E7F6BF5B4658092C3a3109AB.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x7CBeD8A94FAE9F05E04e8eA2fFF3faC6904A02F3",
+    "chain": 369
+}

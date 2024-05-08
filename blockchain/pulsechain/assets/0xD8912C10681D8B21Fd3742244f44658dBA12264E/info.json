@@ -1,0 +1,12 @@
+{
+    "name": "Pluton",
+    "symbol": "PLU",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Plutus is an incredibly secure crypto-friendly finance app.",
+    "website": "https://plutus.it",
+    "explorer": "https://scan.pulsechain.com/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+    "status": "active",
+    "id": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+    "chain": 369
+}

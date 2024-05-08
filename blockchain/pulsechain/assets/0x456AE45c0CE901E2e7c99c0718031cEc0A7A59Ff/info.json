@@ -1,0 +1,12 @@
+{
+    "name": "Vision Network",
+    "symbol": "VSN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.vision-network.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+    "status": "abandoned",
+    "id": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
+    "chain": 369
+}

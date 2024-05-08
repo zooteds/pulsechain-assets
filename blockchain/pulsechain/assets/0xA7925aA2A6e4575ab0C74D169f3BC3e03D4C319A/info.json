@@ -1,0 +1,12 @@
+{
+    "name": "Better Money",
+    "symbol": "BETTER",
+    "type": "PRC20",
+    "decimals": 4,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+    "status": "abandoned",
+    "id": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+    "chain": 369
+}

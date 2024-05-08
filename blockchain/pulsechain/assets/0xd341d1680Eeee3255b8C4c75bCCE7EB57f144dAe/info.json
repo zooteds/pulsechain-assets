@@ -1,0 +1,12 @@
+{
+    "name": "onG",
+    "symbol": "ONG",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. SoMee.Social (ONG) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://SoMee.social",
+    "explorer": "https://scan.pulsechain.com/token/0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+    "status": "active",
+    "id": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
+    "chain": 369
+}

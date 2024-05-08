@@ -1,0 +1,12 @@
+{
+    "name": "Jigstack from Ethereum",
+    "symbol": "STAK",
+    "id": "0x9eE271686Bb5A924C6148241de62475dC6Faf951",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x9eE271686Bb5A924C6148241de62475dC6Faf951",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13. STAK is the governance token of Jigstack DAO as well as the main utility asset across it's ecosystem.",
+    "website": "https://www.jigstack.org/",
+    "chain": 369
+}

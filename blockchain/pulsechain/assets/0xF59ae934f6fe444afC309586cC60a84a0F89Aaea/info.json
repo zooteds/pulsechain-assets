@@ -1,0 +1,13 @@
+{
+    "name": "Polkadex",
+    "website": "https://polkadex.trade",
+    "description": "Forked from Ethereum with Pulsechain. Utility token for Polkadex decentralized exchange",
+    "explorer": "https://scan.pulsechain.com/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+    "research": "https://docs.polkadex.trade",
+    "type": "PRC20",
+    "symbol": "PDEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+    "chain": 369
+}

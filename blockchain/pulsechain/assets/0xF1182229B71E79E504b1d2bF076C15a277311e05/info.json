@@ -1,0 +1,10 @@
+{
+    "id": "0xF1182229B71E79E504b1d2bF076C15a277311e05",
+    "symbol": "LBR",
+    "name": "LBR",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xF1182229B71E79E504b1d2bF076C15a277311e05",
+    "chain": 369
+}

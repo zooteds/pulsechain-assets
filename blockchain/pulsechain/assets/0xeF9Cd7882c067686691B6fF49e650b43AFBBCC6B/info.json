@@ -1,0 +1,12 @@
+{
+    "name": "FinNexus",
+    "website": "https://finnexus.io/",
+    "description": "Forked from Ethereum with Pulsechain. FNX is the token of FinNexus, the project building a network of multi-chain protocol clusters to power innovative cross-chain DeFi products.",
+    "explorer": "https://scan.pulsechain.com/token/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+    "type": "PRC20",
+    "symbol": "FNX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
+    "chain": 369
+}

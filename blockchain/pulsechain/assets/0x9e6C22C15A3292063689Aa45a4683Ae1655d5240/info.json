@@ -1,0 +1,10 @@
+{
+    "name": "More from Ethereum",
+    "symbol": "MORE",
+    "id": "0x9e6C22C15A3292063689Aa45a4683Ae1655d5240",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xbEEf3bB9dA340EbdF0f5bae2E85368140d7D85D0.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x9e6C22C15A3292063689Aa45a4683Ae1655d5240",
+    "chain": 369
+}

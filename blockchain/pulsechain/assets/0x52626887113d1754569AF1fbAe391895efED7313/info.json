@@ -1,0 +1,25 @@
+{
+    "name": "Wojak Coin from Ethereum",
+    "symbol": "WOJAK",
+    "id": "0x52626887113d1754569AF1fbAe391895efED7313",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x52626887113d1754569AF1fbAe391895efED7313",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x5026F006B85729a8b14553FAE6af249aD16c9aaB. A digital asset inspired by the Wojak meme.",
+    "website": "https://www.wojak.finance/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/wojakcoineth"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wojak/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped PSL from Ethereum",
+    "symbol": "WPSL",
+    "id": "0xd0eBd3cae86C3113871B45976Bf5a8Da36723BBD",
+    "decimals": 5,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC775C0C30840Cb9F51e21061B054ebf1A00aCC29.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xd0eBd3cae86C3113871B45976Bf5a8Da36723BBD",
+    "chain": 369
+}

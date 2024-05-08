@@ -1,0 +1,10 @@
+{
+    "id": "0xed328E9C1179a30ddC1E7595E036AEd8760C22aF",
+    "symbol": "MCADE",
+    "name": "Metacade",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xed328E9C1179a30ddC1E7595E036AEd8760C22aF",
+    "chain": 369
+}

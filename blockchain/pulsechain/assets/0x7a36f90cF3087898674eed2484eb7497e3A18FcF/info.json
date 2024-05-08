@@ -1,0 +1,10 @@
+{
+    "name": "Tate from Ethereum",
+    "symbol": "TATE",
+    "id": "0x7a36f90cF3087898674eed2484eb7497e3A18FcF",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xa589d8868607b8d79eE4288ce192796051263b64.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x7a36f90cF3087898674eed2484eb7497e3A18FcF",
+    "chain": 369
+}

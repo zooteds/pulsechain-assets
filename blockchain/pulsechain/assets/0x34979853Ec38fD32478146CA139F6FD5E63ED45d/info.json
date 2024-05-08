@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped XRP from Ethereum",
+    "symbol": "WXRP",
+    "id": "0x34979853Ec38fD32478146CA139F6FD5E63ED45d",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x39fBBABf11738317a448031930706cd3e612e1B9.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x34979853Ec38fD32478146CA139F6FD5E63ED45d",
+    "chain": 369
+}

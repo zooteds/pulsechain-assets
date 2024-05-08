@@ -1,0 +1,12 @@
+{
+    "name": "Triatics",
+    "symbol": "TRA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xe74d6339890d6640eF12e6FBcaF7116f331D6d5D",
+    "status": "abandoned",
+    "id": "0xe74d6339890d6640eF12e6FBcaF7116f331D6d5D",
+    "chain": 369
+}

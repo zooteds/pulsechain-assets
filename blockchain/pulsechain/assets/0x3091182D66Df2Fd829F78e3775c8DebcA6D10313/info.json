@@ -1,0 +1,10 @@
+{
+    "name": "Messier from Ethereum",
+    "symbol": "M87",
+    "id": "0x3091182D66Df2Fd829F78e3775c8DebcA6D10313",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x80122c6a83C8202Ea365233363d3f4837D13e888.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x3091182D66Df2Fd829F78e3775c8DebcA6D10313",
+    "chain": 369
+}

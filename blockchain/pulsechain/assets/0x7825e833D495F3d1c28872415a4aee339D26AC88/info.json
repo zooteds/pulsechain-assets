@@ -1,0 +1,29 @@
+{
+    "name": "pTokens TLOS",
+    "type": "PRC20",
+    "symbol": "TLOS",
+    "decimals": 18,
+    "website": "https://ptokens.io/",
+    "description": "Forked from Ethereum with Pulsechain. pNetwork enables cross-chain movement of assets and data.",
+    "explorer": "https://scan.pulsechain.com/token/0x7825e833D495F3d1c28872415a4aee339D26AC88",
+    "status": "active",
+    "id": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pNetworkDeFi"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/provable-things"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/telos/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

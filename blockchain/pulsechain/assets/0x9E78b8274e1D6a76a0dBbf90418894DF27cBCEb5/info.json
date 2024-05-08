@@ -1,0 +1,12 @@
+{
+    "name": "UniFi",
+    "symbol": "UniFi",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.unifihub.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+    "status": "abandoned",
+    "id": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+    "chain": 369
+}

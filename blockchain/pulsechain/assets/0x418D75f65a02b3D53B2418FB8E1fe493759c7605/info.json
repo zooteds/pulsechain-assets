@@ -1,0 +1,10 @@
+{
+    "id": "0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+    "symbol": "WBNB",
+    "name": "Wrapped BNB",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x418D75f65a02b3D53B2418FB8E1fe493759c7605",
+    "chain": 369
+}

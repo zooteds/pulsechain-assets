@@ -1,0 +1,12 @@
+{
+    "name": "Grumpy Cat",
+    "website": "https://grumpy.finance",
+    "description": "Forked from Ethereum with Pulsechain. Official $GRUMPY, a community focused Defi project with the aim to help animals in need. Donations are funded by our community.",
+    "explorer": "https://scan.pulsechain.com/token/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+    "type": "PRC20",
+    "symbol": "GRUMPY",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+    "chain": 369
+}

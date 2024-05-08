@@ -1,0 +1,31 @@
+{
+    "name": "Reef.finance",
+    "website": "https://reef.finance",
+    "description": "Forked from Ethereum with Pulsechain. Reef Finance is a multi-chain smart yield engine and liquidity aggregator where any DeFi protocol can integrate into.",
+    "explorer": "https://scan.pulsechain.com/token/0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+    "research": "https://research.binance.com/en/projects/reef-finance",
+    "type": "PRC20",
+    "symbol": "REEF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ReefDeFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/reefdefi"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/reef-finance/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/reef/"
+        }
+    ],
+    "chain": 369
+}

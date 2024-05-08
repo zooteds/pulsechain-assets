@@ -1,0 +1,10 @@
+{
+    "name": "SHIKOKU INU from Ethereum",
+    "symbol": "SHIK",
+    "id": "0x5bFc82ac526A248e4e75C5571496499C992Ee29E",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x24dA31e7BB182cb2cABfEF1d88db19C2AE1f5572.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x5bFc82ac526A248e4e75C5571496499C992Ee29E",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Secret Finance",
+    "website": "https://secretswap.io",
+    "description": "Forked from Ethereum with Pulsechain. SEFI is the native governance token for SecretSwap and Secret DeFi more generally. Earn SEFI and shape the future of the front-running resistant, privacy-first open finance ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac",
+    "type": "PRC20",
+    "symbol": "SEFI",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac",
+    "chain": 369
+}

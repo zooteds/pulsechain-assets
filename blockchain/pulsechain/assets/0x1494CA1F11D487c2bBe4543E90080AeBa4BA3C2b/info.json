@@ -1,0 +1,13 @@
+{
+    "name": "DefiPulse Index",
+    "website": "http://tokensets.com/portfolio/dpi",
+    "description": "Forked from Ethereum with Pulsechain. A basket created by DeFiPulse of the top DeFi tokens by market cap. The DPI Set is rebalanced monthly to realign to its market cap weighted index.",
+    "explorer": "https://scan.pulsechain.com/token/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+    "research": "https://defipulse.com/",
+    "type": "PRC20",
+    "symbol": "DPI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+    "chain": 369
+}

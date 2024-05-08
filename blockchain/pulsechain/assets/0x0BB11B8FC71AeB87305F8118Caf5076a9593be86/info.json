@@ -1,0 +1,10 @@
+{
+    "name": "Aurox Token from Ethereum",
+    "symbol": "URUS",
+    "id": "0x0BB11B8FC71AeB87305F8118Caf5076a9593be86",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xc6DdDB5bc6E61e0841C54f3e723Ae1f3A807260b.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x0BB11B8FC71AeB87305F8118Caf5076a9593be86",
+    "chain": 369
+}

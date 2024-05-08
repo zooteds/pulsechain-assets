@@ -1,0 +1,12 @@
+{
+    "name": "Mass Vehicle Ledger Token",
+    "symbol": "MVL",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://mvlchain.io/",
+    "explorer": "https://scan.pulsechain.com/token/0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
+    "status": "abandoned",
+    "id": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
+    "chain": 369
+}

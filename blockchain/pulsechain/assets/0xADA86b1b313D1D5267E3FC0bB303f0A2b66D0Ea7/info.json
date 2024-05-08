@@ -1,0 +1,12 @@
+{
+    "name": "Covesting",
+    "website": "https://covesting.io",
+    "description": "Forked from Ethereum with Pulsechain. COV is a utility token designed to be used by members within the Covesting ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
+    "type": "PRC20",
+    "symbol": "COV",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
+    "chain": 369
+}

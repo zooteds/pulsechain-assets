@@ -1,0 +1,10 @@
+{
+    "name": "LBR from Ethereum",
+    "symbol": "LBR",
+    "id": "0x61791AA8A8c387351c5c158449411a97Cf496801",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF1182229B71E79E504b1d2bF076C15a277311e05.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x61791AA8A8c387351c5c158449411a97Cf496801",
+    "chain": 369
+}

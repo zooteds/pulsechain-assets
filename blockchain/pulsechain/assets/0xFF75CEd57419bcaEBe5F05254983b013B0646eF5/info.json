@@ -1,0 +1,12 @@
+{
+    "name": "Cook Token",
+    "website": "https://cook.finance/",
+    "description": "Forked from Ethereum with Pulsechain. COOK token is a governance and utility token issued by Cook Protocol.",
+    "explorer": "https://scan.pulsechain.com/token/0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
+    "type": "PRC20",
+    "symbol": "COOK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
+    "chain": 369
+}

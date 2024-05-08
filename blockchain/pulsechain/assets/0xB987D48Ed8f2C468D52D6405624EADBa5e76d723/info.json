@@ -1,0 +1,26 @@
+{
+    "name": "Stabilize Token",
+    "website": "https://stabilize.finance",
+    "description": "Forked from Ethereum with Pulsechain. Stabilize Token (STBZ) is a reward token of the Stabilize Protocol",
+    "explorer": "https://scan.pulsechain.com/token/0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+    "type": "PRC20",
+    "symbol": "STBZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB987D48Ed8f2C468D52D6405624EADBa5e76d723",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/stabilize-token/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/StabilizePro"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/stabilizeprotocol"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "VaultTech from Ethereum",
+    "symbol": "$VAULT",
+    "id": "0xb6E8735ECb369Ae5de92D6129b53c11b2598F7C9",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xb6E8735ECb369Ae5de92D6129b53c11b2598F7C9",
+    "chain": 369
+}

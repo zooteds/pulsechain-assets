@@ -1,0 +1,26 @@
+{
+    "name": "AXL INU",
+    "website": "https://www.axltoken.com/",
+    "description": "Forked from Ethereum with Pulsechain. The Ultimate Decentralized Platform",
+    "explorer": "https://scan.pulsechain.com/token/0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+    "type": "PRC20",
+    "symbol": "AXL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25b24B3c47918b7962B3e49C4F468367F73CC0E0",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Axltoken"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Axltoken"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/Axltoken"
+        }
+    ],
+    "chain": 369
+}

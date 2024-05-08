@@ -1,0 +1,12 @@
+{
+    "name": "Waifu",
+    "symbol": "WAIF",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Waifu Token claims to be a community-funded cryptocurrency that is an anime-centric ERC-20 token on the Ethereum network.",
+    "website": "https://waifutoken.io",
+    "explorer": "https://scan.pulsechain.com/token/0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+    "status": "active",
+    "id": "0xB2279B6769CFBa691416F00609b16244c0cF4b20",
+    "chain": 369
+}

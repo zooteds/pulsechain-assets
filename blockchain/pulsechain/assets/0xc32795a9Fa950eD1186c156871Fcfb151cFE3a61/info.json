@@ -1,0 +1,10 @@
+{
+    "name": "Where Did The ETH Go? from Ethereum",
+    "symbol": "WHETH",
+    "id": "0xc32795a9Fa950eD1186c156871Fcfb151cFE3a61",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xDe0220b69CE3e855a0124433A8E8D093f53A6bE4.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xc32795a9Fa950eD1186c156871Fcfb151cFE3a61",
+    "chain": 369
+}

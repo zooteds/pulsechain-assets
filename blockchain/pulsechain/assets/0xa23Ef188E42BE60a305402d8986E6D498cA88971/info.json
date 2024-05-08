@@ -1,0 +1,10 @@
+{
+    "name": "STONKSDAO from Ethereum",
+    "symbol": "STONKS",
+    "id": "0xa23Ef188E42BE60a305402d8986E6D498cA88971",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3d9a4D8ab4F5bd1D5D08Ae3A95e8ED8BB4d7e3B9.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xa23Ef188E42BE60a305402d8986E6D498cA88971",
+    "chain": 369
+}

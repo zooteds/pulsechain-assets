@@ -1,0 +1,13 @@
+{
+    "name": "YFII.finance",
+    "website": "https://yfii.finance/",
+    "description": "Forked from Ethereum with Pulsechain. YFII is a fork of Yearn.finance YFI with YIP 8 implemented.",
+    "explorer": "https://scan.pulsechain.com/token/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+    "research": "https://research.binance.com/en/projects/dfimoney",
+    "type": "PRC20",
+    "symbol": "YFII",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+    "chain": 369
+}

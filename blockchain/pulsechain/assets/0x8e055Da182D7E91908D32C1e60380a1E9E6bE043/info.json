@@ -1,0 +1,26 @@
+{
+    "name": "Worldcoin from Ethereum",
+    "symbol": "WLD",
+    "id": "0x8e055Da182D7E91908D32C1e60380a1E9E6bE043",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x8e055Da182D7E91908D32C1e60380a1E9E6bE043",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x163f8C2467924be0ae7B5347228CABF260318753. The Worldcoin system revolves around World ID, a privacy-preserving global identity network. World ID enables users to verify their humanness online (`Proof of Personhood`) while maintaining their privacy through zero-knowledge proofs.",
+    "website": "https://worldcoin.org/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/worldcoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/worldcoin"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/worldcoin-org/"
+        }
+    ],
+    "chain": 369
+}

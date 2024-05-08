@@ -1,0 +1,10 @@
+{
+    "name": "Maximus from Ethereum",
+    "symbol": "MAXI",
+    "id": "0x352511c9bC5D47DBC122883Ed9353E987d10A3BA",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0d86EB9f43C57f6FF3BC9E23D8F9d82503f0e84b.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x352511c9bC5D47DBC122883Ed9353E987d10A3BA",
+    "chain": 369
+}

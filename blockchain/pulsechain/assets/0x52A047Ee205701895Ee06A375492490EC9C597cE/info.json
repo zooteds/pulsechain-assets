@@ -1,0 +1,10 @@
+{
+    "id": "0x52A047Ee205701895Ee06A375492490EC9C597cE",
+    "symbol": "PULSE",
+    "name": "Pulse",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com.",
+    "explorer": "https://scan.pulsechain.com/token/0x52A047Ee205701895Ee06A375492490EC9C597cE",
+    "chain": 369
+}

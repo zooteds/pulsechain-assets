@@ -1,0 +1,10 @@
+{
+    "name": "Hoppy from Ethereum",
+    "symbol": "HOPPY",
+    "id": "0xC722e25472a48c524C57b8f9Ae9792E09d878595",
+    "decimals": 8,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8C130499D33097D4D000D3332E1672f75b431543.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xC722e25472a48c524C57b8f9Ae9792E09d878595",
+    "chain": 369
+}

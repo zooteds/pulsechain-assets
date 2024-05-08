@@ -1,0 +1,12 @@
+{
+    "name": "XY Oracle",
+    "symbol": "XYO",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://xyo.network/",
+    "explorer": "https://scan.pulsechain.com/token/0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+    "status": "active",
+    "id": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+    "chain": 369
+}

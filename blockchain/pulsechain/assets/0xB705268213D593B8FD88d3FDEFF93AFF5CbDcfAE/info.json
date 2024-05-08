@@ -1,0 +1,13 @@
+{
+    "name": "IDEX Token",
+    "website": "https://idex.market",
+    "description": "Forked from Ethereum with Pulsechain. The IDEX token is the primary token of IDEX, enabling users to directly contribute to and benefit from the project.",
+    "explorer": "https://scan.pulsechain.com/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+    "research": "https://research.binance.com/en/projects/idex",
+    "type": "PRC20",
+    "symbol": "IDEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+    "chain": 369
+}

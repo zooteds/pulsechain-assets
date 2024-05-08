@@ -1,0 +1,30 @@
+{
+    "name": "Wrapped LUNA Token from Ethereum",
+    "symbol": "LUNA",
+    "id": "0xFA1B68BA2F367f2552B7795C88d1B8f664f56E10",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xFA1B68BA2F367f2552B7795C88d1B8f664f56E10",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9. Luna is the native staking token recognized by the Terra protocol.",
+    "website": "https://terra.money",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TerraMoney"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/terra_announcements"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/bYfyhUT"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/terra-money"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "TenX Pay Token from Ethereum",
+    "symbol": "PAY",
+    "id": "0x3349CA94B7593fE15e79dc8800A89b699828BF16",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x3349CA94B7593fE15e79dc8800A89b699828BF16",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB97048628DB6B661D4C2aA833e95Dbe1A905B280. TenX is a payment platform that facilitates digital and physical modes of transaction for cryptocurrencies to any merchant, even if they don\u2019t accept cryptocurrencies. Physical and digital modes of course, include bank accounts, wallets, debit cards, cash and much more.",
+    "website": "https://www.tenx.tech/",
+    "chain": 369
+}

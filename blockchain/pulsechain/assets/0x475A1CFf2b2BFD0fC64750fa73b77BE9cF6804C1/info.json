@@ -1,0 +1,10 @@
+{
+    "name": "Andy from Ethereum",
+    "symbol": "ANDY",
+    "id": "0x475A1CFf2b2BFD0fC64750fa73b77BE9cF6804C1",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3067EAc379424de51060eFCba2799257Bbd66956.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x475A1CFf2b2BFD0fC64750fa73b77BE9cF6804C1",
+    "chain": 369
+}

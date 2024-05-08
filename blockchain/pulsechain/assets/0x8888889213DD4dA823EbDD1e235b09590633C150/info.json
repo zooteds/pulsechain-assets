@@ -1,0 +1,12 @@
+{
+    "name": "Marblecoin",
+    "symbol": "MBC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://marble.cards/",
+    "explorer": "https://scan.pulsechain.com/token/0x8888889213DD4dA823EbDD1e235b09590633C150",
+    "status": "abandoned",
+    "id": "0x8888889213DD4dA823EbDD1e235b09590633C150",
+    "chain": 369
+}

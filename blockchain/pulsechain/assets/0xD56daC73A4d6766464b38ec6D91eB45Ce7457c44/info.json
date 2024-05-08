@@ -1,0 +1,12 @@
+{
+    "name": "Panvala pan",
+    "symbol": "PAN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.panvala.com",
+    "explorer": "https://scan.pulsechain.com/token/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+    "status": "abandoned",
+    "id": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+    "chain": 369
+}

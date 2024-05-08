@@ -1,0 +1,25 @@
+{
+    "name": "Turbo from Ethereum",
+    "symbol": "TURBO",
+    "id": "0xF2580CF96f3909A96eA36b19815BDAdEb5E09aE4",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xF2580CF96f3909A96eA36b19815BDAdEb5E09aE4",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xA35923162C49cF95e6BF26623385eb431ad920D3. Turbo Token is a revolutionary meme coin featuring our futuristic toad mascot.",
+    "website": "https://sites.google.com/view/turbotoad",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/FYdKKmV3CU"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TurboToadToken"
+        }
+    ],
+    "tags": [
+        "memes"
+    ],
+    "chain": 369
+}

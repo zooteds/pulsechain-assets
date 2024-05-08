@@ -1,0 +1,12 @@
+{
+    "name": "TrustSwap Token from Ethereum",
+    "symbol": "SWAP",
+    "id": "0x4fD488db0010728A8459aA363dF26F48cF9BFdE1",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4fD488db0010728A8459aA363dF26F48cF9BFdE1",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xCC4304A31d09258b0029eA7FE63d032f52e44EFe. A Full-Service Digital Asset Ecosystem.",
+    "website": "https://trustswap.org",
+    "chain": 369
+}

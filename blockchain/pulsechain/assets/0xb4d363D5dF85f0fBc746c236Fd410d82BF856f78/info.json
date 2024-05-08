@@ -1,0 +1,10 @@
+{
+    "name": "Icosa from Ethereum",
+    "symbol": "ICSA",
+    "id": "0xb4d363D5dF85f0fBc746c236Fd410d82BF856f78",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfc4913214444aF5c715cc9F7b52655e788A569ed.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xb4d363D5dF85f0fBc746c236Fd410d82BF856f78",
+    "chain": 369
+}

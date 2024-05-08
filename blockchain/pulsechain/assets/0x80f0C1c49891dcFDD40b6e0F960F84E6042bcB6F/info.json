@@ -1,0 +1,10 @@
+{
+    "id": "0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+    "symbol": "DXN",
+    "name": "DBXen Token",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x80f0C1c49891dcFDD40b6e0F960F84E6042bcB6F",
+    "chain": 369
+}

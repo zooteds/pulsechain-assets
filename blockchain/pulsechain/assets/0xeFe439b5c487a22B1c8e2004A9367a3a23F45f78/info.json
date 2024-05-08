@@ -1,0 +1,38 @@
+{
+    "name": "Ben from Ethereum",
+    "symbol": "BEN",
+    "id": "0xeFe439b5c487a22B1c8e2004A9367a3a23F45f78",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xeFe439b5c487a22B1c8e2004A9367a3a23F45f78",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x9bf1D7D63dD7a4ce167CF4866388226EEefa702E. Empowering Retail Investors through Crypto Advocacy, Education, Transparency and Representation.",
+    "website": "https://joinbencoin.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/joinbencoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bencoineth"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/joinbencoin"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ben/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/ben-2/"
+        }
+    ],
+    "tags": [
+        "governance",
+        "defi"
+    ],
+    "chain": 369
+}

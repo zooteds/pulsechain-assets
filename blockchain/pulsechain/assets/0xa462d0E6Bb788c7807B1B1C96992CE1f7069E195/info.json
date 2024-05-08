@@ -1,0 +1,12 @@
+{
+    "name": "EQUUSMiningToken",
+    "symbol": "EQMT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.equus.dev",
+    "explorer": "https://scan.pulsechain.com/token/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+    "status": "abandoned",
+    "id": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+    "chain": 369
+}

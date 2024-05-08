@@ -1,0 +1,30 @@
+{
+    "name": "Folder Coin",
+    "website": "https://folderlabs.io/",
+    "description": "Forked from Ethereum with Pulsechain. Folder Protocol provides a blockchain-based second layer technologies and marketplace that aims to revolutionize the global storage economy for highly scalable, faster retrieval, and wider distribution.",
+    "explorer": "https://scan.pulsechain.com/token/0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+    "type": "PRC20",
+    "symbol": "FOL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA8580F3363684d76055bdC6660CaeFe8709744e1",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/folderlabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/folderlabs"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/user/folderlabs"
+        },
+        {
+            "name": "medium",
+            "url": "https://folderlabs.medium.com/"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Axie Infinity Shard",
+    "website": "https://axieinfinity.com",
+    "description": "Forked from Ethereum with Pulsechain. Axie Infinity Shards are Axie Infinity's governance token.",
+    "explorer": "https://scan.pulsechain.com/token/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+    "research": "https://research.binance.com/en/projects/axie-infinity",
+    "type": "PRC20",
+    "symbol": "AXS",
+    "decimals": 18,
+    "status": "abandoned",
+    "id": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+    "chain": 369
+}

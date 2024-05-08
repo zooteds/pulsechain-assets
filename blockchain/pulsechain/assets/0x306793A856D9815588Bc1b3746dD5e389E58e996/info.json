@@ -1,0 +1,12 @@
+{
+    "name": "Saitama Inu from Ethereum",
+    "symbol": "SAITAMA",
+    "id": "0x306793A856D9815588Bc1b3746dD5e389E58e996",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x306793A856D9815588Bc1b3746dD5e389E58e996",
+    "status": "abandoned",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x8B3192f5eEBD8579568A2Ed41E6FEB402f93f73F. Community Owned Decentralised Token",
+    "website": "https://saitamatoken.com",
+    "chain": 369
+}

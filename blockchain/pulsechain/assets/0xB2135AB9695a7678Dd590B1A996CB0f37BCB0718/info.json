@@ -1,0 +1,12 @@
+{
+    "name": "Signals Network Token",
+    "symbol": "SGN",
+    "type": "PRC20",
+    "decimals": 9,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://signals.network/",
+    "explorer": "https://scan.pulsechain.com/token/0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718",
+    "status": "abandoned",
+    "id": "0xB2135AB9695a7678Dd590B1A996CB0f37BCB0718",
+    "chain": 369
+}

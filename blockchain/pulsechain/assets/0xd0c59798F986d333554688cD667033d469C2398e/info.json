@@ -1,0 +1,12 @@
+{
+    "name": "Ymen.Finance",
+    "website": "https://ymen.finance",
+    "description": "Forked from Ethereum with Pulsechain. YMEN token is deflationary, and it's used to farm Mutant token that is the governance token that can be sold into YMEN/MUTANT pool.",
+    "explorer": "https://scan.pulsechain.com/token/0xd0c59798F986d333554688cD667033d469C2398e",
+    "type": "PRC20",
+    "symbol": "YMEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd0c59798F986d333554688cD667033d469C2398e",
+    "chain": 369
+}

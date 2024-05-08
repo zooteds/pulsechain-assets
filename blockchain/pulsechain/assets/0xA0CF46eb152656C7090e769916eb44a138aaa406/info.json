@@ -1,0 +1,12 @@
+{
+    "name": "Spheroid",
+    "symbol": "SPH",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.spheroiduniverse.io/",
+    "explorer": "https://scan.pulsechain.com/token/0xA0CF46eb152656C7090e769916eb44a138aaa406",
+    "status": "abandoned",
+    "id": "0xA0CF46eb152656C7090e769916eb44a138aaa406",
+    "chain": 369
+}

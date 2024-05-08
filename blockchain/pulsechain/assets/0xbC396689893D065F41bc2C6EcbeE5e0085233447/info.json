@@ -1,0 +1,25 @@
+{
+    "name": "Perpetual",
+    "website": "https://perp.fi",
+    "description": "Forked from Ethereum with Pulsechain. Decentralized Perpetual Contract for Every Assets",
+    "explorer": "https://scan.pulsechain.com/token/0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+    "type": "PRC20",
+    "symbol": "PERP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/perpetual-protocol"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.perp.fi/"
+        }
+    ],
+    "chain": 369
+}

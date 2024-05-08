@@ -1,0 +1,12 @@
+{
+    "name": "MCHCoin",
+    "website": "https://www.mycryptoheroes.net/help-posts/TTgrGCNsMHYxK6jMCB4rV",
+    "description": "Forked from Ethereum with Pulsechain. MCH coins are primarily used to vote on MCH governance.",
+    "explorer": "https://scan.pulsechain.com/token/0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+    "type": "PRC20",
+    "symbol": "MCHC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+    "chain": 369
+}

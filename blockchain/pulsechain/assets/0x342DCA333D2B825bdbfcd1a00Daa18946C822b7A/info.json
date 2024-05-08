@@ -1,0 +1,12 @@
+{
+    "name": "XY Oracle from Ethereum",
+    "symbol": "XYO",
+    "id": "0x342DCA333D2B825bdbfcd1a00Daa18946C822b7A",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x342DCA333D2B825bdbfcd1a00Daa18946C822b7A",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x55296f69f40Ea6d20E478533C15A6B08B654E758. -",
+    "website": "https://xyo.network/",
+    "chain": 369
+}

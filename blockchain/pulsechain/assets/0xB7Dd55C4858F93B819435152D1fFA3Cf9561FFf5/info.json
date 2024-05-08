@@ -1,0 +1,30 @@
+{
+    "name": "Lido DAO Token from Ethereum",
+    "symbol": "LDO",
+    "id": "0xB7Dd55C4858F93B819435152D1fFA3Cf9561FFf5",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xB7Dd55C4858F93B819435152D1fFA3Cf9561FFf5",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32. Lido is a liquid staking solution for Ethereum. Lido lets users stake their ETH - with no minimum deposits or maintaining of infrastructure - whilst participating in on-chain activities, e.g. lending, to compound returns. LDO is an ERC20 token granting governance rights in the Lido DAO.",
+    "website": "https://stake.lido.fi/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lidofinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/lidofinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/lido-dao/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/lido-dao/"
+        }
+    ],
+    "chain": 369
+}

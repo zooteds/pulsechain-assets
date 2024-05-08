@@ -1,0 +1,50 @@
+{
+    "name": "Wilder from Ethereum",
+    "symbol": "WILD",
+    "id": "0x287a9F268c33b9bD44C2d721457e20D68b00bE14",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x287a9F268c33b9bD44C2d721457e20D68b00bE14",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2a3bFF78B79A009976EeA096a51A948a3dC00e34. Wilder World is an immersive 5D metaverse powered entirely by NFTs.",
+    "website": "https://www.wilderworld.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/WilderWorld"
+        },
+        {
+            "name": "medium",
+            "url": "https://wilderworld.medium.com/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/wilderworld"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://info.wilderworld.com/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wilder-world/"
+        },
+        {
+            "name": "blog",
+            "url": "https://zine.wilderworld.com/"
+        },
+        {
+            "name": "docs",
+            "url": "https://wiki.wilderworld.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/wilder_world"
+        }
+    ],
+    "tags": [
+        "nft",
+        "gamefi"
+    ],
+    "chain": 369
+}

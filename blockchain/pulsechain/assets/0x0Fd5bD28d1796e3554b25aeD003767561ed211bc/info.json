@@ -1,0 +1,10 @@
+{
+    "name": "Glitch from Ethereum",
+    "symbol": "GLCH",
+    "id": "0x0Fd5bD28d1796e3554b25aeD003767561ed211bc",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x038a68FF68c393373eC894015816e33Ad41BD564.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x0Fd5bD28d1796e3554b25aeD003767561ed211bc",
+    "chain": 369
+}

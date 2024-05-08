@@ -1,0 +1,12 @@
+{
+    "name": "UniCrypt",
+    "website": "https://unicrypt.network",
+    "description": "Forked from Ethereum with Pulsechain. UNC was the initial token of the UniCrypt platform. Please swap it to UNCX (the new token) on the website.",
+    "explorer": "https://scan.pulsechain.com/token/0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+    "type": "PRC20",
+    "symbol": "UNC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf29e46887FFAE92f1ff87DfE39713875Da541373",
+    "chain": 369
+}

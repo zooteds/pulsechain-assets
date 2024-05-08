@@ -1,0 +1,22 @@
+{
+    "name": "APY Governance Token",
+    "website": "https://apy.finance",
+    "description": "Forked from Ethereum with Pulsechain. Yield Farming Robo-Advisor",
+    "explorer": "https://scan.pulsechain.com/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+    "type": "PRC20",
+    "symbol": "APY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/apy-finance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.apy.finance/whitepaper/litepaper"
+        }
+    ],
+    "chain": 369
+}

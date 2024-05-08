@@ -1,0 +1,26 @@
+{
+    "name": "NONbeta",
+    "symbol": "SOON",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Governance Token of the NONgov BETA. After the NONnation release the NON token, will be distributed 1:1 to OS holders",
+    "website": "https://nonnation.xyz",
+    "explorer": "https://scan.pulsechain.com/token/0x6100dd79fCAA88420750DceE3F735d168aBcB771",
+    "status": "active",
+    "id": "0x6100dd79fCAA88420750DceE3F735d168aBcB771",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/nonlabshq"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/nonlabs"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@nonlabs"
+        }
+    ],
+    "chain": 369
+}

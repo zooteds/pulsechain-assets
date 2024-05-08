@@ -1,0 +1,13 @@
+{
+    "name": "Indexed",
+    "website": "https://indexed.finance",
+    "description": "Forked from Ethereum with Pulsechain. Indexed Finance is a project focused on the development of passive portfolio management strategies for the Ethereum network.",
+    "explorer": "https://scan.pulsechain.com/token/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "research": "https://ndxfi.medium.com/introducing-indexed-finance-ndx-5d91137bde29",
+    "type": "PRC20",
+    "symbol": "NDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "chain": 369
+}

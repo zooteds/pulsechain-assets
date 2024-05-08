@@ -1,0 +1,12 @@
+{
+    "name": "CoTrader",
+    "symbol": "COT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. CoTrader (COT) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://cotrader.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x5c872500c00565505F3624AB435c222E558E9ff8",
+    "status": "active",
+    "id": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+    "chain": 369
+}

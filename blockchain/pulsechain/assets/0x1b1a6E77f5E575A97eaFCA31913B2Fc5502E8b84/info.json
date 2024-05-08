@@ -1,0 +1,26 @@
+{
+    "name": "MAGA from Ethereum",
+    "symbol": "TRUMP",
+    "id": "0x1b1a6E77f5E575A97eaFCA31913B2Fc5502E8b84",
+    "type": "PRC20",
+    "decimals": 9,
+    "explorer": "https://scan.pulsechain.com/token/0x1b1a6E77f5E575A97eaFCA31913B2Fc5502E8b84",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x576e2BeD8F7b46D34016198911Cdf9886f78bea7. Maga is a deflationary meme coin launched on Ethereum. Cryptocurrency was created as a tribute to the trump the Maga.",
+    "website": "https://magamemecoin.com/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/MAGAMemecoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MAGAMemecoin"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/maga/"
+        }
+    ],
+    "chain": 369
+}

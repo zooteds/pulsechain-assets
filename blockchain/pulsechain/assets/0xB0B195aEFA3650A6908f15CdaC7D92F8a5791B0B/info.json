@@ -1,0 +1,10 @@
+{
+    "id": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "symbol": "BOB",
+    "name": "BOB",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+    "chain": 369
+}

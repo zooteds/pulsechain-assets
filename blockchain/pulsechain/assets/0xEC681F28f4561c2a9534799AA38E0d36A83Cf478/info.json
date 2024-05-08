@@ -1,0 +1,12 @@
+{
+    "name": "YVS.Finance",
+    "website": "https://yvs.finance",
+    "description": "Forked from Ethereum with Pulsechain. The first and only yield-farming, vaults and staking deflationary token with no admin control.",
+    "explorer": "https://scan.pulsechain.com/token/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+    "type": "PRC20",
+    "symbol": "YVS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
+    "chain": 369
+}

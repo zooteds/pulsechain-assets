@@ -1,0 +1,12 @@
+{
+    "name": "Pamp Network from Ethereum",
+    "symbol": "PAMP",
+    "id": "0xD07c5e9114979bf4150942e57a85D01FD3964779",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xD07c5e9114979bf4150942e57a85D01FD3964779",
+    "status": "abandoned",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1. -",
+    "website": "https://pamp.network/",
+    "chain": 369
+}

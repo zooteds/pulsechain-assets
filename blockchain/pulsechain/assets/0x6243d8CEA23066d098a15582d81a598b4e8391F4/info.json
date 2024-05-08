@@ -1,0 +1,13 @@
+{
+    "name": "Flex Ungovernance Token",
+    "website": "https://reflexer.finance",
+    "description": "Forked from Ethereum with Pulsechain. FLX is the ungovernance token for the RAI stable asset and the Reflexer ecosystem. It is a backstop asset for the RAI protocol.",
+    "explorer": "https://scan.pulsechain.com/token/0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+    "research": "https://docs.reflexer.finance/",
+    "type": "PRC20",
+    "symbol": "FLX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+    "chain": 369
+}

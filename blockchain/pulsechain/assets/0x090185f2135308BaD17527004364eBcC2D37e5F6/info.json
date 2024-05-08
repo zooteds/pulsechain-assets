@@ -1,0 +1,12 @@
+{
+    "name": "Spell Token",
+    "website": "https://abracadabra.money",
+    "description": "Forked from Ethereum with Pulsechain. Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
+    "explorer": "https://scan.pulsechain.com/token/0x090185f2135308BaD17527004364eBcC2D37e5F6",
+    "type": "PRC20",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
+    "chain": 369
+}

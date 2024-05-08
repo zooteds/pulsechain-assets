@@ -1,0 +1,12 @@
+{
+    "name": "PRG",
+    "symbol": "PRG",
+    "type": "PRC20",
+    "decimals": 6,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+    "status": "abandoned",
+    "id": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+    "chain": 369
+}

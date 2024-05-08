@@ -1,0 +1,12 @@
+{
+    "name": "Ara Token",
+    "type": "PRC20",
+    "symbol": "ARA",
+    "decimals": 18,
+    "website": "https://ara.one",
+    "description": "Forked from Ethereum with Pulsechain. Ara directly connects creators and fans, enabling distribution and payment without platform fees and limits.",
+    "explorer": "https://scan.pulsechain.com/token/0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+    "status": "active",
+    "id": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+    "chain": 369
+}

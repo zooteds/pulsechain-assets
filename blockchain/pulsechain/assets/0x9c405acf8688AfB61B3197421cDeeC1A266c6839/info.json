@@ -1,0 +1,12 @@
+{
+    "name": "DogeYield",
+    "website": "https://dogeyield.com",
+    "description": "Forked from Ethereum with Pulsechain. DogeYield is Yield Farming Paltform with dogecoin rewards for DOGY holders and Stakers. Dogeyield provides the users with hold system without making deposits to join the yield farming.",
+    "explorer": "https://scan.pulsechain.com/token/0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+    "type": "PRC20",
+    "symbol": "DOGY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
+    "chain": 369
+}

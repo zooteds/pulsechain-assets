@@ -1,0 +1,30 @@
+{
+    "name": "Yield",
+    "website": "https://yield.credit/",
+    "description": "Forked from Ethereum with Pulsechain. A p2p defi lending app where lenders earn fixed, guaranteed interest and borrowers earn YLD for every repaid loan",
+    "explorer": "https://scan.pulsechain.com/token/0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+    "type": "PRC20",
+    "symbol": "YLD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/YieldCredit"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/yieldchat"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/CGBGRrKJyX"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/YieldCredit"
+        }
+    ],
+    "chain": 369
+}

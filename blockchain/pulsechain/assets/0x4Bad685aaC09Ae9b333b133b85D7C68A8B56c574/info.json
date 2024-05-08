@@ -1,0 +1,30 @@
+{
+    "name": "Arbitrum from Ethereum",
+    "symbol": "ARB",
+    "id": "0x4Bad685aaC09Ae9b333b133b85D7C68A8B56c574",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4Bad685aaC09Ae9b333b133b85D7C68A8B56c574",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1. $ARB tokens can be used to vote on Arbitrum DAO governance proposals, allowing $ARB holders to collectively shape the future of Arbitrum protocols and chains. Token holders can also delegate their voting power to delegates.",
+    "website": "https://arbitrum.foundation/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/arbitrum"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.arbitrum.foundation/deployment-addresses"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/arbitrum"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/ru/currencies/arbitrum-iou/"
+        }
+    ],
+    "chain": 369
+}

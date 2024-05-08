@@ -1,0 +1,12 @@
+{
+    "name": "GoBlank Token",
+    "website": "https://www.goblank.io",
+    "description": "Forked from Ethereum with Pulsechain. Blank is the most private, non-custodial Ethereum browser wallet.",
+    "explorer": "https://scan.pulsechain.com/token/0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+    "type": "PRC20",
+    "symbol": "BLANK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x41A3Dba3D677E573636BA691a70ff2D606c29666",
+    "chain": 369
+}

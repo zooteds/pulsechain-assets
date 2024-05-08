@@ -1,0 +1,12 @@
+{
+    "name": "hex.bet",
+    "symbol": "HXB",
+    "type": "PRC20",
+    "decimals": 8,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0x9BB6fd000109E24Eb38B0Deb806382fF9247E478",
+    "status": "abandoned",
+    "id": "0x9BB6fd000109E24Eb38B0Deb806382fF9247E478",
+    "chain": 369
+}

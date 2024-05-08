@@ -1,0 +1,30 @@
+{
+    "name": "THE TRUTH from Ethereum",
+    "symbol": "UFO",
+    "id": "0x6248e22797BD73F7d7a8D19E1FADaA94dAFE35BA",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x6248e22797BD73F7d7a8D19E1FADaA94dAFE35BA",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x249e38Ea4102D0cf8264d3701f1a0E39C4f2DC3B. UFO is an dual purpose token that powers the metaverse and helps govern it.",
+    "website": "https://www.ufotoken.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/theufotoken?s=21"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ufotokenofficial"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@UFOtruth"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/UFOTOKENOFFICIAL/supergalactic"
+        }
+    ],
+    "chain": 369
+}

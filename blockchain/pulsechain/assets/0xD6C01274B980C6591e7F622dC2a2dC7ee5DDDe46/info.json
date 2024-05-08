@@ -1,0 +1,41 @@
+{
+    "name": "Synthetix Network Token from Ethereum",
+    "symbol": "SNX",
+    "id": "0xD6C01274B980C6591e7F622dC2a2dC7ee5DDDe46",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xD6C01274B980C6591e7F622dC2a2dC7ee5DDDe46",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F. Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.",
+    "website": "https://synthetix.io",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/havven/havven"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/synthetix_io"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/synthetix_io/"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.synthetix.io/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://synthetix.io/uploads/havven_whitepaper.pdf"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/havven/"
+        }
+    ],
+    "tags": [
+        "governance"
+    ],
+    "chain": 369
+}

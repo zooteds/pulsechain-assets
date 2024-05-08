@@ -1,0 +1,12 @@
+{
+    "name": "Strong",
+    "symbol": "STRONG",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://strongblock.io",
+    "explorer": "https://scan.pulsechain.com/token/0x990f341946A3fdB507aE7e52d17851B87168017c",
+    "status": "active",
+    "id": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+    "chain": 369
+}

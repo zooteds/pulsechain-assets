@@ -1,0 +1,15 @@
+{
+    "name": "Dogey-Inu",
+    "type": "PRC20",
+    "symbol": "DINU",
+    "decimals": 18,
+    "website": "https://dogeyinu.com/",
+    "description": "Forked from Ethereum with Pulsechain. An experiment in decentralized community building around a simple erc-20 token. ",
+    "explorer": "https://scan.pulsechain.com/token/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+    "status": "active",
+    "id": "0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732",
+    "tags": [
+        "deflationary"
+    ],
+    "chain": 369
+}

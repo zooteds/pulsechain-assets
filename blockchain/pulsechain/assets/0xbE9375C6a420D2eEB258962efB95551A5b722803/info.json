@@ -1,0 +1,26 @@
+{
+    "name": "StormX",
+    "website": "https://stormx.io",
+    "description": "Forked from Ethereum with Pulsechain. Earn crypto when you shop online.",
+    "explorer": "https://scan.pulsechain.com/token/0xbE9375C6a420D2eEB258962efB95551A5b722803",
+    "type": "PRC20",
+    "symbol": "STMX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Stormxio"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/stormxapp"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/stormxio/"
+        }
+    ],
+    "chain": 369
+}

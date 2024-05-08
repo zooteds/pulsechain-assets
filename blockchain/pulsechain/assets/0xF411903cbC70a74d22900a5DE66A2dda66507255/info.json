@@ -1,0 +1,12 @@
+{
+    "name": "VERA",
+    "symbol": "VRA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Verasity",
+    "website": "https://verasity.io",
+    "explorer": "https://scan.pulsechain.com/token/0xF411903cbC70a74d22900a5DE66A2dda66507255",
+    "status": "active",
+    "id": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
+    "chain": 369
+}

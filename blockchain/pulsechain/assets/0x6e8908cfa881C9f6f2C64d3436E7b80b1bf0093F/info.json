@@ -1,0 +1,12 @@
+{
+    "name": "Bistroo Token",
+    "symbol": "BIST",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The community-powered food delivery platform.",
+    "website": "https://bistroo.io",
+    "explorer": "https://scan.pulsechain.com/token/0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+    "status": "active",
+    "id": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+    "chain": 369
+}

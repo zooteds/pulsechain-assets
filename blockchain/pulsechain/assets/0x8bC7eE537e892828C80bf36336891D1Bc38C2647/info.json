@@ -1,0 +1,15 @@
+{
+    "name": "Wrapped AVAX from Ethereum",
+    "symbol": "WAVAX",
+    "id": "0x8bC7eE537e892828C80bf36336891D1Bc38C2647",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x8bC7eE537e892828C80bf36336891D1Bc38C2647",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x85f138bfEE4ef8e540890CFb48F620571d67Eda3. Cross Chain Portal Bridged Token",
+    "website": "https://www.avax.network/",
+    "tags": [
+        "wrapped"
+    ],
+    "chain": 369
+}

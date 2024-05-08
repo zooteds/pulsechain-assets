@@ -1,0 +1,26 @@
+{
+    "name": "Myria",
+    "website": "https://myria.com/",
+    "description": "Forked from Ethereum with Pulsechain. The MYRIA token is officially live, bringing Myria a step closer to building the ultimate Web3 gaming ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
+    "type": "PRC20",
+    "symbol": "MYRIA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA0Ef786Bf476fE0810408CaBA05E536aC800ff86",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/myria"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/myriaofficialgroup"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/myria"
+        }
+    ],
+    "chain": 369
+}

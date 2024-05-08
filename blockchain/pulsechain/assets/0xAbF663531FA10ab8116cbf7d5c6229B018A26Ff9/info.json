@@ -1,0 +1,10 @@
+{
+    "name": "Hedron from Ethereum",
+    "symbol": "HDRN",
+    "id": "0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3819f64f282bf135d62168C1e513280dAF905e06.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0xAbF663531FA10ab8116cbf7d5c6229B018A26Ff9",
+    "chain": 369
+}

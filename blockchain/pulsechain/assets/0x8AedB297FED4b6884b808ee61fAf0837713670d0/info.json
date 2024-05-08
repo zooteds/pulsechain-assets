@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped MarbleCards",
+    "symbol": "WMC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://wrappedmarble.cards",
+    "explorer": "https://scan.pulsechain.com/token/0x8AedB297FED4b6884b808ee61fAf0837713670d0",
+    "status": "abandoned",
+    "id": "0x8AedB297FED4b6884b808ee61fAf0837713670d0",
+    "chain": 369
+}

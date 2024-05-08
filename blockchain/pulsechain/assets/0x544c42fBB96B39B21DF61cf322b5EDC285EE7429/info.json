@@ -1,0 +1,12 @@
+{
+    "name": "InsurAce",
+    "website": "https://insurace.io",
+    "description": "Forked from Ethereum with Pulsechain. InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",
+    "explorer": "https://scan.pulsechain.com/token/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "type": "PRC20",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "chain": 369
+}

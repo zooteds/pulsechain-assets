@@ -1,0 +1,30 @@
+{
+    "name": "Tokenlon",
+    "website": "https://tokenlon.im/lon",
+    "description": "Forked from Ethereum with Pulsechain. LON backs the Tokenlon decentralized exchange and payment settlement protocol based on Ethereum blockchain technology. It currently powers Tokenlon DEX, a decentralized exchange and payment settlement protocol which aims to provide a secure, reliable and seamless trading experience to the masses.",
+    "explorer": "https://scan.pulsechain.com/token/0x0000000000095413afC295d19EDeb1Ad7B71c952",
+    "type": "PRC20",
+    "symbol": "LON",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tokenlon"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/nPmsMrG"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@tokenlon"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tokenlon.im/files/Tokenlon-litepaper_en-us.pdf"
+        }
+    ],
+    "chain": 369
+}

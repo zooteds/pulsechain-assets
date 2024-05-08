@@ -1,0 +1,12 @@
+{
+    "name": "Tellor Tributes from Ethereum",
+    "symbol": "TRB",
+    "id": "0x77C382C0BB5C996a7A4507d42ddA03C69727049F",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x77C382C0BB5C996a7A4507d42ddA03C69727049F",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0. Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
+    "website": "https://tellor.io",
+    "chain": 369
+}

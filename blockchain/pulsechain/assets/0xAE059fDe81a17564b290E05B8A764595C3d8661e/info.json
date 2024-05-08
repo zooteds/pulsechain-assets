@@ -1,0 +1,15 @@
+{
+    "name": "IoTeX Network from Ethereum",
+    "symbol": "IOTX",
+    "id": "0xAE059fDe81a17564b290E05B8A764595C3d8661e",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xAE059fDe81a17564b290E05B8A764595C3d8661e",
+    "status": "abandoned",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69. -",
+    "website": "https://iotex.io",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

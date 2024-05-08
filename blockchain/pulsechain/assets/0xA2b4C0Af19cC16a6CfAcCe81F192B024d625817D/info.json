@@ -1,0 +1,12 @@
+{
+    "name": "Kishu Inu",
+    "type": "PRC20",
+    "symbol": "KISHU",
+    "decimals": 9,
+    "website": "https://kishu.finance/",
+    "description": "Forked from Ethereum with Pulsechain. Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with instant rewards for holders. Join the moon mission.",
+    "explorer": "https://scan.pulsechain.com/token/0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+    "status": "active",
+    "id": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+    "chain": 369
+}

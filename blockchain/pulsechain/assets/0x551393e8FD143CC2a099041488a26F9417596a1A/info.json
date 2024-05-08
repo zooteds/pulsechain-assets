@@ -1,0 +1,29 @@
+{
+    "name": "Compound from Ethereum",
+    "symbol": "COMP",
+    "id": "0x551393e8FD143CC2a099041488a26F9417596a1A",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x551393e8FD143CC2a099041488a26F9417596a1A",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xc00e94Cb662C3520282E6f5717214004A7f26888. Compound is the governance token for the Compound protocol.",
+    "website": "https://compound.finance",
+    "links": [
+        {
+            "name": "blog",
+            "url": "https://medium.com/compound-finance"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/compoundfinance"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/compound-governance-token/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

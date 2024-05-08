@@ -1,0 +1,12 @@
+{
+    "name": "FOX",
+    "symbol": "FOX",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. FOX is ShapeShift\u2019s official loyalty token. Holders of FOX enjoy zero-commission trading and win ongoing USDC crypto payments from Rainfall (payments increase in proportion to your FOX holdings). ",
+    "website": "https://shapeshift.com/fox-token",
+    "explorer": "https://scan.pulsechain.com/token/0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+    "status": "active",
+    "id": "0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
+    "chain": 369
+}

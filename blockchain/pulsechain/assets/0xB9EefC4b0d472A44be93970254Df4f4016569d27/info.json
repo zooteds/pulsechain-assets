@@ -1,0 +1,12 @@
+{
+    "name": "digitalbits",
+    "symbol": "XDB",
+    "type": "PRC20",
+    "decimals": 7,
+    "description": "Forked from Ethereum with Pulsechain. DigitalBits is a protocol layer blockchain designed to support consumer digital assets, specifically brand currencies.",
+    "website": "https://www.digitalbits.io",
+    "explorer": "https://scan.pulsechain.com/token/0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+    "status": "active",
+    "id": "0xB9EefC4b0d472A44be93970254Df4f4016569d27",
+    "chain": 369
+}

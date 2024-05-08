@@ -1,0 +1,12 @@
+{
+    "name": "Moss Carbon Credit",
+    "website": "https://moss.earth",
+    "description": "Forked from Ethereum with Pulsechain. The first truly global Carbon Credit Token, that provides ease, transparency, global scale and security for your carbon footprint compensation.",
+    "explorer": "https://scan.pulsechain.com/token/0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
+    "type": "PRC20",
+    "symbol": "MCO2",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfC98e825A2264D890F9a1e68ed50E1526abCcacD",
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "UniGraph",
+    "symbol": "GRAPH",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://unigraph.app/",
+    "explorer": "https://scan.pulsechain.com/token/0x165440036Ce972C5F8EBef667086707e48B2623e",
+    "status": "abandoned",
+    "id": "0x165440036Ce972C5F8EBef667086707e48B2623e",
+    "chain": 369
+}

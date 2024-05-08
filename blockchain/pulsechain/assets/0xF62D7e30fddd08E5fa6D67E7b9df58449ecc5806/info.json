@@ -1,0 +1,26 @@
+{
+    "name": "Mask Network from Ethereum",
+    "symbol": "MASK",
+    "id": "0xF62D7e30fddd08E5fa6D67E7b9df58449ecc5806",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0xF62D7e30fddd08E5fa6D67E7b9df58449ecc5806",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074. The portal to the new, open internet.",
+    "website": "https://mask.io",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/DimensionDev/Maskbook"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/realmaskbook"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/masknetwork"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Emblem",
+    "type": "PRC20",
+    "symbol": "EMB",
+    "decimals": 8,
+    "website": "https://overline.network",
+    "description": "Forked from Ethereum with Pulsechain. Overline is a protocol designed to foster innovation by connecting blockchain technologies with liquidity and interoperability. Overline is built on top of a unique proof-of-work algorithm called \u201cProof-of-Distance\u201d and uses mining hash power from it\u2019s network to build a \"blockchain of blockchains\u201d, or multichain, by weaving together the states of all connected blockchain networks and recording this information into a single immutable ledger.",
+    "explorer": "https://scan.pulsechain.com/token/0xdb0aCC14396D108b3C5574483aCB817855C9dc8d",
+    "status": "active",
+    "id": "0xdb0aCC14396D108b3C5574483aCB817855C9dc8d",
+    "chain": 369
+}

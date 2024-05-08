@@ -1,0 +1,12 @@
+{
+    "name": "Goldmint MNT Prelaunch Token",
+    "symbol": "MNTP",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.goldmint.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+    "status": "abandoned",
+    "id": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+    "chain": 369
+}

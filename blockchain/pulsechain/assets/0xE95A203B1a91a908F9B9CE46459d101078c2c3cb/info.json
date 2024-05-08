@@ -1,0 +1,34 @@
+{
+    "name": "Ankr Staked ETH",
+    "website": "https://stkr.io/",
+    "description": "Forked from Ethereum with Pulsechain. aETHc is a reward-bearing certificate that enables instant liquidity for staked ETH tokens in Ethereum 2.0 network.",
+    "explorer": "https://scan.pulsechain.com/token/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+    "type": "PRC20",
+    "symbol": "ankrETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Ankr-network/stkr-smartcontract"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Ankr"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ankrnetwork"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/ankr-network"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://assets.ankr.com/files/stkr_whitepaper.pdf"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,15 @@
+{
+    "name": "UnFederalReserveToken",
+    "website": "https://unFederalReserve.com",
+    "description": "Forked from Ethereum with Pulsechain. unFederalReserve is a banking SaaS company built on blockchain technology. Our banking products are designed for smaller U.S. Treasury chartered banks and non-bank lenders in need of greater liquidity without sacrificing security or compliance.",
+    "explorer": "https://scan.pulsechain.com/token/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+    "type": "PRC20",
+    "symbol": "eRSDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+    "tags": [
+        "governance"
+    ],
+    "chain": 369
+}

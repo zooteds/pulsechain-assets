@@ -1,0 +1,12 @@
+{
+    "name": "Shih Tzu",
+    "type": "PRC20",
+    "symbol": "SHIH",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. SHIH TZU project is a meme based token that has determined to pursue NFT artwork",
+    "website": "https://www.shih-tzu.org/",
+    "explorer": "https://scan.pulsechain.com/token/0x841FB148863454A3b3570f515414759BE9091465",
+    "status": "active",
+    "id": "0x841FB148863454A3b3570f515414759BE9091465",
+    "chain": 369
+}

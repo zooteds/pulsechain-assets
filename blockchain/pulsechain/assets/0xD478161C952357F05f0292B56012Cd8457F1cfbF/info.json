@@ -1,0 +1,12 @@
+{
+    "name": "Polkamarkets",
+    "symbol": "POLK",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Polkamarkets is a DeFi-Powered Prediction Market built for cross-chain information exchange and trading, where users take positions on outcomes of real world events\u2013in a decentralized and interoperable platform on Polkadot.",
+    "website": "https://polkamarkets.com",
+    "explorer": "https://scan.pulsechain.com/token/0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+    "status": "active",
+    "id": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
+    "chain": 369
+}

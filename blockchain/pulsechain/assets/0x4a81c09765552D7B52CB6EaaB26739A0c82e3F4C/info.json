@@ -1,0 +1,10 @@
+{
+    "name": "Aped from Ethereum",
+    "symbol": "APED",
+    "id": "0x4a81c09765552D7B52CB6EaaB26739A0c82e3F4C",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xE0151763455A8a021e64880C238ba1cff3787fF0.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x4a81c09765552D7B52CB6EaaB26739A0c82e3F4C",
+    "chain": 369
+}

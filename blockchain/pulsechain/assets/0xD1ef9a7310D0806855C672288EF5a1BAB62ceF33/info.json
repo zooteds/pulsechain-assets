@@ -1,0 +1,12 @@
+{
+    "name": "BELIEVER",
+    "symbol": "BLVR",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.believercards.com/",
+    "explorer": "https://scan.pulsechain.com/token/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
+    "status": "active",
+    "id": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
+    "chain": 369
+}

@@ -1,0 +1,26 @@
+{
+    "name": "DuckDaoDime",
+    "website": "https://duckdao.io",
+    "description": "Forked from Ethereum with Pulsechain. DuckDAO, the world\u2019s largest crowdsourced Incubator for crypto projects.",
+    "explorer": "https://scan.pulsechain.com/token/0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+    "type": "PRC20",
+    "symbol": "DDIM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFbEEa1C75E4c4465CB2FCCc9c6d6afe984558E20",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dao_duck"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/duckdaolobby"
+        },
+        {
+            "name": "medium",
+            "url": "https://duckdao.medium.com/"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Rabbit Race from Ethereum",
+    "symbol": "RABBITS",
+    "id": "0x59c9fD9f2ceE78Ae2B422423E8a52F700b04eb7e",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x3576EFf2be8B1A31782b3E8dfD962a6ddb087890.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x59c9fD9f2ceE78Ae2B422423E8a52F700b04eb7e",
+    "chain": 369
+}

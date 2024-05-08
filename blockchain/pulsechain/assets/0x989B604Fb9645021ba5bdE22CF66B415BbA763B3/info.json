@@ -1,0 +1,10 @@
+{
+    "name": "Governance OHM from Ethereum",
+    "symbol": "gOHM",
+    "id": "0x989B604Fb9645021ba5bdE22CF66B415BbA763B3",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x0ab87046fBb341D058F17CBC4c1133F25a20a52f.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x989B604Fb9645021ba5bdE22CF66B415BbA763B3",
+    "chain": 369
+}

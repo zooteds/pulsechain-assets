@@ -1,0 +1,12 @@
+{
+    "name": "GraphLinq",
+    "symbol": "GLQ",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The automation of decentralized DeFi data monitorization and external executions over multi-chain applications.",
+    "website": "https://graphlinq.io/",
+    "explorer": "https://scan.pulsechain.com/token/0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+    "status": "active",
+    "id": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
+    "chain": 369
+}

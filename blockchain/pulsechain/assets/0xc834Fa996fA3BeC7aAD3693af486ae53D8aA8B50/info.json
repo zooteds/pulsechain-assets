@@ -1,0 +1,12 @@
+{
+    "name": "Convergence",
+    "symbol": "CONV",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Convergence Finance is a decentralized interchangeable assets protocol designed to bridge real-world asset exposure with the liquidity of decentralized finance (DeFi). It essentially allows DeFi participants to gain exposure to real-world assets.",
+    "website": "https://conv.finance/",
+    "explorer": "https://scan.pulsechain.com/token/0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+    "status": "active",
+    "id": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
+    "chain": 369
+}

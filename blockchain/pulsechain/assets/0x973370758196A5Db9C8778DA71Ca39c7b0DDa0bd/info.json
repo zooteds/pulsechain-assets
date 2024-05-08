@@ -1,0 +1,10 @@
+{
+    "name": "Unipilot from Ethereum",
+    "symbol": "PILOT",
+    "id": "0x973370758196A5Db9C8778DA71Ca39c7b0DDa0bd",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x37C997B35C619C21323F3518B9357914E8B99525.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x973370758196A5Db9C8778DA71Ca39c7b0DDa0bd",
+    "chain": 369
+}

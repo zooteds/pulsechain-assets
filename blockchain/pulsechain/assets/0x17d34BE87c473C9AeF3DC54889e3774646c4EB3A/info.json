@@ -1,0 +1,10 @@
+{
+    "name": "Baby Shiba Inu from Ethereum",
+    "symbol": "BABYSHIB",
+    "id": "0x17d34BE87c473C9AeF3DC54889e3774646c4EB3A",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x00000000051b48047bE6DC0Ada6DE5c3de86A588.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x17d34BE87c473C9AeF3DC54889e3774646c4EB3A",
+    "chain": 369
+}

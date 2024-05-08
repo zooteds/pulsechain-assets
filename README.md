@@ -12,17 +12,10 @@ Do no make an issue in this repository for adding or aditing token data.
 
 ### Using the data
 
-The data is provided in 2 formats, each in it's own respository so it can be included in your project as a sub-module:
+This repository is the canonical version of the data. Secondary repositories with alternative naming and folder structure are also maintained. Instructions for integration can be found in the respective repositories.
 
-https://github.com/PLS369/pulsechain-tokens-flat
+Otterscan - https://github.com/PLS369/pulsechain-tokens-flat
 
-contract-address.png
-
-https://github.com/PLS369/pulsechain-tokens-folder
-
-/contract-address/
-- info.json
-- logo.png
 
 ** Hotlinking **
 Given the data changes constantly we'd recommend hotlinking the images rather than forking this repo.

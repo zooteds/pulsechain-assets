@@ -1,0 +1,12 @@
+{
+    "name": "KeyFi Token",
+    "symbol": "KEYFI",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. KeyFi is an all-in-one platform for tracking, swapping, and staking your tokens, and more.",
+    "website": "https://keyfi.com",
+    "explorer": "https://scan.pulsechain.com/token/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
+    "status": "active",
+    "id": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
+    "chain": 369
+}

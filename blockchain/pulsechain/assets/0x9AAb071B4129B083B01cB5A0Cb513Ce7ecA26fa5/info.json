@@ -1,0 +1,12 @@
+{
+    "name": "HuntToken",
+    "symbol": "HUNT",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.",
+    "website": "https://token.hunt.town",
+    "explorer": "https://scan.pulsechain.com/token/0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+    "status": "active",
+    "id": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
+    "chain": 369
+}

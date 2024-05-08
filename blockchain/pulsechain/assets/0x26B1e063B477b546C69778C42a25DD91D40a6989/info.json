@@ -1,0 +1,10 @@
+{
+    "name": "Genius from Ethereum",
+    "symbol": "GENI",
+    "id": "0x26B1e063B477b546C69778C42a25DD91D40a6989",
+    "decimals": 9,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x444444444444C1a66F394025Ac839A535246FCc8.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x26B1e063B477b546C69778C42a25DD91D40a6989",
+    "chain": 369
+}

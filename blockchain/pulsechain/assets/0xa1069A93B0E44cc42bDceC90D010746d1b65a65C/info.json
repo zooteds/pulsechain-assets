@@ -1,0 +1,18 @@
+{
+    "name": "BCDC",
+    "website": "https://bcdc.finance/",
+    "description": "Forked from Ethereum with Pulsechain. BCDC is the investment platform that connects Ce-Fi and De-Fi.",
+    "explorer": "https://scan.pulsechain.com/token/0xa1069A93B0E44cc42bDceC90D010746d1b65a65C",
+    "type": "PRC20",
+    "symbol": "BCDC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xa1069A93B0E44cc42bDceC90D010746d1b65a65C",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bcdc-defi/bcdc-contract"
+        }
+    ],
+    "chain": 369
+}

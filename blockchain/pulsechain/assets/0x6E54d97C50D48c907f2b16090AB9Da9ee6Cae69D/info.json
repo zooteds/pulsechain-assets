@@ -1,0 +1,10 @@
+{
+    "name": "Application Specific Internet Coin from Ethereum",
+    "symbol": "ASIC",
+    "id": "0x6E54d97C50D48c907f2b16090AB9Da9ee6Cae69D",
+    "decimals": 12,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x347a96a5BD06D2E15199b032F46fB724d6c73047.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x6E54d97C50D48c907f2b16090AB9Da9ee6Cae69D",
+    "chain": 369
+}

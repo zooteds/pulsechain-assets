@@ -1,0 +1,10 @@
+{
+    "name": "Pond Coin from Ethereum",
+    "symbol": "PNDC",
+    "id": "0x018ed6F8eC6C7bc4f972B61E3db9D0dD00B8d41B",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x423f4e6138E475D85CF7Ea071AC92097Ed631eea.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x018ed6F8eC6C7bc4f972B61E3db9D0dD00B8d41B",
+    "chain": 369
+}

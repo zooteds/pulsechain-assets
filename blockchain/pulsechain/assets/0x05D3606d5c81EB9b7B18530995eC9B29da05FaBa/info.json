@@ -1,0 +1,12 @@
+{
+    "name": "TomoChain",
+    "website": "https://tomochain.com",
+    "description": "Forked from Ethereum with Pulsechain. TomoChain cross-chain token",
+    "explorer": "https://scan.pulsechain.com/token/0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+    "type": "PRC20",
+    "symbol": "TOMOE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x05D3606d5c81EB9b7B18530995eC9B29da05FaBa",
+    "chain": 369
+}

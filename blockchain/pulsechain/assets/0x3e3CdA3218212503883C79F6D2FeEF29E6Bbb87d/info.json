@@ -1,0 +1,22 @@
+{
+    "name": "GpyxToken",
+    "website": "https://gpyx.money",
+    "description": "Forked from Ethereum with Pulsechain. GPYX is the native token of gpyx.money DeFi platform.",
+    "explorer": "https://scan.pulsechain.com/token/0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+    "type": "PRC20",
+    "symbol": "GPYX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/gpyxmoney"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://gpyx.money/gpyxlitepaper.pdf"
+        }
+    ],
+    "chain": 369
+}

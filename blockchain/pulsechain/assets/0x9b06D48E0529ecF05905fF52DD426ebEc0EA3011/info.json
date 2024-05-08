@@ -1,0 +1,12 @@
+{
+    "name": "XSwap",
+    "website": "https://xswap.app",
+    "description": "Forked from Ethereum with Pulsechain. This is Fair Version, 100% distributed to the community, with No team shares, No Pre-mine.",
+    "explorer": "https://scan.pulsechain.com/token/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+    "type": "PRC20",
+    "symbol": "XSP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+    "chain": 369
+}

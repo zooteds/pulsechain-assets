@@ -1,0 +1,12 @@
+{
+    "name": "Free Coin from Ethereum",
+    "symbol": "FREE",
+    "id": "0x1aaABae1A00EE8A6aEadAC6721f5655136ca7cf3",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x1aaABae1A00EE8A6aEadAC6721f5655136ca7cf3",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd. Social project to promote cryptocurrency usage and increase global wealth.",
+    "website": "https://www.FREEcoin.technology",
+    "chain": 369
+}

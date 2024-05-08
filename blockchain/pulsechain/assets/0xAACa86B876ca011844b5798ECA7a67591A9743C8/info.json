@@ -1,0 +1,12 @@
+{
+    "name": "BIOS",
+    "type": "PRC20",
+    "symbol": "BIOS",
+    "decimals": 18,
+    "website": "https://www.0xnodes.io",
+    "description": "Forked from Ethereum with Pulsechain. The utility token in the 0x_nodes ecosystem.",
+    "explorer": "https://scan.pulsechain.com/token/0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+    "status": "active",
+    "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+    "chain": 369
+}

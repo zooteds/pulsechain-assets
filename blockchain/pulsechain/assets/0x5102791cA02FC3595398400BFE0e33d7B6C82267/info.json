@@ -1,0 +1,12 @@
+{
+    "name": "LEADCOIN",
+    "symbol": "LDC",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. LeadCoin empowers businesses to sell their unused leads and buy hot leads from other businesses. Sellers automatically share their unused leads in real-time. LeadCoin\u2019s matching algorithm then analyzes and matches leads to buyers.",
+    "website": "https://www.leadcoin.network/",
+    "explorer": "https://scan.pulsechain.com/token/0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+    "status": "active",
+    "id": "0x5102791cA02FC3595398400BFE0e33d7B6C82267",
+    "chain": 369
+}

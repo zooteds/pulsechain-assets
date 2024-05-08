@@ -1,0 +1,12 @@
+{
+    "name": "LuaToken",
+    "website": "https://luaswap.org/",
+    "description": "Forked from Ethereum with Pulsechain. Multi-chain liquidity protocol for emerging token projects with no seed investment, founder\u2019s fees, or pre-mining.",
+    "explorer": "https://scan.pulsechain.com/token/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+    "type": "PRC20",
+    "symbol": "LUA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
+    "chain": 369
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Enjin Coin from Ethereum",
+    "symbol": "ENJ",
+    "id": "0x19B404912587A08757E98e39753Fc2B73Bbcd248",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x19B404912587A08757E98e39753Fc2B73Bbcd248",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c. The Enjin ecosystem (comprising the Enjin Platform, Explorer, Wallet, Beam) aims to empower gamers with ownership of digital assets and enables game industry businesses to increase revenue.",
+    "website": "https://enjin.io",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/enjin/contracts"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/enjincs"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/EnjinCoin/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/enjinsocial"
+        },
+        {
+            "name": "blog",
+            "url": "https://medium.com/@enjin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/enjin_coin"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://enjincoin.io/enjincoin_whitepaper.pdf"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/enjincoin/"
+        }
+    ],
+    "tags": [
+        "gamefi",
+        "nft"
+    ],
+    "chain": 369
+}

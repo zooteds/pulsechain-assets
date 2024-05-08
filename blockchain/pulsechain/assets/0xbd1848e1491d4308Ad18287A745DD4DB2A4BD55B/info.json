@@ -1,0 +1,12 @@
+{
+    "name": "MOchi MArket",
+    "symbol": "MOMA",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The multi-chain decentralized exchange ecosystem for non-fungible tokens",
+    "website": "https://mochi.market",
+    "explorer": "https://scan.pulsechain.com/token/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+    "status": "active",
+    "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+    "chain": 369
+}

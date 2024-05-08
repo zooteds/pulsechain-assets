@@ -1,0 +1,10 @@
+{
+    "id": "0x3d9a4D8ab4F5bd1D5D08Ae3A95e8ED8BB4d7e3B9",
+    "symbol": "STONKS",
+    "name": "STONKSDAO",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x3d9a4D8ab4F5bd1D5D08Ae3A95e8ED8BB4d7e3B9",
+    "chain": 369
+}

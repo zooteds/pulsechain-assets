@@ -1,0 +1,15 @@
+{
+    "name": "Request Token",
+    "symbol": "REQ",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. The Request Network itself is an Ethereum-based decentralized payment system where anyone can request a payment and receive money through secure means.",
+    "website": "https://request.network",
+    "explorer": "https://scan.pulsechain.com/token/0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+    "status": "active",
+    "id": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+    "tags": [
+        "defi"
+    ],
+    "chain": 369
+}

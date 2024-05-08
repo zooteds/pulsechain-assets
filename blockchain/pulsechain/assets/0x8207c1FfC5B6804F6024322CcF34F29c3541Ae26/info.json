@@ -1,0 +1,21 @@
+{
+    "name": "OriginToken",
+    "website": "https://originprotocol.com",
+    "description": "Forked from Ethereum with Pulsechain. Enabling peer-to-peer commerce",
+    "explorer": "https://scan.pulsechain.com/token/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+    "type": "PRC20",
+    "symbol": "OGN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/originprotocol"
+        }
+    ],
+    "chain": 369
+}

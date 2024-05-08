@@ -1,0 +1,12 @@
+{
+    "name": "Blaze Network",
+    "symbol": "BLZN",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://www.blazenetwork.info",
+    "explorer": "https://scan.pulsechain.com/token/0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+    "status": "abandoned",
+    "id": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+    "chain": 369
+}

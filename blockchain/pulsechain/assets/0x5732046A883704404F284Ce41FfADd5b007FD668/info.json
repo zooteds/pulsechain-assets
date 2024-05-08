@@ -1,0 +1,12 @@
+{
+    "name": "Bluzelle Token",
+    "symbol": "BLZ",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://bluzelle.com",
+    "explorer": "https://scan.pulsechain.com/token/0x5732046A883704404F284Ce41FfADd5b007FD668",
+    "status": "active",
+    "id": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+    "chain": 369
+}

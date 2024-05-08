@@ -1,0 +1,10 @@
+{
+    "name": "Coinbase Wrapped Staked ETH from Ethereum",
+    "symbol": "cbETH",
+    "id": "0x40D3dE7fa72a0CFD753D004cD1e8CF28B74f85d2",
+    "decimals": 18,
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x40D3dE7fa72a0CFD753D004cD1e8CF28B74f85d2",
+    "chain": 369
+}

@@ -1,0 +1,18 @@
+{
+    "name": "DEXTools from Ethereum",
+    "symbol": "DEXT",
+    "id": "0x4B888Dd7527644DE502aa89AbC6c9931db7E85Ae",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x4B888Dd7527644DE502aa89AbC6c9931db7E85Ae",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xfB7B4564402E5500dB5bB6d63Ae671302777C75a. Ultimate Hub and Defi App For Uniswap and DEX trading.",
+    "website": "https://dextools.io/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/DexToolsapp"
+        }
+    ],
+    "chain": 369
+}

@@ -1,0 +1,22 @@
+{
+    "name": "CREDI from Ethereum",
+    "symbol": "CREDI",
+    "id": "0x62E65104Ee3B478918449FF2fE23b4B3B8714d29",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x62E65104Ee3B478918449FF2fE23b4B3B8714d29",
+    "status": "active",
+    "description": "Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xaE6e307c3Fe9E922E5674DBD7F830Ed49c014c6B. Credefi connects crypto lenders with SME borrowers from the fiat economy. Their platform enables decentralized and secured lending to portfolios of businesses, protecting lenders while providing them fixed APY that is uncorrelated with crypto markets\u2019 volatility.",
+    "website": "https://credefi.finance/",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/credefi_finance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/credefi"
+        }
+    ],
+    "chain": 369
+}

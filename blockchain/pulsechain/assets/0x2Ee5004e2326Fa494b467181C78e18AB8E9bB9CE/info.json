@@ -1,0 +1,16 @@
+{
+    "name": "Axie Infinity Shard from Ethereum",
+    "symbol": "AXS",
+    "id": "0x2Ee5004e2326Fa494b467181C78e18AB8E9bB9CE",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x2Ee5004e2326Fa494b467181C78e18AB8E9bB9CE",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b. Axie Infinity Shards are Axie Infinity's governance token.",
+    "website": "https://axieinfinity.com",
+    "tags": [
+        "gamefi",
+        "nft"
+    ],
+    "chain": 369
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Chai",
+    "symbol": "CHAI",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "https://chai.money/",
+    "explorer": "https://scan.pulsechain.com/token/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+    "status": "active",
+    "id": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
+    "chain": 369
+}

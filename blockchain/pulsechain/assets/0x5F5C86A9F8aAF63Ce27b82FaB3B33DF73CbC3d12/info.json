@@ -1,0 +1,10 @@
+{
+    "id": "0x5F5C86A9F8aAF63Ce27b82FaB3B33DF73CbC3d12",
+    "symbol": "SPARK",
+    "name": "SPARKS",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x5F5C86A9F8aAF63Ce27b82FaB3B33DF73CbC3d12",
+    "chain": 369
+}

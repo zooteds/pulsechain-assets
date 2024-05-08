@@ -1,0 +1,12 @@
+{
+    "name": "Cum Inu from Ethereum",
+    "symbol": "CUMINU",
+    "id": "0x494446828937e82E5f65c27339DF51823b8aeE0A",
+    "type": "PRC20",
+    "decimals": 18,
+    "explorer": "https://scan.pulsechain.com/token/0x494446828937e82E5f65c27339DF51823b8aeE0A",
+    "status": "active",
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xd6327ce1fb9D6020E8C2c0E124A1eC23DCAb7536. UMINU\u2019s mission is to combine the best features of the major adult content sites into a \u2018one stop shop\u2019, entirely cryptocurrency based. CUMINU will differentiate itself from competitors by offering lower fees for models, a next-gen platform and new and novel content and ways for fans to interact with their favorite stars.",
+    "website": "https://cuminu.io/",
+    "chain": 369
+}

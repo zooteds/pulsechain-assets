@@ -1,0 +1,12 @@
+{
+    "name": "AntiscamToken (AST)",
+    "symbol": "AST",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. -",
+    "website": "",
+    "explorer": "https://scan.pulsechain.com/token/0xa872E0a44BBd66c1486a756CB5BD3F0bEEC4e32e",
+    "status": "abandoned",
+    "id": "0xa872E0a44BBd66c1486a756CB5BD3F0bEEC4e32e",
+    "chain": 369
+}

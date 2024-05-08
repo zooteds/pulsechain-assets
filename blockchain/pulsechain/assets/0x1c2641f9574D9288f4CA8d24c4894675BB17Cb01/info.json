@@ -1,0 +1,10 @@
+{
+    "id": "0x1c2641f9574D9288f4CA8d24c4894675BB17Cb01",
+    "symbol": "RICHAI",
+    "name": "RichAI",
+    "decimals": 18,
+    "type": "PRC20",
+    "description": "Forked from Ethereum with Pulsechain.",
+    "explorer": "https://scan.pulsechain.com/token/0x1c2641f9574D9288f4CA8d24c4894675BB17Cb01",
+    "chain": 369
+}

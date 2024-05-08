@@ -1,0 +1,12 @@
+{
+    "name": "American Akita",
+    "type": "PRC20",
+    "symbol": "USKITA",
+    "decimals": 9,
+    "website": "https://uskita.com",
+    "description": "Forked from Ethereum with Pulsechain. American Akita ($USKITA) is here to bring back the American Dream. We are a decentralized community-driven cryptocurrency with built-in automated rewards for its holders. Keep on holding USKITA in your wallet, and watch the amount increase over time. Our goal is to support Veterans, Dog shelters and so much more!",
+    "explorer": "https://scan.pulsechain.com/token/0xC18e7a03f8986798323658dD8645f93aa79Ac5C9",
+    "status": "active",
+    "id": "0xC18e7a03f8986798323658dD8645f93aa79Ac5C9",
+    "chain": 369
+}

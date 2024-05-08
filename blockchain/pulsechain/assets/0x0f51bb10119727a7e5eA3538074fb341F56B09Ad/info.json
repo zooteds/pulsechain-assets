@@ -1,0 +1,16 @@
+{
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. DAO Maker creates growth technologies and funding frameworks for startups, while simultaneously reducing risks for investors.",
+    "website": "https://daomaker.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+    "status": "active",
+    "id": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+    "tags": [
+        "defi",
+        "governance"
+    ],
+    "chain": 369
+}

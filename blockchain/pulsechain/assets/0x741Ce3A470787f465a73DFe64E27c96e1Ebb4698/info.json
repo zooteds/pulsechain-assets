@@ -1,0 +1,10 @@
+{
+    "name": "Pulse from Ethereum",
+    "symbol": "PULSE",
+    "id": "0x741Ce3A470787f465a73DFe64E27c96e1Ebb4698",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0x52A047Ee205701895Ee06A375492490EC9C597cE.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x741Ce3A470787f465a73DFe64E27c96e1Ebb4698",
+    "chain": 369
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PetLFG from Ethereum",
+    "symbol": "LICK",
+    "id": "0x53f8A09f43E3c16Ea7d1e3713292C86dFcdb229f",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. Bridged from Ethereum via https://bridge.pulsechain.com. Original Address - 0xC2D0eD2Cda1579169AB3C9f0E0Be0e575Db9718D.",
+    "type": "PRC20",
+    "explorer": "https://scan.pulsechain.com/token/0x53f8A09f43E3c16Ea7d1e3713292C86dFcdb229f",
+    "chain": 369
+}

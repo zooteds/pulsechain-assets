@@ -1,0 +1,12 @@
+{
+    "name": "PAID Network",
+    "symbol": "PAID",
+    "type": "PRC20",
+    "decimals": 18,
+    "description": "Forked from Ethereum with Pulsechain. PAID Network is a comprehensive business toolkit for all business transaction needs.",
+    "website": "https://paidnetwork.com/",
+    "explorer": "https://scan.pulsechain.com/token/0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787",
+    "status": "active",
+    "id": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787",
+    "chain": 369
+}
